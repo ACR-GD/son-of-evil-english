@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+# never commit ROMs or anything built from them
+*.bin
+*.sta
+build/
+tools/harness/harness
+# raw dumps of the original script: regenerate with tools/dump_script.py and
+# tools/find_ui_strings.py --json from your own ROM
+notes/script_zh.json
+notes/script_zh.txt
+notes/strings_zh.json
+notes/ui_strings_zh.json
+Screenshot*

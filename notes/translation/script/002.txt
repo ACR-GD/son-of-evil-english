@@ -1,0 +1,422 @@
+[1433BA]
+The three great arts are three formations: the Sky Array, the Rock Array and the Ice Array!
+
+[143406]
+It all depends on your fate, boy!
+
+[143428]
+When you leave, be sure to come see me!
+
+[14344E]
+So young, and already fighting your own fate... Remember! When you fall, just get back up!
+
+[143494]
+For over ten years the Hill Wraith has grown stronger, even daring to defy the Demon King! Finding him is easy: just follow this mark and you'll track him down.
+
+[143500]
+I understand your wish for revenge, but remember: don't let hatred blind your heart!
+
+[14353E]
+The road ahead will only get harder. Take these things with you.
+
+[143572]
+If there's nothing else, set off soon. Time is short!
+
+[1435A0]
+Remember! Good and evil are but one thought apart!
+
+[1435BC]
+Child, do you need me to join you?
+={>130}Yes{>169}No
+
+[1435FC]
+Then let these old bones do a little more for my old friend's son! Let's go.
+
+[143632]
+That's fine too. These old bones aren't much use anymore!
+
+[143658]
+Received a mural shard.
+
+[14366A]
+Used the Life Herb.
+
+[143676]
+Who are you?
+
+[143684]
+I... I'm Shen Hao.
+
+[14369C]
+Never mind, it's all fate. Your father asked me to give this to you in person...
+
+[143B16]
+Outsiders rarely come to Heyeping. What brings you here?
+={>130}Ask{>169}Leave
+
+[143B64]
+Go ahead.
+={>13}Heyeping
+={>13}Taoist Qiu
+={>13}Sacred Pool{>169}Leave
+
+[143B9E]
+Everyone here pursues a path: some chant to Buddha, some brew elixirs, some pray to Allah, some follow Christ... So outsiders call us "World Harmony Village".
+
+[143C14]
+He lives up by the lotus pond, in the house with the red door. But your timing is bad: he's in seclusion.
+
+[143C52]
+Why do you ask about that? It's in the Black Zone. Don't go near it! No one has ever come back alive!
+
+[143C98]
+People here don't like chatterboxes, got it?
+
+[143CBC]
+Cultivation isn't about the outside. It's what's inside that matters!
+
+[143CE2]
+In truth, everything comes down to your own heart! As they say, "Demons are born of the mind!"
+
+[143D28]
+Go ahead.
+={>13}Heyeping
+={>13}Taoist Qiu
+={>13}Sacred Pool{>169}Leave
+
+[143D62]
+This Taoist village is five hundred years old. If fate smiles on you, boy, you might even learn some secret arts!
+
+[143DB2]
+You probably can't see him. I think he's in seclusion.
+
+[143DD4]
+The Sacred Pool was once the main road to the next island. Now black poison mist covers it all year, and no one dares go there!
+
+[143E20]
+To cross the Sacred Pool you must deal with the mist first! Taoist Lan may help. He lives in the south of the village. Bring a gift, he's the greediest man alive!
+
+[143E9E]
+Past Heyeping lies the Black Zone... They say demons long asleep are waking, to greet the coronation of the legendary "Son of Evil".
+
+[143F1C]
+What's your question?
+={>13}The Black Zone
+={>13}The Son of Evil
+={>13}The coronation{>169}Leave
+
+[143F60]
+Men have their world, demons theirs. The Black Zone is the land the demons hold. Humans can't go there!
+
+[143FAE]
+The old "Records of the Underworld" say: "When the skies change and yin and yang reverse, a Son of Evil shall be born in flames to sweep away all things!"...
+
+[14401E]
+Sounds just like the end of the world, doesn't it?
+
+[144042]
+They say that when five reversed omens appear in the sky, the demon world will hold a great festival for the Son of Evil's coming. Then the demons will rule all things!
+
+[1440AE]
+I wonder, is there no way to stop it?... But the forces of darkness seem too strong... And people always think I'm fearmongering!
+
+[14410C]
+People always say, "Show us proof and we'll believe!" Must those who doubt hell really go see it before they'll believe?
+
+[14416A]
+Quiet, I'm thinking about the very questions you want to ask!
+
+[144198]
+Everyone's talking about this "Son of Evil". Some say the world is ending, some say it's an ad gimmick, some even say this son is a "human-demon hybrid"?! Someone's read
+
+[14421C]
+too much sci-fi! Ha ha! What a joke!...
+
+[144244]
+Go ahead.
+={>13}The Son of Evil
+={>13}Human-demon hybrid
+={>13}Sacred Pool{>169}Leave
+
+[144284]
+If you ask me, I don't believe a word of it. A blood-red meteor shining with the sun and moon? Just an illusion from the weather! Yet people make such a fuss over it!
+
+[1442F8]
+Some say the Son of Evil was born of man and demon, and sold his soul to the demons for power! So he holds the might of all three realms!... Those people should
+
+[14437C]
+write sci-fi. What nonsense!
+
+[144392]
+That place is no joke! The black mist never clears, and it's poisonous. Breathe it in, and if it doesn't kill you, it'll half kill you!
+
+[1443DC]
+People seldom keep their word. Truth and lies, rumors blown out of all proportion every day... so don't take anything too seriously!
+
+[144432]
+I wish someone would invent a pill that makes people talk less nonsense!
+
+[14445A]
+You feel an oilcloth bundle.
+
+[14446C]
+Should we open it and look?
+={>130}Yes{>169}No
+
+[1444A4]
+Poison gas suddenly sprays out!
+
+[1444B4]
+Just as well. Let's not ask for trouble! Throw it away!
+
+[1444DA]
+Fang Tiangong is poisoned.
+
+[1444E6]
+Furong is poisoned.
+
+[1444F0]
+Caiyi is poisoned.
+
+[1444FC]
+Hong Yuantong is poisoned.
+
+[144508]
+Taoist Qiu is poisoned.
+
+[144514]
+Hurmuzhu is poisoned.
+
+[144522]
+Wuming is poisoned.
+
+[14452C]
+Shen Hao is poisoned.
+
+[144536]
+Didn't Taoist Qiu ask us to stop by before we leave?
+
+[14456C]
+Hey! We still haven't found Taoist Qiu!
+
+[14458C]
+This old monk has gone wandering. Return date unknown.
+
+[1445A8]
+We're in no hurry. Let's look around some more!
+
+[1445CA]
+We still don't know how to deal with the bells at the Sacred Pool. Let's look around for a way!
+
+[1445FE]
+This is a quiet village for cultivation. If someday you feel troubled or uneasy, come back. You're sure to find peace here.
+
+[144806]
+Sigh... Why doesn't the one I love love me? Why can't I get what I want?... Am I fated to be this sad? Or does heaven just love cruel jokes?
+
+[144888]
+What is it, lad?
+={>13}Shilipu
+={>13}Heyeping
+={>13}Taoist Qiu{>169}Leave
+
+[1448CA]
+What is it, lad?
+={>13}Shilipu
+={>13}Heyeping
+={>13}Hong Yuantong{>169}Leave
+
+[14490C]
+This place is what it is. A thousand years from now it'll still look just the same!
+
+[144944]
+Don't you go there! It's full of people who can't let go! Life is hard enough, yet they insist on "cultivation", fasting and going without sleep. It's self-torture!
+
+[1449C2]
+Who? Never heard of him!
+
+[1449DC]
+Hey! Do you believe "there's no escaping fate"?
+
+[1449FE]
+Sigh... In this life, nothing goes the way you want!
+
+[144A22]
+I happen to have a "Third Eye" manual here. See through any foe at a glance! 300 gold, interested?
+={>130}Yes{>169}No
+
+[144A9A]
+Deal! Take it home and practice!
+
+[144AB4]
+The chance of a lifetime, and you turn it down? Takes all kinds...
+
+[144AF0]
+What brings you here today, Brother Shen?
+
+[144B0C]
+What is it you need, Brother Shen?
+
+[144B26]
+={>13}Nothing, just dropping by.
+={>13}Will you join my party again?
+={>13}Do you have any news for me?
+
+[144B7E]
+Of course. Let's go at once!
+
+[144B9C]
+...Sorry, nothing comes to mind right now.
+
+[144BC2]
+Not enough money?! Next time, then.
+
+[144D72]
+Excuse me...
+
+[144D82]
+Excuse what? What do you want? Don't you ever stop pestering?! If it's nothing, don't make a racket here!
+
+[144DB8]
+This gentleman sure has a temper.
+
+[144DD2]
+We hear you're looking for someone to do a job.
+
+[144DF0]
+You hairless babes? I'm warning you! Ten people have already failed, and none came back alive! But you look keen, so maybe you'll succeed!
+
+[144E70]
+It's simple: go to the Sacred Pool in the north and bring me a small copper box. This note says clearly how to find it...
+
+[144EF4]
+Do the job and I'll reward you handsomely.
+
+[144F16]
+Oh, and once you have the box, you must not open it! Bring it straight to me! Understood?
+
+[144F58]
+The Sacred Pool has two dangers: soul-stealing bells and the poison mist. I hear that destroying the Mother Bell on the tower's third floor will stop
+
+[144FDC]
+their deadly toll! But you must beat it before your strength runs out, or it'll end badly... As for the mist, go to Heyeping and find Taoist Lan.
+
+[145060]
+Well, get going! Why are you still dawdling?
+
+[14507A]
+If you don't want it, go away! Don't waste my time!
+
+[14509C]
+What? You're going again?
+={>130}Yes{>169}No
+
+[1450D4]
+You haven't kept your promise. Why come back?
+
+[1450FC]
+You're back!
+
+[14510C]
+Gave the old man the Copper Box.
+
+[14511C]
+Wonderful! As a reward, here is the "Heal Song", which wards off evil and cures all poisons. Practice it and you'll never fear poison again!
+
+[14517E]
+Lucky you didn't open it! They say this box holds the curse called "Ill Fate"! Whoever opens it meets with misfortune!
+
+[1451E2]
+I must study this carefully!
+
+[1451FA]
+You're back!... Ah! You've opened the box!
+
+[14522A]
+How did you know?!
+
+[14523E]
+Your faces are black with ill omen. Who wouldn't know? Why didn't you listen? That box holds the curse called "Ill Fate"! Whoever opens it meets with misfortune!
+
+[1452BE]
+Then what do we do?
+
+[1452D2]
+...Sigh... There's nothing I can do! You were too greedy!
+
+[145306]
+You're on your own. There's nothing I can do.
+
+[145328]
+Do some good deeds. Perhaps that will ward off disaster!
+
+[14534C]
+Received a Note.
+
+[145356]
+Thank you, sir, for giving us this chance!
+
+[145374]
+Learned the Heal Song.
+
+[14549E]
+Boy! Want your fortune told? Only 50 gold.
+={>130}Yes{>169}No
+
+[1454EC]
+...Strange... Two forces, good and evil, are locked in an endless struggle... I've never seen such a tangled fate...
+
+[145542]
+Luckily, good seems to have the upper hand for now. But... don't let your guard down, boy! One lapse, and you'll fall into an abyss with no return!
+
+[1455B0]
+Fortune and disaster are often decided in a single thought! Never forget it!
+
+[1455E4]
+...Sigh... Child, don't let evil thoughts bind you! I see black clouds slowly covering you!... You must break free of your fate!...
+
+[14564E]
+Fate needs luck, and even karma can change! It all depends on how you face it! The strong make their fate; the weak are made by it!
+
+[1456A4]
+In short: "Bound or free, it's all in your own heart." It depends on how you face it!
+
+[1456DE]
+That's all right... Come back when you want a reading.
+
+[1456FE]
+I can tell at a glance you're short of money. Come again next time.
+
+[145726]
+It must be fate. Take it.
+
+[1458A4]
+Hey! A room is only 30 gold. Have a rest!
+={>130}Rest{>169}Don't
+
+[1458EA]
+No money? And you dare come here without it?!
+
+[145906]
+...I... I suddenly feel so cold all over.
+
+[14592E]
+Shen Hao! What's wrong?
+
+[145944]
+Brother Shen! Your face looks so scary...
+
+[145966]
+Evil is slowly seeping into his heart! We must find the other Mani Jewels quickly!
+
+[145A94]
+What can I do for you?
+={>13}Trade
+={>13}Talk
+={>13}Leave
+
+[145AB6]
+What do you want to ask? Go on...
+={>13}Shilipu
+={>13}Further ahead
+={>13}Other{>169}Leave

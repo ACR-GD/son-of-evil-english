@@ -1,0 +1,395 @@
+# Glossary: see notes/translation/glossary.md
+[141048]
+Let me out! Let me out!
+
+[141060]
+I'm in here! Let me out!
+
+[14107C]
+Who's shouting from inside that urn?
+
+[141090]
+It's so dark in here! Boo hoo... let me out!
+={>130}Free{>169}Don't
+
+[1410D4]
+Hee hee hee! Thanks for letting me out, you little fools!
+
+[1410FA]
+A scream comes from upstairs.
+
+[14110A]
+Brats! You haven't seen the last of me!
+
+[141126]
+What?! Get away from that urn, quickly! That witch feeds on men's hearts!
+
+[14115A]
+Taoist Qiu has come out of seclusion. He's waiting for you upstairs.
+
+[141328]
+What can I do for you?
+
+[141338]
+Old Man Wuwang sent us to you. He said you could help us with the poison mist over the Sacred Pool.
+
+[141378]
+Tch! That old coot is always making trouble for me! It drives me mad!
+
+[1413A8]
+What do you want to know?
+={>13}Sacred Pool
+={>13}Poison mist
+={>13}A way through{>169}Leave
+
+[1413E4]
+Oh~ Is that so?...
+
+[1413F8]
+Will you give him something?
+={>130}Yes{>169}No
+
+[14142E]
+You must be joking! Who do you take me for?!
+
+[14144A]
+You think that little of me, do you?
+
+[141464]
+You have the nerve to offer me this?!
+
+[141480]
+Thanks, but you'd better keep that for yourself!
+
+[1414A2]
+Mm! Now that's proper manners! Oh, right! What was it you asked me just now?
+
+[1414D4]
+The Sacred Pool wasn't always like this! Seventeen years ago a black mist shrouded it. They say a treasure lies there, sealed by the demons with an evil array!
+
+[141554]
+The mist never clears. Breathe too much of it and your whole body turns black and you die! Worse, the bells of the Demon Bell Tower can also harm you without a trace!
+
+[1415C2]
+I have some Ward Pills. Hold one in your mouth before you enter the Sacred Pool and the mist can't harm you! But as for the demon bells, there's nothing I can do!
+
+[141632]
+What now?! I've already given you the stuff. What else do you want?!
+
+[14165E]
+Well...
+={>13}Could you spare more Ward Pills?
+={>13}Could you tell us a little more?
+={>13}Uh... thanks for everything{>169}Leave
+
+[1416C4]
+Do I look like a charity?! If you want them, pay up! Only 200 gold.
+={>130}Buy{>169}Don't
+
+[141720]
+Fine, I'll sell, reluctantly. Here are your Ward Pills...
+
+[14174C]
+Sorry! I have nothing to say!
+
+[141762]
+Don't you kids go touching other people's things! If you want it, name your price!
+
+[1417A2]
+You'll find this little thing comes in handy.
+
+[1417C2]
+Forget it! Come back when you're serious!
+
+[1417E4]
+Well? Got something to trade yet?
+
+[141800]
+Hey! Hands off!
+
+[141812]
+Received a Ward Pill.
+
+[141820]
+Received a Ward Pill.
+
+[14182C]
+Not enough money? Then don't even think about it!
+
+[141846]
+You hold the Ward Pill in your mouth, of course! Or did you think it goes up your nose? Blockhead, asking the same dumb question!
+
+[141892]
+Found the Earplugs.
+
+[14189C]
+Then we'll offer...
+={>26}50 gold
+={>26}70 gold
+={>13}100 gold{>169}No deal
+
+[1418EA]
+Wow~ What a generous price!... ...Not selling!
+
+[141918]
+A treasure like this, worth only that much? If you dare offer such a price, then I'll just have to... not sell!
+
+[141968]
+Young man, if your pockets are empty, don't play the hero and haggle like that...
+
+[141A96]
+I seek ambitious youths to inherit my peerless arts. You seem gifted. Care to learn an astounding art?
+={>130}Yes{>169}No
+
+[141B08]
+Good. But before I teach any of my methods, ancient custom demands you offer a tuition gift, as a sign of respect and sincerity...
+
+[141B5C]
+All right, we'll offer...
+={>13}400 gold
+={>13}500 gold
+={>13}600 gold{>169}Forget it
+
+[141BAE]
+What, only 400 gold? Very well, I'll teach you the basic Sealing Art. In battle it seals the enemy's arts so they can't use them.
+
+[141C2C]
+Not bad, you're sincere. Then I'll pass on my family's thousand-year secret: the Sealing Art! It binds the enemy's arts so you strike first and win!
+
+[141CB0]
+Splendid! For such sincerity I'll give you all I have: a forbidden spell from the dawn of time, the secret every sorcerer chases all his life: the Sealing Art!
+
+[141D2E]
+Legend says that in ancient times the gods used the Sealing Art to bind Pangu in the primal chaos. There Pangu grasped the laws of all things, broke the seal and...
+
+[141DB2]
+...set off the Big Bang, splitting heaven from earth. Pangu gave the Sealing Art to Nuwa, to pass on to the first human she made: my ancestor...
+
+[141E36]
+Nuwa named my ancestor after three beasts she had shaped, first the dragon, "Long". So the first man was surnamed Long, and his heirs are the heirs of the dragon...
+
+[141EB8]
+A seal that could bind Pangu is mighty beyond doubt, let alone one for the arts of mere demons and men... These are ancient legends, but they surely mean something!
+
+[141F36]
+But now heaven and earth are in upheaval and demons run rampant. Can the ancient arts still seal off all the evil in the world?... It truly worries me.
+
+[141F94]
+No?! If your stats weren't just right, I, Hong Mingcheng, wouldn't bother teaching you... Never mind! All in good time!
+
+[141FE4]
+Learned the Sealing Art.
+
+[141FF2]
+Ah! You don't have enough money~ Young man, the deeper the art, the higher the price. That's the way of the world! Decide on your level once and for all!
+
+[14206C]
+Learning one is enough. Why be so greedy?
+
+[14219E]
+I have the best armor: the Demon Robe art! Cast it and, hey! A demon robe covers you, so no one can see you or hit you!
+
+[142202]
+But know this: while you're invisible you can't attack either, or the robe vanishes. How about it? Only 300 gold...
+={>130}Buy{>169}Don't
+
+[142284]
+Make good use of all your armor and weapons, and you'll gain the upper hand.
+
+[1422BE]
+There, it's yours now...
+
+[1422DA]
+Fine, don't buy it. Someone who knows its worth may pay me better...
+
+[142316]
+Little brother, you don't have enough money. Come again next time!
+
+[14233C]
+Hey! Little brother, need anything?
+={>13}Trade
+={>13}Talk
+={>13}Other{>169}Leave
+
+[1424EA]
+Welcome! A rest is only 10 gold, very cheap...
+={>130}Yes{>169}No
+
+[142538]
+Then have a good rest! But please don't disturb the other guests.
+
+[142566]
+All right, no matter. But you look like you've come from far away. You'd better get a good rest!
+
+[1425B8]
+Ah! Not enough money?! Come again next time!
+
+[1425DA]
+Remember: "A fish dies because its mouth gets hooked, and so do people!" So always mind your tongue!
+
+[14262A]
+Ever counted how much time we'd save each day if we talked less nonsense, and how much less trouble we'd get into?
+
+[14267C]
+Hey! I've got something special here. Want a look?
+={>130}Yes{>169}No
+
+[1426C4]
+Here it is.
+
+[1426D2]
+He takes out a manual: "Gatesplit Spear".
+
+[1426EC]
+Well, interested? I'll sell it to you for 200 gold.
+={>130}Yes{>169}No
+
+[142734]
+...If anyone asks where you got this manual, don't you dare say I sold it to you!
+
+[142778]
+Never mind, then.
+
+[142786]
+Hey, what do you want?
+
+[14279C]
+...Um... Did you say you had something to sell just now?...
+
+[1427CE]
+What? Don't slander me! What would I have to sell?!
+
+[1427FA]
+Not enough money? Forget it, then!
+
+[142810]
+It feels good here. A quiet life puts me at ease. But I'm not thinking of becoming a monk just yet.
+
+[142C24]
+Learned the Ward Song.
+
+[142C32]
+Received an Elixir.
+
+[142C3E]
+May I help you?
+
+[142C52]
+I've come to see Taoist Qiu.
+
+[142C6A]
+I'm sorry, Taoist Qiu is in secluded meditation. Please wait a while. He should come out soon.
+
+[142CA6]
+Our lotus flowers are famous here. Have you seen them?
+
+[142CCA]
+In seclusion. Friends, please do not disturb.
+
+[142CE4]
+Taoist Qiu! Are you all right?
+
+[142CFC]
+How did that witch get out?
+
+[142D18]
+...I'm sorry... We didn't know...
+
+[142D40]
+Didn't know?! Do you know how many people "didn't know" has killed?!... *cough*...
+
+[142D7E]
+What do we do now?
+
+[142D92]
+That witch caught me off guard. I'm badly hurt. Unless I get the Life Herb from the Sacred Pool...
+
+[142DD4]
+......
+
+[142DE6]
+He's passed out.
+
+[142DF8]
+So you've come.
+
+[142E06]
+You knew we'd come?
+
+[142E1C]
+Yes. But you came much later than I expected.
+
+[142E46]
+......
+
+[142E58]
+...You are...
+
+[142E70]
+I'm Shen Hao. My father is Shen Junping......
+
+[142E9A]
+One moment. Let this old man sit up.
+
+[142EBC]
+Of course.
+
+[142EC8]
+You really do bring me trouble! Say what you came to say!
+
+[142EEE]
+My father has passed away. His dying wish was for me to find you.
+
+[142F1C]
+I know of it already. He left something with me.
+
+[142F46]
+They say it concerns the secret of another divine weapon.
+
+[142F6E]
+What would you like to know?
+={>13}Divine weapons
+={>13}Father's death
+={>13}Hill Wraith{>169}Leave
+
+[142FB6]
+What about...
+={>13}The rusted Sky Sword
+={>13}The Moon Blade
+={>169}Leave
+
+[142FFE]
+About the Moon Blade...
+={>13}Where it is
+={>13}The mural shard
+={>169}Leave
+
+[14304C]
+What about...
+={>13}The three great arts
+={>13}Where to learn them
+={>169}Leave
+
+[143096]
+The Sky Sword and Moon Blade were forged from unearthly "sky iron" and "sky bronze". Wielded together, they can split the sun and moon, heaven and earth!
+
+[14310E]
+I don't know who killed your father. But the day he gave me this, he said he was going to trace the jewels... I know nothing more.
+
+[143178]
+...Silly boy, you want revenge? With your skill, forget it... Unless you learn one of the three great arts. Then you might stand a chance against him!
+
+[1431EC]
+The Hill Wraith put a curse on the Sky Sword and weakened it. Our only hope is to find the Moon Blade first!
+
+[143232]
+They say the Moon Blade is a golden blade. When the Sky Sword and Moon Blade meet, they resonate, drawn together like yin and yang!
+
+[143288]
+"A blade in the water, a flame in the moon." That describes where the Moon Blade lies, but your father never worked out what it meant.
+
+[1432E4]
+Some say the Moon Blade is buried deep in a holy city at the bottom of a lake... but no one has ever known where.
+
+[143334]
+This mural shard is said to hold the secret of the Moon Blade, but no one can read it. Sigh! Had your parents found the blade, they'd not have feared the Hill Wraith!

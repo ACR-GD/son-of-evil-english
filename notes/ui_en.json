@@ -1,0 +1,1164 @@
+{
+ "_comment": [
+  "English for text that the program code references directly. Built by tools/ui.py.",
+  "strings: id = ROM address of the original. 'en' is a list of lines (same count as 'zh'), or null",
+  "  to keep the original. A line may be a list of segments [zh, en, (max px)]: each English",
+  "  segment is drawn where its Chinese segment started (menus copy fixed rectangles of the",
+  "  text canvas, so each segment must fit its slot; the build checks it).",
+  "  A 4th segment value forces its x (pixels from the line start).",
+  "  'adv' = [2-byte, 1-byte] advance used by that screen, to place segments.",
+  "  'max_px' = width limit for plain lines.",
+  "layout: byte overrides for the menu layout scripts (see tools/layout.py).",
+  "names: party names (menus/battle), 48 px each. descriptions: item help line, 144 px."
+ ],
+ "strings": {
+  "0B1608": {
+   "zh": [
+    "儲存"
+   ],
+   "en": [
+    [
+     [
+      "儲存",
+      "Save"
+     ]
+    ]
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "note": "main menu: greyed-out Save (over sheet line 2)"
+  },
+  "0B160E": {
+   "zh": [
+    "巨毒中毒"
+   ],
+   "en": [
+    [
+     [
+      "巨毒",
+      "Tox"
+     ],
+     [
+      "中毒",
+      "Psn"
+     ]
+    ]
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "note": "status ailments, coloured (over sheet line 4)"
+  },
+  "0B1618": {
+   "zh": [
+    "狀態招術裝備道具隊形",
+    "儲存檔案銅錢武器防具",
+    "攻擊防禦敏捷特性力 度 銖",
+    "巨毒中毒是 否 陽 陰 有 無",
+    "",
+    "",
+    "武功法術經驗特質"
+   ],
+   "en": [
+    [
+     [
+      "狀態",
+      "Stat"
+     ],
+     [
+      "招術",
+      "Skills"
+     ],
+     [
+      "裝備",
+      "Equip"
+     ],
+     [
+      "道具",
+      "Items"
+     ],
+     [
+      "隊形",
+      "Form"
+     ]
+    ],
+    [
+     [
+      "儲存",
+      "Save"
+     ],
+     [
+      "檔案",
+      "File"
+     ],
+     [
+      "銅錢",
+      "Gold"
+     ],
+     [
+      "武器",
+      "Arms"
+     ],
+     [
+      "防具",
+      "Gear"
+     ]
+    ],
+    [
+     [
+      "攻擊",
+      "ATK"
+     ],
+     [
+      "防禦",
+      "DEF"
+     ],
+     [
+      "敏捷",
+      "AGI"
+     ],
+     [
+      "特性",
+      "Trait"
+     ],
+     [
+      "力",
+      ""
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "度",
+      ""
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "銖",
+      "G"
+     ]
+    ],
+    [
+     [
+      "巨毒",
+      "Tox"
+     ],
+     [
+      "中毒",
+      "Psn"
+     ],
+     [
+      "是",
+      "Yes"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "否",
+      "No"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "陽",
+      "Yng"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "陰",
+      "Yin"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "有",
+      "Yes"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "無",
+      "No"
+     ]
+    ],
+    "",
+    "",
+    [
+     [
+      "武功",
+      "Arts"
+     ],
+     [
+      "法術",
+      "Magic"
+     ],
+     [
+      "經驗",
+      "EXP"
+     ],
+     [
+      "特質",
+      "Gift"
+     ]
+    ]
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "note": "menu word sheet printed at canvas (112,4); 16 px lines"
+  },
+  "0B1688": {
+   "zh": [
+    "頭部身體",
+    "手部腳部"
+   ],
+   "en": [
+    [
+     [
+      "頭部",
+      "Head"
+     ],
+     [
+      "身體",
+      "Body"
+     ]
+    ],
+    [
+     [
+      "手部",
+      "Hand"
+     ],
+     [
+      "腳部",
+      "Feet"
+     ]
+    ]
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "note": "equipment slots at canvas (208,68)"
+  },
+  "0B169A": {
+   "zh": [
+    "銅錢休息須要",
+    "是 否 買 賣",
+    "客官，您要什麼？"
+   ],
+   "en": [
+    [
+     [
+      "銅錢",
+      "Gold"
+     ],
+     [
+      "休息",
+      "Rest"
+     ],
+     [
+      "須要",
+      "Cost"
+     ]
+    ],
+    [
+     [
+      "是",
+      "Yes"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "否",
+      "No"
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "買",
+      "Buy",
+      24
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "賣",
+      ""
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "",
+      "Sell",
+      16
+     ]
+    ],
+    "What'll it be?"
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "max_px": 120,
+   "note": "shop/inn sheet at canvas (112,2). 'Sell' moved to canvas x=176 (layout patch)"
+  },
+  "0B16C4": {
+   "zh": [
+    " 銖攜帶裝備數量"
+   ],
+   "en": [
+    [
+     [
+      " ",
+      ""
+     ],
+     [
+      "銖",
+      "G"
+     ],
+     [
+      "攜帶",
+      "Held"
+     ],
+     [
+      "裝備",
+      "Equip"
+     ],
+     [
+      "數量",
+      "Qty"
+     ]
+    ]
+   ],
+   "adv": [
+    12,
+    4
+   ],
+   "note": "shop sheet at canvas (112,52)"
+  },
+  "0A16FC": {
+   "zh": [
+    "攻擊 防禦 招術 道具",
+    "移動 逃跑"
+   ],
+   "en": [
+    [
+     [
+      "攻擊",
+      "Fight",
+      30
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "防禦",
+      "Guard",
+      30
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "招術",
+      "Skill",
+      30
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "道具",
+      "Item",
+      30
+     ]
+    ],
+    [
+     [
+      "移動",
+      "Move",
+      30
+     ],
+     [
+      " ",
+      ""
+     ],
+     [
+      "逃跑",
+      "Flee",
+      30
+     ]
+    ]
+   ],
+   "adv": [
+    13,
+    6
+   ],
+   "note": "battle commands, canvas (4,66)"
+  },
+  "0B1DE0": {
+   "zh": [
+    "讀取進度",
+    "重新開始",
+    "是否"
+   ],
+   "en": [
+    "{>20}Load Game",
+    "New Game",
+    [
+     [
+      "是",
+      "Yes",
+      24
+     ],
+     [
+      "否",
+      ""
+     ],
+     [
+      "",
+      "No",
+      16,
+      21
+     ]
+    ]
+   ],
+   "adv": [
+    16,
+    8
+   ],
+   "max_px": 96,
+   "note": "load screen at canvas (3,3); title/Yes/No copy rectangles widened (layout); max_px is the title strip, \"New Game\" has 64 px"
+  },
+  "0B1EDE": {
+   "zh": [
+    "儲存進度",
+    "儲存完成",
+    "是否",
+    "儲存錯誤"
+   ],
+   "en": [
+    "{>36}Save Game",
+    "Saved.",
+    [
+     [
+      "是",
+      "Yes",
+      24
+     ],
+     [
+      "否",
+      ""
+     ],
+     [
+      "",
+      "No",
+      16,
+      21
+     ]
+    ],
+    "Save failed"
+   ],
+   "adv": [
+    16,
+    8
+   ],
+   "max_px": 128,
+   "note": "save screen at canvas (3,3); max_px is the title strip, lines 2 and 4 have 64 px"
+  },
+  "09D008": {
+   "zh": [
+    "裝備武器不合",
+    ""
+   ],
+   "en": [
+    "Can't equip that.",
+    ""
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "0A1C9E": {
+   "zh": [
+    "隊伍成員全部陣亡"
+   ],
+   "en": [
+    "The whole party has fallen..."
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A724": {
+   "zh": [
+    "得到"
+   ],
+   "en": [
+    "Got "
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A729": {
+   "zh": [
+    "銖銅錢"
+   ],
+   "en": [
+    " G"
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A8F4": {
+   "zh": [
+    "得到"
+   ],
+   "en": [
+    "Got "
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A8F9": {
+   "zh": [
+    "點經驗值"
+   ],
+   "en": [
+    " EXP"
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A9E2": {
+   "zh": [
+    "升到第"
+   ],
+   "en": [
+    " reached Lv. "
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09A9E9": {
+   "zh": [
+    "等級"
+   ],
+   "en": [
+    "!"
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09DD32": {
+   "zh": [
+    "ＨＰ "
+   ],
+   "en": [
+    "HP +"
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09DD38": {
+   "zh": [
+    " 點"
+   ],
+   "en": [
+    ""
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09DD3C": {
+   "zh": [
+    "ＭＰ "
+   ],
+   "en": [
+    "MP +"
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "09DD42": {
+   "zh": [
+    " 點"
+   ],
+   "en": [
+    ""
+   ],
+   "max_px": 224,
+   "note": "popup (box sized to the text, max 224 px)"
+  },
+  "0AF5A0": {
+   "zh": [
+    "咦！這画後面有東西‧‧"
+   ],
+   "en": [
+    "Huh? Something's behind it..."
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF5B7": {
+   "zh": [
+    "得到一本「慢影術法」"
+   ],
+   "en": [
+    "Got the 'Slow Shadow' spell"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF5CC": {
+   "zh": [
+    "這後面有字‧‧‧"
+   ],
+   "en": [
+    "Something's written here..."
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF5DD": {
+   "zh": [
+    "「水中之刀 火中之焰」"
+   ],
+   "en": [
+    "'Blade in water, flame in fire'"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF5F3": {
+   "zh": [
+    "使用耳塞"
+   ],
+   "en": [
+    "Used the Earplugs"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF5FC": {
+   "zh": [
+    "使用辟邪丹"
+   ],
+   "en": [
+    "Used the Warding Pill"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF607": {
+   "zh": [
+    "已使用過"
+   ],
+   "en": [
+    "Already used"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF69C": {
+   "zh": [
+    "先取得第三層的鑰匙。"
+   ],
+   "en": [
+    "First get the 3F key,"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF6B1": {
+   "zh": [
+    "再到第四層，"
+   ],
+   "en": [
+    "then go up to 4F"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF6BE": {
+   "zh": [
+    "將鑰匙插入壁上小孔。"
+   ],
+   "en": [
+    "and put it in the wall hole."
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF6D3": {
+   "zh": [
+    "底層之爪花露出小銅盒！"
+   ],
+   "en": [
+    "A copper box will appear!"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF6EA": {
+   "zh": [
+    "切記！‧‧‧"
+   ],
+   "en": [
+    "Remember this!..."
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF6F7": {
+   "zh": [
+    "取得此物，速交老夫！"
+   ],
+   "en": [
+    "Bring it to me at once!"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0AF70C": {
+   "zh": [
+    "絕不可擅自開啟！切記！"
+   ],
+   "en": [
+    "Never open it! Remember!"
+   ],
+   "max_px": 144,
+   "note": "item-use message, item help line (144 px)"
+  },
+  "0B084E": {
+   "zh": [
+    "單價 "
+   ],
+   "en": [
+    "Price "
+   ],
+   "max_px": 144,
+   "note": "shop price line"
+  },
+  "0B0854": {
+   "zh": [
+    "銖"
+   ],
+   "en": [
+    "G"
+   ],
+   "max_px": 144,
+   "note": "shop price line"
+  },
+  "0B0857": {
+   "zh": [
+    "非賣品"
+   ],
+   "en": [
+    "Not for sale"
+   ],
+   "max_px": 144,
+   "note": "shop price line"
+  }
+ },
+ "layout": [
+  {
+   "at": "0AD78B",
+   "w": 3,
+   "note": "shop: Buy 3 tiles"
+  },
+  {
+   "at": "0AD792",
+   "sx": 22,
+   "note": "shop: Sell moved to canvas x=176"
+  },
+  {
+   "at": "0B1C40",
+   "w": 3,
+   "sx": 0,
+   "note": "load title: 4 spaced 2-tile copies -> one 12-tile strip"
+  },
+  {
+   "at": "0B1C47",
+   "w": 3,
+   "sx": 3
+  },
+  {
+   "at": "0B1C4E",
+   "w": 3,
+   "sx": 6
+  },
+  {
+   "at": "0B1C55",
+   "w": 3,
+   "sx": 9
+  },
+  {
+   "at": "0B1E77",
+   "w": 4,
+   "sx": 0,
+   "note": "save title -> one 16-tile strip"
+  },
+  {
+   "at": "0B1E7E",
+   "w": 4,
+   "sx": 4
+  },
+  {
+   "at": "0B1E85",
+   "w": 4,
+   "sx": 8
+  },
+  {
+   "at": "0B1E8C",
+   "w": 4,
+   "sx": 12
+  },
+  {
+   "at": "0B19A3",
+   "w": 3,
+   "note": "Yes/No box: Yes 3 tiles"
+  },
+  {
+   "at": "0B19AA",
+   "sx": 3,
+   "note": "No from canvas x=24"
+  }
+ ],
+ "names": [
+  {
+   "zh": "",
+   "en": ""
+  },
+  {
+   "zh": "沈皓",
+   "en": "Shen Hao"
+  },
+  {
+   "zh": "方天弓",
+   "en": "Fang"
+  },
+  {
+   "zh": "芙戎",
+   "en": "Furong"
+  },
+  {
+   "zh": "彩衣女",
+   "en": "Caiyi"
+  },
+  {
+   "zh": "洪元通",
+   "en": "Hong"
+  },
+  {
+   "zh": "丘道人",
+   "en": "Qiu"
+  },
+  {
+   "zh": "呼爾穆珠",
+   "en": "Muzhu"
+  },
+  {
+   "zh": "無名",
+   "en": "Wuming"
+  }
+ ],
+ "descriptions": {
+  "0B0AF0": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0AF2": {
+   "zh": "恢復ＨＰ值５０點",
+   "en": "Restores 50 HP"
+  },
+  "0B0B04": {
+   "zh": "恢復ＨＰ值１５０點",
+   "en": "Restores 150 HP"
+  },
+  "0B0B18": {
+   "zh": "恢復ＨＰ值３００點",
+   "en": "Restores 300 HP"
+  },
+  "0B0B2C": {
+   "zh": "恢復ＨＰ值６００點",
+   "en": "Restores 600 HP"
+  },
+  "0B0B40": {
+   "zh": "恢復ＫＰ值３０點",
+   "en": "Restores 30 KP"
+  },
+  "0B0B52": {
+   "zh": "恢復ＫＰ值８０點",
+   "en": "Restores 80 KP"
+  },
+  "0B0B64": {
+   "zh": "恢復ＫＰ值１２０點",
+   "en": "Restores 120 KP"
+  },
+  "0B0B78": {
+   "zh": "恢復ＫＰ值２００點",
+   "en": "Restores 200 KP"
+  },
+  "0B0B8C": {
+   "zh": "ＨＰ、ＫＰ恢復１００點",
+   "en": "Restores 100 HP and KP"
+  },
+  "0B0BA4": {
+   "zh": "恢復ＭＰ值５０點",
+   "en": "Restores 50 MP"
+  },
+  "0B0BB6": {
+   "zh": "恢復所有數值",
+   "en": "Fully restores everything"
+  },
+  "0B0BC4": {
+   "zh": "恢復ＭＰ值１５０點",
+   "en": "Restores 150 MP"
+  },
+  "0B0BD8": {
+   "zh": "傳說能使死人復活之仙草",
+   "en": "Herb said to revive the dead"
+  },
+  "0B0BF0": {
+   "zh": "？？？",
+   "en": "???"
+  },
+  "0B0BF8": {
+   "zh": "解毒藥",
+   "en": "Cures poison"
+  },
+  "0B0C00": {
+   "zh": "解巨毒",
+   "en": "Cures severe poison"
+  },
+  "0B0C08": {
+   "zh": "戰鬥中使用的攻擊道具",
+   "en": "Attack item for battle"
+  },
+  "0B0C1E": {
+   "zh": "七顆摩尼宝珠之一",
+   "en": "One of the 7 Mani Jewels"
+  },
+  "0B0C30": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0C32": {
+   "zh": "開啟聖城秘室之契因",
+   "en": "Key to the Holy City vault"
+  },
+  "0B0C46": {
+   "zh": "打開囚禁張看之室",
+   "en": "Opens Zhang Kan's cell"
+  },
+  "0B0C58": {
+   "zh": "打開住持的櫃子",
+   "en": "Opens the abbot's cabinet"
+  },
+  "0B0C68": {
+   "zh": "打開民舍２的門",
+   "en": "Opens House 2's door"
+  },
+  "0B0C78": {
+   "zh": "打開隱藏秘道",
+   "en": "Opens a hidden passage"
+  },
+  "0B0C86": {
+   "zh": "開啟地道Ｆ室",
+   "en": "Opens tunnel room F"
+  },
+  "0B0C94": {
+   "zh": "古堡右側鑰匙",
+   "en": "Castle right wing key"
+  },
+  "0B0CA2": {
+   "zh": "古堡地下一樓的鑰匙",
+   "en": "Castle basement 1 key"
+  },
+  "0B0CB6": {
+   "zh": "地道宝箱的鑰匙",
+   "en": "Tunnel chest key"
+  },
+  "0B0CC6": {
+   "zh": "紀念品的鑰匙",
+   "en": "Souvenir key"
+  },
+  "0B0CD4": {
+   "zh": "古堡地下一樓的鑰匙",
+   "en": "Castle basement 1 key"
+  },
+  "0B0CE8": {
+   "zh": "可啟動六鼻鏡之占卜",
+   "en": "Activates the divining mirror"
+  },
+  "0B0CFC": {
+   "zh": "可抵擋神池之毒霧",
+   "en": "Wards off the poison mist"
+  },
+  "0B0D0E": {
+   "zh": "可塞住耳朵",
+   "en": "Plugs your ears"
+  },
+  "0B0D1A": {
+   "zh": "惡運之盒，無妄老人所要",
+   "en": "Ill-fated box Wuwang wants"
+  },
+  "0B0D32": {
+   "zh": "開啟四樓柱上小孔",
+   "en": "Fits a 4F pillar hole"
+  },
+  "0B0D44": {
+   "zh": "上面寫著幾行字",
+   "en": "A few lines are written on it"
+  },
+  "0B0D54": {
+   "zh": "古堡二樓的鑰匙",
+   "en": "Castle 2F key"
+  },
+  "0B0D64": {
+   "zh": "山水画",
+   "en": "A landscape painting"
+  },
+  "0B0D6C": {
+   "zh": "飾品",
+   "en": "Ornament"
+  },
+  "0B0D72": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0D74": {
+   "zh": "鉄辺城主城一樓Ｄ室鑰匙",
+   "en": "Tiebian keep 1F room D key"
+  },
+  "0B0D8C": {
+   "zh": "鉄辺城右城二樓宝箱鑰匙",
+   "en": "Tiebian east 2F chest key"
+  },
+  "0B0DA4": {
+   "zh": "鉄辺城主城一樓Ｂ室鑰匙",
+   "en": "Tiebian keep 1F room B key"
+  },
+  "0B0DBC": {
+   "zh": "鉄辺城主城一樓Ｆ室鑰匙",
+   "en": "Tiebian keep 1F room F key"
+  },
+  "0B0DD4": {
+   "zh": "時空販賣機鑰匙",
+   "en": "Time vending machine key"
+  },
+  "0B0DE4": {
+   "zh": "特殊道具",
+   "en": "Special item"
+  },
+  "0B0DEE": {
+   "zh": "又粗又長的繩子",
+   "en": "A long, thick rope"
+  },
+  "0B0DFE": {
+   "zh": "裝有磁石的儀器",
+   "en": "Device with a lodestone"
+  },
+  "0B0E0E": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0E10": {
+   "zh": "劍類武器",
+   "en": "Sword"
+  },
+  "0B0E1A": {
+   "zh": "刀類武器",
+   "en": "Blade"
+  },
+  "0B0E24": {
+   "zh": "棍類武器",
+   "en": "Staff"
+  },
+  "0B0E2E": {
+   "zh": "槍類武器",
+   "en": "Spear"
+  },
+  "0B0E38": {
+   "zh": "斧類武器",
+   "en": "Axe"
+  },
+  "0B0E42": {
+   "zh": "弓類武器",
+   "en": "Bow"
+  },
+  "0B0E4C": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0E4E": {
+   "zh": "頭部防具",
+   "en": "Headgear"
+  },
+  "0B0E58": {
+   "zh": "身體防具",
+   "en": "Body armour"
+  },
+  "0B0E62": {
+   "zh": "手持防具",
+   "en": "Shield"
+  },
+  "0B0E6C": {
+   "zh": "手部防具",
+   "en": "Hand armour"
+  },
+  "0B0E76": {
+   "zh": "腳部防具",
+   "en": "Footwear"
+  },
+  "0B0E80": {
+   "zh": "",
+   "en": ""
+  },
+  "0B0E82": {
+   "zh": "武功秘笈",
+   "en": "Martial arts manual"
+  },
+  "0B0E8C": {
+   "zh": "法術秘笈",
+   "en": "Spell manual"
+  },
+  "0B0E96": {
+   "zh": "内功：可增加攻擊防禦力",
+   "en": "Inner art: raises ATK, DEF"
+  },
+  "0B0EAE": {
+   "zh": "輕功：可增加敏捷度",
+   "en": "Lightness art: raises AGI"
+  }
+ }
+}

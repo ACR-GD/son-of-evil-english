@@ -1,0 +1,418 @@
+[145B00]
+Funny you should ask, I was about to tell you! I think you might want to try this opportunity!
+
+[145B40]
+A master in our town, "Old Man Wuwang", knows letters, arms and medicine, though he's a loner! He says whoever does a job for him will get a magic treasure!
+
+[145BC4]
+But no one has managed it yet! Want to give it a try?
+
+[145BF0]
+Think it over. Old Man Wuwang lives on the west side of town, next to the armor shop!
+
+[145C28]
+No one dares go there! They say bells there steal your soul! Little brother, don't you ever go there!
+
+[145C74]
+North of here is Heyeping, also called the Taoist Village. Be careful there and mind your tongue. Anger someone and they'll cast a spell that you'll regret!
+
+[145CE6]
+Hey! We met before in Qingjiang City!
+
+[145D06]
+You really took Old Man Wuwang's job? I'm not sure what it involves, but it must be pretty exciting, right? Good luck to you!
+
+[145D70]
+Tell you what: for a long, risky journey you'll want plenty of medicine, just in case. Let me give you some!
+
+[145DBE]
+Received Angelica.
+
+[145DC8]
+Received Goldthread.
+
+[145DD2]
+Set off early!
+
+[145DE2]
+I can't believe you actually did it! Come visit Shilipu when you have time!
+
+[145EAC]
+You see an axe manual in the cabinet.
+
+[145EBE]
+What? Interested in this?... Hmm, you look like fighters. If you want it, I'll let you have it for a token 120 gold!
+={>130}Yes{>169}No
+
+[145F40]
+Good, it's yours!
+
+[145F54]
+No matter. Maybe another time.
+
+[1461EA]
+I've been following you for a long time. I know about you, and I want to help.
+
+[146222]
+Ask whatever you like...
+={>13}Who are you?
+={>13}Why follow me?
+={>13}Why help me?
+
+[14625E]
+My name is Hong Yuantong. Three years ago a master told me to wait here today for a young man named Shen Hao. He said that together we'd achieve great things!
+
+[1462D4]
+I wanted to be sure you were Shen Hao. Stories of your deeds are all over the land. Someone's even using your name in advertisements!
+
+[14632C]
+What? Someone's copying me?!
+
+[14634A]
+Yes. Since you beat the demon monk in Qingjiang and slew the spider fiend in Water City, you're famous. People even wonder if you're the legendary Son of Evil.
+
+[1463C0]
+You've never thought about what power you really hold, have you? I'd like to take a bet against "destiny"! I don't believe in all that "fate" stuff!
+
+[14642E]
+Will you let me join you?
+={>130}Yes{>169}No
+
+[146464]
+Wonderful! Legend says a Mani Jewel lies in the black pool of the nearby Sacred Pool. Time is short, let's go at once!
+
+[1464BA]
+...Sigh, then I won't force you... The Sacred Pool nearby is shrouded in black mist and full of fierce monsters! But beneath the black pool lies a Mani Jewel...
+
+[146534]
+Be very careful when you go for the jewel.
+
+[14655A]
+Take care, all of you! I'm staying at the inn in town. If you have any questions, come find me anytime.
+
+[1465A4]
+There are still things we don't know. Shouldn't we look into them before we go...
+
+[1465D8]
+Help!
+
+[1465E2]
+Someone's calling for help!
+
+[1465F4]
+Mind your own business! Who knows if it's a trap!
+={>130}Help{>169}Ignore
+
+[146638]
+Help! Monsters!
+
+[14664C]
+Huh? Where did that man go?
+
+[146664]
+He ran off ages ago!
+
+[146674]
+What?! We fought half to death for him, and he didn't even say thanks?!
+
+[1466AE]
+Forget it! Forget it! We didn't save him for a thank-you anyway, did we?
+
+[1466F0]
+True! But it still doesn't feel right.
+
+[1468EA]
+You really need Key J.
+
+[1468FC]
+There's a round hollow in the wall.
+
+[146910]
+We have no treasure that fits this hollow!
+
+[146934]
+Set the Crystal in it?
+={>130}Yes{>169}No
+
+[14696A]
+Who summons the Six-Nosed Mirror that knows the future?
+I can answer one question. Only one.
+
+[1469A6]
+You ask...
+={>13}Am I really the Son of Evil?
+={>13}Where are the other jewels?
+={>13}Guide me to the future!
+
+[1469F8]
+Yes.
+
+[146A02]
+One is in the chest before me. The others are at the Sacred Pool, Tiebian Castle, Bronze Gorge and White Cliff.
+
+[146A44]
+You need the might of the Sky Sword and the gleam of the Moon Blade.
+
+[146A62]
+Three bright pearls will help you. Accept them into your party!
+
+[146A92]
+Use your will well, use your will well!
+
+[146AB2]
+Choose your companions with care!
+
+[146AC4]
+Beware the man who carries water.
+
+[146AD8]
+Ha! How gullible you are! Thanks for the crystal ball!
+
+[146EC6]
+A gap opens in the dragon pillar, glowing faintly.
+
+[146EE2]
+Demon priest! How long will you go on doing evil? Today I'll finish you!
+
+[146F14]
+That depends on whether you're up to it!
+
+[146F34]
+Help! Help! Don't kill me!
+
+[146F52]
+What do we do?
+={>13}Save her first
+={>13}Kill the monk first
+
+[146F74]
+Don't be afraid! I'll save you!
+
+[146F8C]
+Thank you...
+
+[146F9C]
+You! You tricked me...
+
+[146FBA]
+Blame your own stupidity! First rule of survival: know friend from foe!
+
+[146FE8]
+Sisters! This boy is heartless! Let's kill him! Chishe, come down and rest a while!
+
+[14702A]
+Hmph! So you're all in it together!
+
+[147046]
+A bit late to figure that out now! You brute who can't treat a lady kindly!
+
+[14707A]
+Brat! You dare kill my three beloved disciples! Now see what I do to you!
+
+[1470AE]
+Vile demons! Tricking me again and again, luring me into your trap. Utterly despicable!
+
+[1470EE]
+Evil brings its own ruin! Today you finally reap what you've sown!
+
+[14711A]
+Heh... heh... Stop pretending to be so righteous... You think I don't know who you are?... Son of Evil!
+
+[147160]
+Your hands will be stained with more blood than ours! And you dare preach virtue? Heh... heh... Hilarious!
+
+[1471B4]
+...
+
+[1471BE]
+He's dead.
+
+[1471CC]
+Will my hands really be stained with blood?
+
+[1471EA]
+A girl's cry suddenly rings out.
+
+[1479C2]
+Huh?! The sword Father gave me keeps shaking! ...Whoa! It's so strong I can barely hold it!
+
+[147A08]
+...What on earth just happened?...
+
+[147A2E]
+Whoa! Again!
+
+[147A40]
+...Could it have something to do with this mural?...
+
+[147A66]
+Let's go!
+
+[147A76]
+The Old Sword suddenly keeps shaking.
+
+[147A88]
+The old castle is being repaired, and many places are dangerous. Better not wander around...
+
+[147ACA]
+Much of the old castle is sealed off. Come back in a few days!
+
+[147D3C]
+Can I help you?
+
+[147D4C]
+What would you like to know?
+={>13}Water City
+={>13}Old castle
+={>13}Heyeping{>169}Leave
+
+[147D8A]
+Legend says Water City was built by immortals banished to the mortal world. Unable to match human cunning, they built this castle to keep themselves apart.
+
+[147DF6]
+They say it's full of treasures the immortals left behind! But no one has ever seen them!
+
+[147E30]
+That's quite far from here! You'll have to take a boat to Shilipu, then head north to Heyeping.
+
+[147E72]
+Young man, it's only me and my three daughters at home. Drop by for a chat sometime!
+
+[147EAE]
+You're sure to like my daughters!
+
+[147ECE]
+...Who are you?... How dare you come into a girl's room! Get out! People will talk!
+
+[147F12]
+Her mother invites us in, and she throws us out! Sigh! Life is hard!
+
+[147F40]
+Help me, good sir! Please save my poor daughters! Boo hoo...
+
+[147F7A]
+What happened?
+
+[147F8E]
+A demon monk just carried off my three daughters! Boo hoo...
+
+[147FC4]
+A demon monk?!... Could it be...
+
+[147FE4]
+Don't cry. Tell me, where did he go?
+
+[148008]
+I think I saw him run into the old castle...
+
+[14802C]
+Please save my poor daughters!
+
+[148470]
+A hidden door. You need Key D.
+
+[14848C]
+The chest is locked. You need Key H.
+
+[1484A4]
+You need Key G.
+
+[1484B2]
+You need Key E.
+
+[1486A6]
+In life, what we think and what we do often differ, and so do what we want and what we have... Where do you think the problem lies?
+
+[148702]
+Can I help you? What do you want to know?
+={>13}Water City
+={>13}Old castle
+={>13}The inn{>169}Leave
+
+[148748]
+I'm not sure. I'm just a stranger here... But then, where am I not?
+
+[14878E]
+I've searched it a hundred times! Never seen a trace of treasure!
+
+[1487BC]
+This inn's not bad, nice and clean. The only flaw is the landlady's poker face!
+
+[148800]
+Doesn't this city feel strange to you? I always feel it hides some secret...
+
+[148840]
+As the saying goes, "Curiosity killed the cat", so I try not to think too much.
+
+[14887E]
+Hey! A room is 30 gold.
+={>130}Yes{>169}No
+
+[1488B4]
+Hey! No money, no room!
+
+[1488CC]
+Nice weather, huh?
+
+[1488DC]
+What do you want with me?
+={>13}Water City
+={>13}Old castle
+={>13}Heyeping{>169}Leave
+
+[14891C]
+Why this city was built on the sea, and how, is a riddle no one can solve.
+
+[148970]
+There are many legends about that castle, but most agree it holds a treasure beyond price!
+
+[1489C2]
+A boat leaves here for the north every week. It sailed the day before yesterday, so come back and wait in a few days.
+
+[148A14]
+I'm sure this city has a remarkable past, beyond the grasp of ordinary folk...
+
+[148A52]
+I keep thinking of the saying "There's a heaven beyond heaven"... Were our ancestors telling us something? Could this city really be the work of gods?!
+
+[148AC6]
+Thanks for telling us! But we sailed here ourselves. We're just waiting for the waves to calm down!
+
+[148B08]
+I hear you reached the top of the old castle? You must have found lots of treasure!
+
+[148B34]
+So you beat everyone to the treasure! Times are hard for us common folk. Could you spare some?
+
+[148B7C]
+No gold or silver, but plenty of bored monsters. Go have a chat with them sometime.
+
+[148D26]
+Hey! We've met! In the teahouse at Baidao Pass!
+
+[148D4A]
+Want to know something?
+={>13}Who are you?
+={>13}Water City...
+={>13}To Heyeping{>169}Leave
+
+[148D92]
+About Water City...
+={>13}The old castle
+={>13}What's different?
+={>169}Other
+
+[148DDC]
+I'm Li Da, "Da" because I'm the eldest! I'm a traveling trader. What brings you here?
+
+[148E12]
+I'm going to Heyeping to find someone. Are you from here?
+
+[148E3A]
+No! I wander around. Wherever I end up is home! So free!
+
+[148E6A]
+I've been here many times, but this time it feels odd.
+
+[148E94]
+A boat goes north every week, but unluckily it just left the day before yesterday. You'll have to wait a few days.

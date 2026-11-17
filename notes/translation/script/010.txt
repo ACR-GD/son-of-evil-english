@@ -1,0 +1,483 @@
+[159B15]
+Come on, sir, a little more!
+
+[159B2B]
+...Hmm... Fine! I'll sell it cheap! You sure know how to haggle, sir!
+
+[159B63]
+Hmm... That's fair enough. All right! It's yours!
+
+[159B87]
+What?! That tattered book is worth that much?... Is there something special about it?... I won't sell! Not selling!
+
+[159BDB]
+You got yourself a bargain this time, sir! It's worth far more than you paid!
+
+[159C0B]
+I said I won't sell, and I won't!
+
+[159C1F]
+Hand over your silver! Or I start cutting!
+
+[159C49]
+You?!...
+
+[159C57]
+Lad, didn't I tell you "don't go anywhere"? Let's slaughter the little lamb!
+
+[159C8B]
+Kid! You haven't seen the last of us!
+
+[159CA1]
+Ah! Not enough money?! Come again next time!
+
+[159CC3]
+Learned Stone Shot.
+
+[159CD0]
+You don't have enough money, sir. Come again next time!
+
+[159F4C]
+You seem in a hurry, sir, as if something weighs on you. Would you care to talk with this old monk?
+
+[159F80]
+...I don't know... I just feel like something is about to happen...
+
+[159FBB]
+Your face shows two forces, good and evil, warring within... Sir, the world is perilous! Be careful in all you do!
+
+[15A015]
+...D-don't scare me like that!
+
+[15A032]
+I've studied the Book of Changes for fifty years. I don't speak idly!... Your bones say "changed by water": wherever there is much water, your fate will turn...
+
+[15A0B6]
+But whether for good or ill depends on your choices!
+
+[15A0DA]
+...A place with much water?... Changed by water...
+
+[15A0FF]
+Sir, always remember: good or ill, it all rests on a single thought!
+
+[15A133]
+Sir, would you donate to the temple?
+={>130}Yes{>169}No
+
+[15A16B]
+Donated 5 gold to the temple.
+
+[15A17C]
+Thank you! Thank you!
+
+[15A18C]
+I'm hungry!
+
+[15A19C]
+Would you like to draw a fortune slip, sir?
+={>130}Yes{>169}No
+
+[15A1D8]
+={>30}(Read the fortune slip)
+
+[15A1F5]
+By this slip, you are a dragon among men, sir. Your future is boundless! The people's hopes rest on you!
+
+[15A239]
+If you ask about your future, don't worry. Someone great will surely come to your aid!
+
+[15A26B]
+This slip is half good, half bad. Be careful on your way, sir, and ill may turn to good!
+
+[15A29D]
+It seems some evil is about to be born. Be careful!
+
+[15A2C1]
+Sigh...
+
+[15A2CB]
+Bad! Very bad!
+
+[15A2DD]
+Sir, drawing a slip is a solemn act. You can't treat it as a game and draw again when you dislike it!
+
+[15A31A]
+Sir, worship the Buddha devoutly and you'll receive wondrous blessings!
+
+[15A346]
+="Spring thunder rolls, the wind blows,
+=the dragon wakes, the tiger starts;
+=wind and cloud unite to save the people."
+
+[15A380]
+="The sleeping dragon is born,
+=its horns now grown; clouds rise,
+=rain falls, and the people are saved."
+
+[15A3B2]
+="Rise up, rise up, go forth, make allies;
+=two hands to hold up the pillar of heaven,
+=your name will live on in history."
+
+[15A3F0]
+="In danger, fret not; why fear the waves?
+=If you meet one who shares your road,
+=the path to the clouds is near."
+
+[15A426]
+="Hard, hard, hard: waves rise on flat land.
+=Easy, easy, easy: with a laugh,
+=hope will come in the end."
+
+[15A45C]
+="Toil of heart and hand, toil brings
+=success; borrow strength from the breeze,
+=and laughter lies ahead."
+
+[15A48A]
+="One thought to heaven, one to hell;
+=hell or heaven decides honor or shame.
+=Make your own resolve true;
+=do not drift along with others."
+
+[15A4D8]
+="Walking lonely ways, you suddenly
+=take fright; if wolves block the road,
+=only slaying them will satisfy."
+
+[15A50E]
+="Wind rises in the northwest,
+=red flames fill the sky; in ill there is
+=good, and in good there is ill."
+
+[15A53C]
+="Hard is the road, hard is the road;
+=today you know how hard the road is.
+=Why fear? The way ahead is wide;
+=strive today to pass this trial."
+
+[15A582]
+="Shallow water stirs up waves, thorns
+=grow on flat ground; weigh your words,
+=lest strife begin for no reason."
+
+[15A5B8]
+="Hard times: tremble with care,
+=as if treading on thin ice.
+=Know the road ahead is perilous:
+=a single lamp in the wind."
+
+[15A78C]
+Who are you? How did you get into my house?
+
+[15A7A8]
+Answer:
+={>13}I wanted to see your lovely home.
+={>12}Sorry! Wrong house!
+={>12}I'd like to chat.
+
+[15A7E8]
+Oh, then look around as you like.
+
+[15A802]
+Sorry! I'm busy! Please leave!
+
+[15A81E]
+Did they rewrite how RPGs work?
+
+[15A83A]
+What do you want?
+={>130}Ask{>169}Leave
+
+[15A86A]
+Ask quickly. I'm short on time.
+={>13}Qingjiang City
+={>12}Baidao Pass
+={>12}Blood meteor{>181}Leave
+
+[15A8B8]
+What do you want to ask?
+={>12}Shangguan Village
+={>12}Your relative
+={>167}Leave
+
+[15A8F2]
+What do you want to ask?
+={>12}The waiter
+={>12}Bandits
+={>167}Leave
+
+[15A92C]
+I don't really know. But a relative of mine in Shangguan Village went there a while ago. Ask him, he may know more.
+={>130}Other{>169}Leave
+
+[15A99E]
+Baidao Pass used to be quiet, but lately all sorts pass through! Sigh, the world's going downhill and people get worse every day!
+={>130}Other{>169}Leave
+
+[15AA0A]
+If you're interested, go see my relative. I hear they found something strange in their village recently!
+
+[15AA5C]
+Shangguan Village is a few miles north of here.
+
+[15AA7A]
+My relative's name is Shangguan Ming. Just say you're Amu's friend.
+
+[15AAA8]
+I don't like him, he talks too much!... I hear the day before yesterday he found a book a guest left behind. He can barely read, so he's asking around what it says!
+
+[15AB14]
+The harvests have been poor these years, and many who can't make a living turn to robbery! Still, being unable to live doesn't mean you can stop others living!
+
+[15AB76]
+Nice to meet you, but I have things to do. Please come again another time. I have to go out.
+
+[15ABB8]
+Hey! Hey! Hey! Don't touch that!
+
+[15ABD4]
+...Thief! Stop, thief!
+
+[15AE2E]
+Lad, where are you headed?
+
+[15AE46]
+I'm going to Qingjiang City.
+
+[15AE59]
+What? You mustn't! It's too dangerous there!
+={>130}Ask{>169}Leave
+
+[15AE97]
+Something you need, lad?
+={>12}The danger
+={>12}What is this place?
+={>12}Blood meteor{>181}Leave
+
+[15AEDC]
+What do you want to ask?
+={>13}The epidemic
+={>12}A cure
+={>182}Leave
+
+[15AF18]
+A strange illness broke out in Qingjiang not long ago, and many died! Now no one dares go there!
+
+[15AF5C]
+This is Baidao Pass, a little way station where travelers rest.
+
+[15AF88]
+I was drunk that night and didn't see it. But from what I hear, something's not right.
+
+[15AFBE]
+First they complain of a headache, then they slowly fall unconscious! In a few days they're dead.
+
+[15B002]
+I don't really know. But it's a strange illness! Don't you think?
+
+[15B032]
+Lad! I say don't go!
+
+[15B04E]
+Have pity on me. I'm so hungry...
+
+[15B06E]
+Give him some money?
+={>143}Yes{>169}No
+
+[15B0A0]
+Gave the old beggar 1 gold.
+
+[15B0B4]
+Thank you, child! You're so kind! Tell you what: feel behind the tree behind me. There's a bundle there. It's no use to me now, so it's yours.
+
+[15B114]
+Received a bundle.
+
+[15B11D]
+Child! Always keep a compassionate heart!
+
+[15B13B]
+In this life, fortune is uncertain. Little brother, doing good deeds is never wrong.
+
+[15B16F]
+Private property. Keep out!
+
+[15B262]
+This water is poisonous! Back off...!
+
+[15B27A]
+Then how will we find the jewel...
+
+[15B29C]
+Took out the Earplugs.
+
+[15B2AA]
+...Ah! What's... happening...
+
+[15B2C4]
+...What on earth is going on?!...
+
+[15B2E4]
+Heh! Heh! My child! Stop this useless struggle! When the time comes, you will come to my side...
+
+[15B330]
+You...! Who are you?!
+
+[15B346]
+Heh! Heh! You don't know me?! My child! I shall be the most beloved father of your life! The King of Darkness!
+
+[15B396]
+Pah! Dream on! I'll never listen to you!
+
+[15B3BC]
+Heh! Heh! Why bother? In my hands you are so very weak!... You can't escape your fate! You will be my favorite son! I'll lead you to taste the sweetest flavor of
+
+[15B440]
+evil!... Heh! Heh! How can you escape? It was decided a thousand years ago!... It is destiny, you are mine!... Heh! Heh!... Destiny!...
+
+[15B726]
+Huh... strange...!
+
+[15B73E]
+Shall we see what's inside the copper box?
+
+[15B760]
+No! Didn't Old Man Wuwang tell us never to look?
+
+[15B790]
+Shen Hao! Should we look?
+={>132}No{>170}Yes
+
+[15B7C8]
+Aaah...
+
+[15B7DE]
+It's over! We're ruined!!
+
+[15B7F8]
+What happened? What happened?
+
+[15B816]
+I don't know! But I know we'll have a hard time explaining this to Old Man Wuwang!!
+
+[15B850]
+There seems to be something else inside, but it's locked...
+
+[15B872]
+......
+
+[15B882]
+With the Earplugs in you can't hear anyone! Take them out?
+={>130}Yes{>169}No
+
+[15B8D0]
+What did you just say?
+
+[15BB74]
+...This must be the demon bell Old Man Wuwang spoke of.
+
+[15BB96]
+Whoa! This bell is really creepy...!
+
+[15BBB6]
+The soul-stealing toll seems to have stopped too...!
+
+[15BBD6]
+......
+
+[15BBE6]
+With the Earplugs in you can't hear anyone! Take them out?
+={>130}Yes{>169}No
+
+[15BC34]
+What did you just say?
+
+[15BD6A]
+Who disturbs me?...
+
+[15BD80]
+You must want to die! Making trouble in my lair! Prepare to perish!
+
+[15BDAE]
+Whew! What a stinking monster! With it gone, the whole world feels fresher...
+
+[15BDEC]
+There's a keyhole ahead...
+
+[15BE06]
+It's unlocked!!
+
+[15BE1A]
+You need Key K.
+
+[15BE28]
+......
+
+[15BE38]
+With the Earplugs in you can't hear anyone! Take them out?
+={>130}Yes{>169}No
+
+[15BE86]
+What did you just say?
+
+[15C1DA]
+I've always believed: "A person full of self-confidence finds meaning in everything he does."
+={>129}Ask{>173}Leave
+
+[15C246]
+I like helping people. Go ahead!
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15C29A]
+Everyone here loves inventing and research. Maybe because there's no school, we all teach ourselves!
+
+[15C2FE]
+Hmm, this mark... looks familiar! I'm sure I've seen it!... But sorry, I can't remember where.
+
+[15C366]
+I've never heard of that. We never deal with the outside world here, so there's a lot we don't know.
+
+[15C3AA]
+Sorry, I really can't remember where I saw it.
+
+[15C3CE]
+I just love the little girl in this house! So bright! Too bad I have no grandson, or I'd make her my granddaughter-in-law!
+={>129}Ask{>173}Leave
+
+[15C452]
+Go on, ask.
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15C496]
+Go anywhere you like, just not the inn! The people there are so decadent! It makes this old woman furious! Don't you go drinking with them at your age!
+
+[15C508]
+This old woman doesn't know!
+
+[15C52C]
+Never heard of it! Go ask someone else! How would an old woman know?
+
+[15C570]
+Go! Go! Ask someone else!
+
+[15C594]
+I always tell my son, "Rather than brood over a problem, find a way to solve it."
+
+[15C5D8]
+If something troubles you, face it! In truth, all dark feelings come from fear!
+
+[15C63E]
+Remember! "With no hindrance in the mind, there is no fear, and you leave delusion far behind!"
+
+[15C682]
+Huh? It's getting dark so early today?!
+
+[15C6A8]
+No! I think this is bad!

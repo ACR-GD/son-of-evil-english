@@ -1,0 +1,439 @@
+[163146]
+What should we do?
+
+[16315A]
+Didn't someone just say the walls of this well are loose, and told us not to get too close?
+
+[16319C]
+Let's climb down with a rope!
+
+[1631B0]
+Thank you so much! The old man's been heartbroken that his granddaughter went missing!
+
+[1631E0]
+Grandpa... Grandpa...
+
+[16351C]
+Got any work for me?... No pay needed, just food and a roof!
+
+[163558]
+Is there anything I can help you with?
+={>13}Old Salt Lake
+={>13}Crescent Lake
+={>13}The holy land{>169}Leave
+
+[1635A2]
+I'm definitely leaving this place. In this godforsaken spot I'll starve sooner or later!
+
+[1635E6]
+It's that big lake to the south! It's ringed by high mountains. No one has ever been to the far shore. Nobody knows what's there!
+
+[16363A]
+A holy city?! I think you've read too many fantasy novels, pal!
+
+[163664]
+Why can't anything last?... Always gaining, losing, gaining, losing...
+
+[1636A8]
+I don't know who left this here. Since you like it, take it.
+
+[1636D8]
+Nothing to do, so why not sleep?
+
+[1636F2]
+So tired... Let's rest a bit!
+
+[16370E]
+...z.z..Z.Z..zz..ZZ..z.z..Z.Z..
+
+[163832]
+Have you seen my little granddaughter?... So strange! She said she was going to rescue her doll, and then she just vanished.
+
+[163886]
+A doll?...
+
+[163896]
+Yes, a rag doll. Her favorite.
+
+[1638B6]
+Have you seen my granddaughter?
+
+[1638CC]
+Thank you! If not for you, my precious granddaughter would be dead!
+
+[1638FE]
+Thank you! You saved me and my doll!
+
+[16391E]
+Is there anything I can help you with?
+={>13}Old Salt Lake
+={>13}Crescent Lake
+={>13}The holy city{>169}Leave
+
+[163968]
+Sigh... I watched this salt lake boom and fade... A pity! Just as people grow old and are cast aside, the salt works too will end up abandoned!
+
+[1639D0]
+There's a lovely legend about the lake. One day an immortal in heaven dropped her mirror by accident. It fell to earth and became Crescent Lake.
+
+[163A3E]
+...As a child I heard that legend, just as a story! They said the holy city had a fountain of youth that cured all ills and made you young! But no one
+
+[163AC2]
+ever saw it, let alone went there!
+
+[163AE4]
+Kids, you should head home. There's no road further on!
+
+[163B18]
+Work hard while you're young, or you'll end up like me, scared only once you're old!
+
+[163C84]
+Leave the bottom of the well?
+={>130}Yes{>169}No
+
+[163CB6]
+Strange. I clearly heard someone call for help. Why isn't anyone here?
+
+[163CE8]
+Yes!... And now there's no more shouting?...
+
+[163D16]
+Maybe we heard wrong? I think we should go back up.
+={>130}Yes{>169}No
+
+[163D62]
+I don't think so! Besides, that old man was desperate to find his granddaughter!
+
+[163D9A]
+Maybe there's more to this well. Let's check it out!
+
+[163DC2]
+But how will we get back up?...
+
+[163DE2]
+Is someone calling for help?
+
+[163DF6]
+Yes! We're at the bottom of the well...
+
+[163E10]
+What?... Wait...
+
+[163E24]
+Grab the rope and climb up!
+
+[163E3C]
+We'll have to do it the old-fashioned way...
+
+[163E5A]
+Grandpa... Grandpa... I want Grandpa... I want to go home to Grandpa...
+
+[163E8C]
+Help! Help!
+
+[163EA2]
+Young Master, why do you linger here? Please hurry to the holy city of the demon realm. Surely His Majesty awaits you there!
+
+[163EF8]
+I'm not your Young Master. If you know what's good for you, let the girl go, or this blade won't spare you!
+
+[163F46]
+Why waste words on him? Let's just cut our way through!
+
+[163F6E]
+Young Master, don't listen to their slander...
+
+[163F8A]
+Welcome, Young Master! Your servant has long awaited you here.
+
+[163FB4]
+Who are you? And who's your Young Master?
+
+[163FD2]
+I am the Hall Dancer. Not long ago you freed me from the urn, Young Master, and I know not how to repay you! I have awaited your arrival here.
+
+[16402A]
+So you're the one trapped in Taoist Qiu's urn?
+
+[16404E]
+I am the Hall Dancer, ordered to await your arrival here, Young Master.
+
+[164078]
+Hall Dancer?!
+
+[16408A]
+Young Master, by decree I brew an elixir here, to present to you on your coronation day as the supreme gift!
+
+[1640D2]
+An elixir?
+
+[1640DE]
+It takes the pure yin of maidens and the deathly cold of this cave, and eighty-one days to complete. It grants eternal life! Every demon dreams of such a treasure!
+
+[16415E]
+So all the missing girls along the way were the work of your henchmen!
+
+[1641A2]
+Young Master, it seems many obstacles have hindered your great destiny on your journey. Or by now you'd shine with an emerald glow, yet it seems barely there!
+
+[164216]
+Young Master, heed your servant: hurry to the holy city of the demon realm. I'll follow once my work is done.
+={>130}Yes{>169}No
+
+[16427C]
+Do you regret it?
+={>130}Yes{>169}No
+
+[1642AC]
+Brazen demon, how dare you commit such an outrage!
+
+[1642DA]
+Fiend, hand over the girls and we may spare your life!
+
+[16430A]
+Heh heh! So it's you bad friends who keep getting in the way of the Young Master's training!
+
+[16433E]
+The girls are all with the Elixir Demon. But I don't think you'll ever see them.
+
+[16436E]
+Learned Slow.
+
+[16437C]
+Learned the Heal Song.
+
+[16438A]
+There seems to be a passage here!!
+
+[1643A4]
+I wonder where it leads??
+
+[1643BC]
+Let's help the old man find his granddaughter first!
+
+[1643EA]
+Little girl, hurry home! Your grandpa is waiting for you.
+
+[1647B0]
+This design looks familiar. It looks like the mural shard... Maybe... Let me try...
+
+[164804]
+Set the mural shard in place.
+
+[164AC2]
+Great! This must be the Moon Blade!
+
+[164AE8]
+But... I can't pull it out!
+
+[164B04]
+What do we do? It won't come out?!
+
+[164B20]
+There's a hollow here. I wonder what it's for!
+
+[164B46]
+Huh?... Could it be...
+
+[164B62]
+...You've finally done it...
+
+[164B7C]
+Who are you?
+
+[164B8A]
+I am the spirit of the Sky Sword and Moon Blade. I exist only when the two are united. In other words, the two weapons are one.
+
+[164BDA]
+What do you want to know?
+={>13}Sword and Blade
+={>13}The Demon King
+={>13}The coronation{>169}Leave
+
+[164C1C]
+What do you want to know?
+={>13}Rising from below
+={>13}The prophecy
+={>13}Other{>169}Leave
+
+[164C5E]
+What do you want to know?
+={>13}The fire dragon
+={>13}Good or evil?
+={>13}Other{>169}Leave
+
+[164C9E]
+The Sky Sword and Moon Blade are one body. Neither can do without the other. As yin needs yang, only when both sides unite is it whole.
+
+[164CF2]
+However strong a man is, there's always something he fears. And however weak, with the right conditions he can still win!... Do you understand?...
+
+[164D68]
+The scriptures say the coronation comes at the eclipse. When darkness rises from below, the Son of Evil inherits the demons' power! Then the whole world faces
+
+[164DEC]
+destruction!
+
+[164DF6]
+They say the demon castle lies 84,000 miles underground, where all is twisted and shaped by will. Those who walk there often get lost, not knowing where they are.
+
+[164E62]
+The demon scriptures say: "After a thousand years, five omens fall, and the Son of Evil, uniting three realms, descends on a fire dragon.
+
+[164EE6]
+Good or evil, none can tell. At his coronation the demon wheel turns, burning all the world. None can stop it."
+
+[164F08]
+Legend says it is the Son of Evil's steed. You will meet it, for fate draws you together.
+
+[164F4A]
+Facing the unknown future, let your heart guide you... Know this: every seed lies hidden in your own heart...
+
+[164FA0]
+You can change your fate. In the far northwest is an island with a spring that hasn't frozen in a thousand years. They say its water can cleanse the soul...
+
+[165012]
+Whoa! The Sky Sword is so sharp now! And it's not as heavy as before!
+
+[165046]
+Beyond lies the King of Darkness. Bronze Gorge, lair of Tiansha and Disha, is deadly. Remember... quickly destroy the evil fire atop the tower, or it will
+
+[1650CA]
+swallow you into the depths of the earth...
+Go, child, and be careful...
+
+[165100]
+Try inserting the Sky Sword...
+
+[16511A]
+Received the Sky Sword.
+
+[165442]
+Ah! A sandstorm!
+
+[165454]
+...What do we do?
+
+[16546E]
+We're only one Mani Jewel short now. Let's hurry, everyone!
+
+[1654A0]
+But where is the last Mani Jewel?
+
+[1654C8]
+...Sometimes I can't help wondering, can I really change my fate?...
+
+[16577A]
+Hmph! Who do you think you are, disturbing me!
+
+[165AD0]
+Heh! Heh! So you've come at last!
+
+[166186]
+Hello, Shen Hao!
+
+[166198]
+You know me?... Since when am I so famous?
+
+[1661BE]
+Heh heh! Not just me, the whole village knows you!
+
+[1661EA]
+...Good news stays home, bad news travels far...
+
+[166210]
+Stop guessing. You'll find out soon.
+
+[166234]
+Little Hao, you've come at last! Someone's been waiting for you till his hair turned white!
+
+[166262]
+...Who... is waiting for me??
+
+[16627C]
+Hee! You'll find out soon.
+
+[166296]
+White Cliff has nice scenery. Have a look around!
+
+[1662BC]
+...This should be the place!...
+
+[1662DC]
+Shen Hao, since when are you so famous?
+
+[166302]
+Still, they don't seem to mean any harm.
+
+[166328]
+Who cares! We've seen it all. Let's go!
+
+[1665C8]
+Child, you've come! Good! Good!
+
+[1665E4]
+Ah! Aren't you the one who helped us cross the sea near the Sacred Pool?... May I ask who you are?...
+
+[16662A]
+I'm your grandfather, child!
+
+[166644]
+I've waited for you so long, child! Come... Your mother has waited a long time too...
+
+[16667C]
+My mother?! But......
+
+[16669A]
+Come with me! You'll understand soon.
+
+[1666BE]
+Squire Bai's House
+
+[1668E0]
+...Mother?... Is it Mother?...
+
+[166904]
+When your mother was brought back, she was at death's door. For over ten years we've kept her alive with holy dew...
+
+[16695E]
+...Child, have you come?...
+
+[166980]
+What... what's going on?
+
+[1669A0]
+Child, back when I was dying...
+
+[1669C2]
+Yes, I was born from your mother's heart pearl...
+
+[1669E6]
+With her last breath, your mother turned her spirit into a bright pearl, all so it could help her child...
+
+[166A38]
+Poor child, facing such a fate from the moment you were born...
+
+[166A68]
+...Fate is not all decided by heaven! Change your heart, and the wheel of fate turns with it... Remember that, child...
+
+[166AC6]
+Our people found this for you...
+
+[166AE8]
+Wonderful! We've got all seven!
+
+[166B06]
+Now hurry northwest to Suolong Cave and free the fire dragon. Only it can take you to the Ice-Free Spring at sea. Only there can you use the seven jewels to suppress
+
+[166B8C]
+the evil within you. Keep your heart upright and the evil will fade on its own. If good and evil are mixed in you, the jewels with the Sword and Blade make nine
+
+[166C12]
+rays of light to drive out the evil. But if you're filled with evil, those nine rays will... destroy you.
+
+[166C66]
+The jewels you lacked were...
+
+[166C86]
+The Purple Jewel in Qingjiang City.

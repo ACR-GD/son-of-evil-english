@@ -1,0 +1,731 @@
+[166C9A]
+The Green Jewel in Water City.
+
+[166CAC]
+The Blue Jewel at the Sacred Pool.
+
+[166CBE]
+The White Jewel in Bronze Gorge.
+
+[166CD2]
+The Yellow Jewel in Tiebian Castle.
+
+[166CE6]
+Hurry to Suolong Cave in the northwest and free the fire dragon. It can carry you anywhere to find the jewels. With all seven, go quickly to the Ice-Free Spring and use
+
+[166D6C]
+the seven jewels to suppress the evil in you! If by then your heart is filled with righteousness, the evil will fade away on its own. If good and evil are mixed in you, use
+
+[166DF2]
+the seven jewels with the Sword and Blade to make nine rays of light and drive out the evil. But if you're already full of evil... those nine rays will... destroy you.
+
+[166E72]
+...Child, face it bravely! Never be afraid. All evil power comes from fear...
+
+[166EC2]
+My child! Be brave! Even in darkness there is still light!
+
+[166EF6]
+...Mother... Grandfather...
+
+[166F14]
+I don't want any more partings... No more sorrow, no more death...
+
+[166F52]
+If I defeat the Demon King, all this bloodshed will end! Yes, for everyone's sake, that's what I must do.
+
+[166FA2]
+Mm! Then we can rest easy.
+
+[167022]
+Brother Shen, the old man has been waiting for you a long time!
+
+[167046]
+Well done! Get a good rest this time. Drop by our place when you have time!
+
+[167084]
+Brother Shen, hurry back! Grandpa Bai is waiting for you!
+
+[1670AE]
+I think you should see Grandpa Bai first, then come to us.
+
+[1670DE]
+Mm, this should be useful to you. Take it.
+
+[167102]
+Found the Noon Blade.
+
+[167306]
+Ah! Isn't this Little Hao? You've come back at last! Come, come, what weapon would you like? Pick any one as a welcome gift...
+
+[16735C]
+Go on, pick one!
+={>13}Carp Sword
+={>13}Great Axe
+={>13}Iron Bow{>169}None
+
+[1673A4]
+Thank you, but I can't accept what I haven't earned! Maybe another time!
+
+[1673D4]
+Little Hao, is it really you? Ha ha ha! I can't believe how big you've grown, ha ha! So handsome. I'll give you a piece of armor as a coming-of-age gift!
+
+[167450]
+Don't be shy, you must choose one!
+={>13}Brass Helm
+={>13}Brass Mail
+={>13}Chain Mail{>169}None
+
+[1674F0]
+Hao, once you're done shopping, hurry to Grandpa Bai's. It's the white clay house at the end of the village!
+
+[167690]
+...Grandfather...
+
+[1676A6]
+...Mother...
+
+[1676BA]
+...Hao'er...
+
+[1676D0]
+...Ah!... Mother... Grandfather, what is going on?
+
+[167706]
+Hao'er, all these visions were only to see you once when you came back. When your mother fled with you, you were barely a month old...
+
+[16776E]
+Hao'er, your father must have told you I was an orchid spirit of White Cliff... Sixteen years ago I met him and thought we'd love each other forever, but...
+
+[1677E4]
+But seeing you again shows heaven has been kind. I'm content. Now my ties to this world are done... All I worry about is your father and you!
+
+[167858]
+...Father... Father is dead...
+
+[16787C]
+What!... Sigh... It's all fate. Now I can truly be with your father, through heaven and the underworld! Hao'er, live your life well...
+
+[1678F0]
+Mother!......
+
+[167906]
+Don't grieve. At least they're both truly at peace now!
+
+[167938]
+To keep this tragedy from happening again, we must press on harder. That's what your parents really wanted, isn't it?
+
+[16798A]
+Thank you all. I'll overturn this cruel fate with my own hands!
+
+[167BD2]
+Who! Who dares wake me!
+
+[167CEA]
+You find a button on the wall.
+
+[167CFE]
+Press it?
+={>130}Yes{>169}No
+
+[167EA8]
+You say demons harm the world, yet you kill my kind and steal our treasure. How are you any different from robbers? Humans are crueler than demons!
+
+[167F2C]
+......
+
+[1680DE]
+Why, every so often, do thieves calling themselves heroes or champions of justice come here to kill and steal... We live quietly underground. Who did we ever hurt?...
+
+[16833A]
+...What is this thing!
+
+[168356]
+...Hey! There seems to be something inside!
+
+[168378]
+Ah! It's the fire dragon... But it seems to be asleep!
+
+[1683A0]
+...How do we wake it?
+
+[1683BE]
+You must be Shen Hao!
+
+[1683D4]
+Yes. I need you to take me to the Ice-Free Spring.
+
+[1683F6]
+All is as the prophecy said! The demons feared I'd take you to the spring, so they imprisoned me for centuries! Yet you found me! Come, it's time I stretched my wings!
+
+[168476]
+Whoa! Monsters are sealed in its claws!
+
+[168492]
+That's all of them at last!
+
+[1684A6]
+Ah! That feels good!
+
+[1684B6]
+But we haven't found all seven Mani Jewels yet!
+
+[1684D8]
+Right! Grandfather said the jewels we lack are...
+
+[168506]
+The Purple Jewel in Qingjiang City.
+
+[16851A]
+The Green Jewel in Water City.
+
+[16852C]
+The Blue Jewel at the Sacred Pool.
+
+[16853E]
+The White Jewel in Bronze Gorge.
+
+[168552]
+The Yellow Jewel in Tiebian Castle.
+
+[168566]
+The Red Jewel at White Cliff.
+
+[168578]
+Come on, friends, let's go!
+
+[168A12]
+Hong Yuantong, what are you doing?
+
+[168A2C]
+Heh! Heh! The seven jewels are mine at last! You fools, I am Earth Demon, favored general of the King of Darkness! I only stayed with you to get these jewels!
+
+[168AA4]
+You...?!
+
+[168AB6]
+Heh! Heh! There's a lot you don't know!... Why do you think your father died?
+
+[168AFC]
+Could it be? Could it be you?!
+
+[168B14]
+Heh! Heh! Only now you see! Your father was in the way! Shen Hao, you belong to the Demon King. Stop resisting! Tonight is your coronation! I return to Tuoketuo
+
+[168B9A]
+to greet the Demon King. If you've got the guts, come get your jewels back!
+
+[168BC4]
+I never thought...
+
+[168BD6]
+What do we do now?
+
+[168BF0]
+There's no turning back. All we can do is go to the demon castle and fight to the death!
+
+[168C1E]
+But the jewels...
+
+[168C32]
+Do we have any other choice?
+
+[168C56]
+Charge ahead! This will be the final battle!
+
+[168C7C]
+Well done, you've cleansed the evil within you... But though you changed your fate, unless the Demon King falls there'll be a second Shen Hao tomorrow, a third...
+
+[168CFC]
+I understand. I'll face the final battle! So this tragedy never happens again, I'll go...
+
+[168D4C]
+The Demon King's lair is beneath Tuoketuo. He's ready to strike. Be careful. Tonight, it's tonight...
+
+[168D9E]
+Are we ready to go?
+
+[168DB6]
+Yes!
+
+[168DC0]
+Wonderful! Shen Hao, we did it at last!
+
+[168DE4]
+Yes!... Ah!... What?!...
+
+[168E0C]
+What's wrong?! Shen Hao? What's happening?
+
+[168E2A]
+Spirit! Didn't you say the Ice-Free Spring could wash the evil out of him?!
+
+[168E64]
+Yes, but strangely, in some corner of his heart there seems to be a dark force... I'm sorry, there's nothing I can do...
+
+[168EC6]
+Then what do we do?
+
+[168EDE]
+There's no time. The demon castle appears tonight! There's only one way now: destroy the Demon King!
+
+[168F2C]
+Us?!...
+
+[168F40]
+Yes! If the Demon King isn't destroyed today, tomorrow the world's ruin begins... Sigh! His lair is beneath Tuoketuo. He's ready to strike. It's tonight.
+
+[168FBC]
+What do we do now?
+
+[168FD6]
+There's no turning back. All we can do is go to the demon castle and fight to the death!
+
+[169004]
+But...
+
+[169014]
+Do we have any other choice?
+
+[169038]
+We don't have all seven jewels. Let's come back once we do!
+
+[169206]
+Hong Yuantong! Today I avenge my father!
+
+[16922A]
+Go ahead, if you can!
+
+[169240]
+Shen Hao! It's destiny, you belong to the Demon King! Why keep resisting and ignoring good advice?
+
+[16927E]
+You...?!
+
+[16928E]
+Heh! Heh! I am Earth Demon, general of the King of Darkness! By his order I remove all who stand in the way, and welcome you to your coronation...
+
+[1692F8]
+All who... Could it be... my father too...
+
+[16931C]
+Heh! Heh! Heh!... Heh! Heh!... One who will lead the demons to conquer the world needn't worry about such trifles!...
+
+[16936E]
+Hong Yuantong, prepare to die!!...
+
+[16938C]
+What?! Could it be...
+
+[16A042]
+Welcome! I'm Xiaoye, the receptionist.
+
+[16A062]
+This is Funtech, a development center for modern Chinese video game software, and the creator of Taiwan's own console, the A'Can.
+
+[16A0C6]
+Please look around, but keep your voice down.
+
+[16A0E4]
+Do you need medical care?
+={>130}Yes{>169}No
+
+[16A11A]
+You are...
+
+[16A12A]
+Welcome! This is the team behind the strategy game "Super Dragon Force".
+
+[16A16C]
+What is it?
+={>13}Funtech
+={>13}The console
+={>12}Software{>168}Leave
+
+[16A1AC]
+Funtech was founded by big Taiwanese investors. Years ago it gathered local game makers to set a console spec. After 2+ years of work, from
+
+[16A230]
+chips to system integration, Taiwan's first console was finished in early 1994. Next came its dev tools, the "Development System", and work with local
+
+[16A2B2]
+and foreign developers on all kinds of games. After over a year more, the first wave of software was ready to launch with the hardware.
+
+[16A318]
+Funtech and its partners poured their hearts into this console. Beyond its capable hardware, we'll keep working carefully, holding to quality, quality,
+
+[16A39C]
+and more quality, bringing you top-notch software to make our console a success.
+
+[16A3DE]
+A software industry needs a stage to grow on. Besides the PC, local makers have never been able to license a foreign console, so we treasure this chance and will
+
+[16A462]
+give you our very best. We hope for your advice and encouragement, so the whole industry can charge ahead with confidence.
+
+[16A4BC]
+Funtech's A'Can is a 16-bit console, planned with realism: Taiwan lacks experience promoting consoles, so we won't rush into Western markets. And for
+
+[16A540]
+price versus power, 16 bits still has its place. So we start with a 16-bit console with Chinese games, build a firm base, then move up. The A'Can can also take
+
+[16A5C4]
+"upgrade" add-ons.
+
+[16A5DE]
+Our software is made with partners in Taiwan, the US and Japan, developing games for the A'Can together, with quality before quantity.
+
+[16A64A]
+Learn more about the A'Can and you'll like it even more!
+
+[16A678]
+Hear what players say about "Super Dragon Force", then judge whether it's worth collecting!
+
+[16A6C2]
+Hello! I'm Liu Anshu, artist on "Journey to the Laugh".
+
+[16A6EE]
+Welcome! This is the team behind the action adventure "Journey to the Laugh". I'm Chen Jianzhi, artist.
+
+[16A746]
+Sorry! I'm thinking about a problem.
+
+[16A762]
+Hello! I'm Liu Junlong, programmer on this game. Welcome!
+
+[16A79C]
+Welcome! I'm Xiao Fang, Fang Wenren, in charge of character design and art for this game.
+
+[16A7DE]
+I'm Yuan Shouyi, planner of this game. To welcome you, here's some news about Shen Hao:
+
+[16A830]
+The Ice-Free Spring may only hold down the evil in Shen Hao for a while. If his good karma is enough, all is well. If not, Shen Hao may:
+
+[16A886]
+=1. Swing between good and evil; watch out
+={>12}for attacks on his friends.
+=2. Become the Son of Evil.
+
+[16A8C4]
+Only the seven Mani Jewels with the Sky Sword and Moon Blade can save Shen Hao from doom. But if he truly becomes the Son of Evil, can he come back? Who knows?!
+
+[16A944]
+Act with care, and build up good karma.
+
+[16A960]
+Hello! I'm Ah Qing, background and level artist on this game.
+
+[16A992]
+Welcome! I'm Chen Minhong, story programmer on this game. I like to be called "Ballpoint Hong". Thanks.
+
+[16A9EA]
+This is the team for the puzzle adventure "Rapid Strike".
+
+[16AA14]
+This is the studio for "City Escape", a disaster education game, carefully planned by Xiao Fang! Play it and you can go sing at KTV without worry.
+
+[16AA8E]
+={>6}KTV? What's that?...
+
+[16AAAA]
+Don't be such a hick!!
+
+[16AAC4]
+Huh, there's a message here!
+
+[16AADC]
+I'm Liu Junlong's game testing tool. Want to level up? I can make your wish come true!
+={>130}Yes{>169}No
+
+[16AB42]
+Answer honestly: after leaving the Sacred Pool, did you go back to Shilipu to report to Old Man Wuwang first?
+={>130}Yes{>169}No
+
+[16ABA8]
+You seem highly skilled already. Take care of yourself.
+
+[16ABCA]
+Mm, you're an honest one. May heaven protect you!
+
+[16ABEE]
+You're not honest enough. Sigh, I hope your luck turns. Goodbye.
+
+[16AC1C]
+Hello! I'm the Time Vending Machine. I barter, but I don't sell.
+
+[16AC54]
+What would you like to get?
+={>13}Items
+={>13}Gold
+={>169}Leave
+
+[16AC94]
+Hello! Welcome to the "Funtech Players Club". We can swap tips and make friends.
+
+[16ACDA]
+When time allows, members can even play games before release!
+
+[16AD14]
+When you're free, let's chat about everything under the sun.
+
+[16AD3E]
+Nice to meet you.
+
+[16AD50]
+Welcome to the dream world of "The Son of Evil"! You're a top player now. You may be hired as a reviewer of this game, and have your name added to the credits.
+
+[16ADBC]
+Do you accept?
+={>130}Yes{>169}No
+
+[16ADEA]
+Your name will appear in the credits at the end of this game! Congratulations!
+
+[16AE1E]
+We put quality first in creating brand-new Chinese TV game software, hoping to give players a refined experience that's easy and fun to play.
+
+[16AE84]
+All our game plans are carefully crafted. Their content is well worth a look!
+
+[16AEBA]
+Congratulations! After countless hardships you rode the fire dragon to Dunhuang Island and our company. On behalf of the company, a warm welcome to you.
+
+[16AF18]
+First, thank you for using our legitimate software. Making a game, from idea, planning and script to design, art, programming, music and sound, every link is
+
+[16AF9C]
+I'm Ah Juan from Finance. Our department can fund your travels with 1000 gold.
+
+[16AFDE]
+OK! Don't thank me. Helping others is the root of happiness!
+
+[16B002]
+Please look around.
+
+[16B012]
+I'm Lin Zhenghong, story programmer. I love VR. How about you?
+
+[16B048]
+I'm this game's story programmer, Pachinco. I'm not a pachinko ball!
+=Pachinko is a ball game.
+={>26}I am{>58}Pachinco.
+
+[16B0A2]
+={>84}Pachinco
+={>66}is{>84}waiting{>132}for
+={>78}PachinSLot
+
+[16B0EC]
+I'm this game's sound engineer, Zhou Liangrong. I do sound effects, art, 3D software, I can also... Who are you? Why am I telling you??
+
+[16B160]
+I'm Chen Sixue, programmer on "Journey to the Laugh". I tell fortunes by blood type, star sign and Ziwei astrology.
+
+[16B1AE]
+Really! Great!!
+
+[16B1C6]
+But I'm not so accurate with good fortunes. With bad ones, I'm dead right every time.
+
+[16B1FE]
+Oh... oh... then... another time!!
+
+[16B224]
+Finally worked up the courage to have your fortune told?
+
+[16B246]
+I'm Chen Yixing, artist on "Super Dragon Force".
+
+[16B270]
+Young man, remember these rules for life:
+=1. Sex is not a sin.
+=2. Share your rice with everyone.
+={>39}-- Yixing's Maxims --
+
+[16B2C4]
+Will you take the big prize challenge? This is your only chance!
+={>130}Yes{>169}No
+
+[16B314]
+Your money is maxed out!
+
+[16B320]
+What a pity! You passed up such a great chance!
+
+[16B344]
+equally important. A weak link hurts the whole work.
+
+[16B378]
+To reach high quality, a team has to put in a dozen or more months, even twenty, so costs are high. If players follow your example,
+
+[16B3FC]
+use legitimate software and take pride in it, that is the hope of Taiwan's game makers, and their greatest encouragement.
+
+[16B452]
+Funtech brings together skilled developers and a cutting-edge management team. Releasing quality software regularly is our strategy. Stay tuned!
+
+[16B4C8]
+You listened to me with such care and patience; you're clearly teachable. As a reward, here's the key to the Time Vending Machine! Use it well, and don't lose it!
+
+[16B540]
+Remember what I told you!
+
+[16B55A]
+Hello! Welcome to Funtech. Listen carefully and you're sure to gain something.
+
+[16B58E]
+You've arrived at last. Welcome! Welcome!
+
+[16B5AC]
+Inside you can learn lots of news and knowledge. Study hard!
+
+[16B5E6]
+Have you been inside yet? Pay attention.
+
+[16B604]
+Hi! I've got a cheat pack here with three great arrays: Sky, Rock and Ice. Sold separately they'd cost 5000 gold, but here all three are only 500, a real
+
+[16B688]
+Not enough money! Then I'll find another buyer!
+
+[16B6AC]
+bargain! Want to buy?
+={>130}Buy{>169}Don't
+
+[16B6DC]
+If everyone "got it" like you, the software industry would soon be booming.
+
+[16B724]
+Got the money ready?
+={>130}Buy{>169}Don't
+
+[16B754]
+Learned the Sky Array.
+
+[16B762]
+Attack power fell.
+
+[16B76E]
+Defense power fell.
+
+[16B77A]
+Received the Time Vending Machine key.
+
+[16B78E]
+You need the Time Vending Machine key.
+
+[16B7A6]
+President's Office
+
+[16B7B0]
+Sales Manager's Office
+
+[16B7BC]
+Planning Manager's Office
+
+[16B7C8]
+Development Office
+
+[16B7D4]
+I'm Liu Mingzhe, reporting for work!!
+
+[16B7F2]
+Huh!... What's happening?...
+How can this be!!!...
+
+[16B824]
+Whoa!... Oh my god!!!...
+
+[16B844]
+Looks like you didn't learn a thing!... Reflect on it! Stop buying pirated goods that kill the hard work and drive of honest developers.
+
+[16B8AA]
+I hope you've improved by the next time we meet!
+
+[16B8CE]
+Ha ha! Very good! You really do understand intellectual property. Even strong temptation didn't sway you. Very good, I like that.
+
+[16B92C]
+Learned the Rock Array.
+
+[16B93A]
+Learned the Ice Array.
+
+[16EBD6]
+Come! It's time for father and son to meet!
+
+[16EBFA]
+Heh! Heh! So many guests! Good! Come, all of you, and witness this once-in-a-millennium rite: the King of Darkness adopts his son!
+
+[16EC52]
+My child! This is the moment of destiny!
+
+[16EC76]
+What! You didn't become the Son of Evil!
+
+[16EC9A]
+Didn't see that coming, did you? Today we fight to the death! For my father, my mother, and everyone I love.
+
+[16ECF6]
+...Failed again... So be it... Tomorrow there'll be another Shen Hao anyway...
+
+[16ED36]
+As long as they won't face their own hearts honestly, we will always exist...
+
+[16ED78]
+We've finally defeated evil...
+
+[16ED94]
+...How could you ever truly destroy the power of evil?... Evil isn't east or west... It has always lived in your hearts...
+
+[16EDF8]
+...Today you kill me... Tomorrow... tomorrow the fear in your hearts... will make another Demon King...
+
+[16EE50]
+As long as you dare not face yourselves... I will always exist...
+
+[16EE8E]
+Ah! The castle is sinking!!
+
+[16EEAE]
+Hurry! Get out of here!
+
+[16EEC6]
+Shen Hao!!
+
+[16EED4]
+Heh! Heh!... My child! The age of evil has come!...
+
+[16EF08]
+...Wait... wait...
+
+[16EF20]
+...I... who am I... I... can't...
+
+[16EF46]
+Heh! Heh! You are my most beloved child, the Son of Evil!
+
+[16EF76]
+Tomorrow, my child! This world will belong to us, the forces of evil! As foretold: "It will burn all the world! None can stop it!"
+
+[16EFDC]
+...Yes. I am... the Son of Evil.
+
+[16EFFE]
+Child... even in darkness there is light...
+
+[16F024]
+...Ah!... Father! Mother!
+
+[16F042]
+Demon! No more tricks. Let's have our final battle!
+
+[16F074]
+Heh! Heh!... Come to me, my child!
+
+[16F096]
+...Ah! My head hurts so much!...
+
+[16F0B2]
+Oh no! Shen Hao is about to transform! Everyone, go help him, before he falls into the abyss forever!...

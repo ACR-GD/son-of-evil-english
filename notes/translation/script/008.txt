@@ -1,0 +1,464 @@
+[153A38]
+The whole world will fall under the demons' control, and humanity and justice will count for nothing...
+
+[153A7E]
+As people kill each other, their hatred grows and grows! Heaven and earth turn upside down, disaster follows disaster!... When the time is ripe, five dread omens appear!...
+
+[153AFE]
+That is when the Son of Evil will be born, and the human world's doom will be sealed!
+
+[153B40]
+...Sigh... All we can do now is our best... One man alone can't turn back heaven!
+
+[153B76]
+You have a rare air, sir. In time you will shake heaven and earth. But beware: for now, stay out of others' affairs, or you'll bring disaster on yourself!
+
+[153BEC]
+Remember! Mind your own business, or it may cost you your life!
+
+[153C18]
+Sorry, sir, please stop. This is the inner hall where the monks meditate. No visitors. Please forgive us.
+
+[153C5C]
+Please stop, sir. The inner court is closed to visitors.
+
+[153C7E]
+Mom says only the monster abbot was a liar. The bodhisattva still protects good children.
+
+[153CB4]
+Who'd have thought that monster posed as a holy monk and fooled us so long! Heaven will punish it. Surely heaven took pity on us and sent you heroes to wipe out the demons.
+
+[153D1C]
+Thank you so much for ridding Qingjiang City of this scourge.
+
+[153DAE]
+You know what? I often hear a ghost woman crying! Near, then far. I can't tell where it comes from. It's terrifying!...
+
+[153E0C]
+Tell me! Am I crazy?! They all say I'm crazy.
+
+[153E38]
+I always knew the woods out back weren't right! Hmph! If only they'd listened to me!
+
+[154022]
+Heh! Heh! Brat! You've got guts, barging into my mansion!
+
+[154052]
+Evil brings its own ruin! Today I'll carry out heaven's justice and teach you a lesson, you leech who preys on the people!
+
+[154096]
+Heh heh heh... Young man, the arrogant never live long. Men! Get them, all of you...
+
+[1540DE]
+The weapon shop owner said to come see you for special goods.
+
+[15410C]
+Lad, you're very interested in my goods, aren't you?
+
+[154132]
+={>13}Yes, please show us something new.
+={>13}Hmph! We'd rather show you a beating.
+
+[154172]
+Good! Something new! Fine! I'll show you something new! Men! Surround them!
+
+[1541AE]
+What?! Is this how you treat guests?
+
+[1541D0]
+Ha ha ha! Don't think I don't know what you're scheming. I've had my eye on you a long time. Get them...
+
+[154220]
+I knew you were up to no good! Get them! Leave no one alive...
+
+[154256]
+Useless bunch... Huh?! That Li slipped away in the confusion.
+
+[15428E]
+Squire, my boss told me to bring this man to you. Here he is. I'll be off, or the boss will nag and nag... and dock my pay... Goodbye.
+
+[1542F8]
+Let's search around!
+
+[154482]
+Get away! Give up! I'll never tell!
+
+[1544A8]
+Who are you? Why are you here?
+
+[1544C4]
+...Where's that Li?!...
+
+[1544E4]
+We're not Squire Li's men. In fact, we just drove him off. May I ask who you are...
+
+[154526]
+Zhang Kan... My name is Zhang Kan.
+
+[15453E]
+Ah! Uncle Zhang! I've been looking for you so long. Who'd have thought we'd meet here!
+
+[15457C]
+...You call me Uncle?! You are...
+
+[15459E]
+I'm Shen Hao. My father, Shen Junping, sent me to find you...
+
+[1545D0]
+...Ah!... At last...
+
+[1545EE]
+Oh! Here I am chatting... Let me get you out first!
+
+[15461C]
+Huh! This lock won't break.
+
+[154634]
+I hear this lock is made of thousand-year cold iron. It won't break easily. The key must be in the main hall. Go look for it.
+
+[154682]
+Let's get out of here first!
+
+[15469C]
+
+[154988]
+This door is locked.
+
+[154992]
+You find a button. Press it?
+={>130}Yes{>169}No
+
+[1549CE]
+The whole button begins to sink.
+
+[1549E2]
+That startled me. This shrine must hold some secret. Let's look around!
+
+[154A12]
+What! So this is where it leads...
+
+[154A34]
+What fool left without putting out the fire? What a waste of firewood...
+
+[154A76]
+Intruders...
+
+[154A8A]
+I said there was something wrong with this temple.
+
+[154AA4]
+Monks kidnapping women? That's going too far!
+
+[154ACA]
+We'll find out if we look into it.
+
+[154BA2]
+Have you seen my daughter? She's been missing three days! Please help...
+
+[154BDC]
+Ah! Thank you so much! My daughter kept saying how sorry she was not to thank you! Xiaozhu! Come out and thank our savior!
+
+[154C34]
+Thank you! Without you, my life would have been ruined!
+
+[154C5C]
+If you don't object, sir, this old man would be honored to give you my daughter's hand. What do you say?
+
+[154C96]
+What?!... Sorry, I have a lot to do... so... sorry!!
+
+[154F68]
+Here's a letter my father said I must put in your hands. He said once his business is done, he'll come meet you here.
+
+[154FC0]
+Wonderful!... Let me see what your father wrote...
+
+[154FF0]
+Gave the letter to Zhang Kan.
+
+[155002]
+Good... I understand. Why don't you rest a bit now? Or go look around, but be sure to come back later. I have something to take care of first...
+
+[155074]
+Take a rest!
+={>130}Yes{>169}Leave
+
+[1550A4]
+Shen Hao, this sword and this jewel are yours.
+
+[1550C4]
+Received the Old Sword and Purple Orb.
+
+[1550DA]
+Whoa! This sword is heavy, and rusted all over! Huh? This jewel looks like the one I have, just a different color...
+
+[155134]
+Uncle, you rushed out just to get these things?
+
+[155160]
+Yes. Your father left them with me long ago. Somehow Squire Li found out I had them, and kept pressing me to hand them over!
+
+[1551C4]
+What else would you like to know, nephew?
+={>13}Father
+={>13}Squire Li
+={>13}Why he held you{>169}Leave
+
+[15520A]
+About your father...
+={>13}Seventeen years ago...
+={>13}The sword and jewel
+={>169}Other
+
+[155260]
+About seventeen years ago...
+={>13}Father's panic
+={>13}What happened?
+={>169}Other
+
+[1552B4]
+You want to know...
+={>13}Why he held me
+={>13}Who's behind it
+={>169}Other
+
+[1552F8]
+Your father and I were very good friends, but we haven't seen each other in seventeen years. Sigh... Seventeen years, gone in a blink...
+
+[15534E]
+Squire Li only came to Qingjiang two years ago. A villain through and through, yet he puts on such refined airs!
+
+[15539E]
+One night last year he seized me and demanded to know where the things were! From his tone, someone was eager to get them!
+
+[1553F0]
+One night seventeen years ago, he came to me in a panic with you, a babe in arms, and asked me to hide these two things where no one would know.
+
+[155454]
+I don't know. But your father seemed to value these two things greatly!
+
+[155486]
+From his look, your father seemed to be on the run. He looked so haggard!
+
+[1554BE]
+Your father didn't explain. When I asked why your mother wasn't with him, he just shook his head sadly...
+
+[155510]
+My mother?! Father never told me about my mother! He only said she died giving birth to me!
+
+[155554]
+I think... we'll have to wait and ask your father when he comes.
+
+[155582]
+I don't know what he wanted them for.
+
+[1555A0]
+Apart from Squire Li I never saw anyone else. I don't know who's really behind it.
+
+[1555E4]
+All we can do now is ask your father when he comes. For now, just wait for him!
+
+[15562C]
+Received Father's letter.
+
+[15563C]
+Very well!... We'll wait for your father and see! But don't wander far.
+
+[15567A]
+...I wonder what your father looks like now? Sigh! Seventeen years...
+
+[1556AE]
+Strange, why isn't your father here yet...?
+
+[1556CE]
+Terrible news! Someone just brought word that your father is badly hurt! Hurry to Fengling Ferry. He's with a woman called Caiyi...
+
+[155736]
+What! How could this happen... Uncle, where is Fengling Ferry?
+
+[15576E]
+Leave town and keep heading northwest to a small ferry landing. That's Fengling Ferry. But the messenger left right away. I don't know how bad it is.
+
+[1557C8]
+Whatever it is, I have to go! Besides, I haven't heard from Father in so long. Uncle, I'll be going.
+
+[15580E]
+Be careful out there above all.
+
+[15593E]
+Is there anything I can do for you?
+={>130}Ask{>169}Leave
+
+[15597C]
+={>13}I hear you can get "special goods"?
+={>13}I hear you know Squire Li?
+={>13}I want to trade.
+
+[1559C4]
+Oh~ So you're in the know. But most people rarely have "special" needs, do they?! Who are you with, friend?
+
+[155A14]
+Ah!... Well... Our trade has its taboos. A man in "this" line of business should know that! Besides, I don't yet know what "favors" you can do me...
+
+[155A96]
+The new wave overtakes the old, eh? So young, yet so quick with answers. Go with my man and see what you need! Please...
+
+[155AE4]
+You're from out of town! Why ask such a stup... er... such a question... In Qingjiang, even a three-year-old knows Squire Li...
+
+[155B4A]
+This way, sir.
+
+[155B5E]
+I just work here part-time.
+
+[155B74]
+Is there anything I can do for you?
+={>13}I hear you have "special goods".
+={>13}I want to trade.
+={>169}Leave
+
+[155BD8]
+...No... no... I haven't done that kind of back-door business in a long time. If you want "special goods", look elsewhere!
+
+[155D1E]
+What can I do for you?
+={>13}Trade
+={>13}Talk
+={>169}Leave
+
+[155D5E]
+What do you want to know?
+={>13}Your daughter
+={>13}The missing
+={>13}Zhang Kan{>169}Leave
+
+[155D9E]
+...Sigh... She went to fetch me some wine and never came back! No one has seen her since!
+
+[155DE6]
+What can I say? This past year at least thirty girls have gone missing around here! We all have our suspicions! Someone looked into it once, but then he vanished too...
+
+[155E62]
+...Will you help me find my daughter?...
+
+[155E86]
+Sorry, I only want my daughter back. I've no heart for business.
+
+[155EB6]
+Ah! Thank you for chasing off the monster at the ferry and bringing back my daughter! Please, take this hide armor, shield and cap as thanks.
+
+[155F12]
+Zhang Kan? He lived next to the inn, but a year ago he suddenly left. Old Wang swears he vanished. I don't know, but later someone threatened us not to speak of
+
+[155F96]
+it, so no one dares!
+
+[155FB2]
+......
+
+[155FC4]
+Ask your question!
+={>13}Your daughter
+={>13}The missing
+={>13}The Son of Evil{>169}Leave
+
+[15600A]
+Son... of... Evil... Hmm!... Doesn't ring a bell. Is it armor? Lots of weapons do need an evil power to unleash their full killing force.
+
+[15617E]
+...What are you here for this time...
+
+[1561A2]
+...You've got it wrong. We just have some questions for you!
+
+[1561D6]
+Oh... You startled me...
+
+[1561F0]
+What is it? Ask away!
+={>13}Zhang Kan
+={>13}The abbot
+={>13}Your fear{>169}Leave
+
+[156230]
+...Er... um... well... I've never heard of him...
+
+[156268]
+The abbot came here on a snowy night ten years ago! The storm was fierce, but not a flake touched him, as if light shielded him! His followers built Mingzun Temple for him!
+
+[1562EC]
+Sigh! It's a long story... It's all the doing of that tyrant, rich man Li!
+
+[156322]
+You should go pay your respects to the abbot.
+
+[15633E]
+For years we lived in fear of trouble every day! We owe it all to you! We can't thank you enough!
+
+[156386]
+Look around. Make yourself at home.
+
+[1563A6]
+I'm a scholar. This family archery manual is no use to me, and in time it'll be lost. Better I give it to you! Thanks for ridding us of evil.
+
+[15640E]
+I don't believe it! I don't believe the abbot was a monster! You must be lying! Get out! You're not welcome here!
+
+[156680]
+What can I do for you?
+={>13}Rest
+={>13}Talk
+={>169}Leave
+
+[1566C0]
+Ask me anything, I'll tell you all I know.
+={>13}Zhang Kan
+={>13}Squire Li
+={>13}The abbot{>169}Leave
+
+[156710]
+...Ah... him... ah... um... Yes, there is such a man, but he seems to have left... I don't know...
+
+[15676E]
+...Little brother! Away from home, say little and mind your own business. That's how you stay safe!
+
+[1567BA]
+Squire Li lives in a big mansion in the west of the city, with two stone lions at the gate. You can't miss it... Have business with him? Few people visit him.
+
+[15682A]
+Mm, anyone who comes to Qingjiang must see the abbot. Head north, cross the little bridge, and you'll see a big temple. That's it.
+
+[156874]
+Traveling in times like these, be careful!
+={>130}Ask{>169}Leave
+
+[1568B6]
+What do you want to know? Go ahead...
+={>13}Zhang Kan
+={>13}Qingjiang City
+={>13}Squire Li{>169}Leave
+
+[1568FC]
+What about Qingjiang City?...
+={>13}The missing
+={>13}Squire Li's house
+={>169}Leave
+
+[15694E]
+...Shh... Keep your voice down...
+
+[15696C]
+Little brother, Zhang Kan has been missing for a year... No one knows where he went. Don't bring it up again. People here often vanish for no reason.
+
+[1569DE]
+These past years have been anything but peaceful! People vanish for no reason, monsters run wild, and a tyrant preys on us! Sigh... The future looks dark!...
+
+[156A52]
+Hmph! I can't think of any evil he hasn't done... He's turned all of Qingjiang into a cesspit! The poor folk hate him, but what can they do against such power?
+
+[156AD2]
+Old Wang, shut your mouth! Or one day it'll be your turn to vanish. What will your wife and kids do then?
+
+[156B16]
+What's to fear! At worst I'll fight him to the death!

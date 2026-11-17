@@ -1,0 +1,2877 @@
+{
+ "1A2D44": {
+  "list": "misc",
+  "zh": "得到",
+  "en": "Got "
+ },
+ "1A2D49": {
+  "list": "misc",
+  "zh": "",
+  "en": null
+ },
+ "1A2D4A": {
+  "list": "misc",
+  "zh": "銖",
+  "en": "zhu"
+ },
+ "1A2D4D": {
+  "list": "misc",
+  "zh": "銅錢 ",
+  "en": "coins"
+ },
+ "1A2D53": {
+  "list": "misc",
+  "zh": "",
+  "en": null
+ },
+ "1A2D54": {
+  "list": "characters",
+  "zh": "沈皓",
+  "en": "Shen Hao"
+ },
+ "1A2D59": {
+  "list": "characters",
+  "zh": "方天弓",
+  "en": "Fang Tiangong"
+ },
+ "1A2D60": {
+  "list": "characters",
+  "zh": "芙戎",
+  "en": "Furong"
+ },
+ "1A2D65": {
+  "list": "characters",
+  "zh": "彩衣女",
+  "en": "Caiyi"
+ },
+ "1A2D6C": {
+  "list": "characters",
+  "zh": "洪元通",
+  "en": "Hong Yuantong"
+ },
+ "1A2D73": {
+  "list": "characters",
+  "zh": "丘道人",
+  "en": "Taoist Qiu"
+ },
+ "1A2D7A": {
+  "list": "characters",
+  "zh": "呼爾穆珠",
+  "en": "Hurmuzhu"
+ },
+ "1A2D83": {
+  "list": "characters",
+  "zh": "無名",
+  "en": "Wuming"
+ },
+ "1A2D88": {
+  "list": "items",
+  "zh": "草藥",
+  "en": "Herb"
+ },
+ "1A2D8D": {
+  "list": "items",
+  "zh": "當歸",
+  "en": "Angelica"
+ },
+ "1A2D92": {
+  "list": "items",
+  "zh": "人蔘",
+  "en": "Ginseng"
+ },
+ "1A2D97": {
+  "list": "items",
+  "zh": "靈芝",
+  "en": "Lingzhi"
+ },
+ "1A2D9C": {
+  "list": "items",
+  "zh": "運功散",
+  "en": "Qi Powder"
+ },
+ "1A2DA3": {
+  "list": "items",
+  "zh": "歸元丹",
+  "en": "Origin Pill"
+ },
+ "1A2DAA": {
+  "list": "items",
+  "zh": "大力丸",
+  "en": "Might Pill"
+ },
+ "1A2DB1": {
+  "list": "items",
+  "zh": "妙香丸",
+  "en": "Scent Pill"
+ },
+ "1A2DB8": {
+  "list": "items",
+  "zh": "大還丹",
+  "en": "Elixir"
+ },
+ "1A2DBF": {
+  "list": "items",
+  "zh": "三昧丹",
+  "en": "Zen Pill"
+ },
+ "1A2DC6": {
+  "list": "items",
+  "zh": "雲母芝",
+  "en": "Mica Cap"
+ },
+ "1A2DCD": {
+  "list": "items",
+  "zh": "龍仙芝",
+  "en": "Drake Cap"
+ },
+ "1A2DD4": {
+  "list": "items",
+  "zh": "復活草",
+  "en": "Life Herb"
+ },
+ "1A2DDB": {
+  "list": "items",
+  "zh": "幸運草",
+  "en": "Clover"
+ },
+ "1A2DE2": {
+  "list": "items",
+  "zh": "黃蓮",
+  "en": "Goldthread"
+ },
+ "1A2DE7": {
+  "list": "items",
+  "zh": "玄冰丸",
+  "en": "Ice Pill"
+ },
+ "1A2DEE": {
+  "list": "items",
+  "zh": "金剛粉",
+  "en": "Vajra Dust"
+ },
+ "1A2DF5": {
+  "list": "items",
+  "zh": "光明砂",
+  "en": "Light Sand"
+ },
+ "1A2DFC": {
+  "list": "items",
+  "zh": "透骨菌",
+  "en": "Bone Mold"
+ },
+ "1A2E03": {
+  "list": "items",
+  "zh": "孔雀膽",
+  "en": "Peacock"
+ },
+ "1A2E0A": {
+  "list": "items",
+  "zh": "曼陀羅花",
+  "en": "Datura"
+ },
+ "1A2E13": {
+  "list": "items",
+  "zh": "雄黃",
+  "en": "Realgar"
+ },
+ "1A2E18": {
+  "list": "items",
+  "zh": "天雷符",
+  "en": "Bolt Tag"
+ },
+ "1A2E1F": {
+  "list": "items",
+  "zh": "烈火符",
+  "en": "Fire Tag"
+ },
+ "1A2E26": {
+  "list": "items",
+  "zh": "冥鬼符",
+  "en": "Ghost Tag"
+ },
+ "1A2E2D": {
+  "list": "items",
+  "zh": "赤伏符",
+  "en": "Red Tag"
+ },
+ "1A2E34": {
+  "list": "items",
+  "zh": "咒禁符",
+  "en": "Seal Tag"
+ },
+ "1A2E3B": {
+  "list": "items",
+  "zh": "飛石符",
+  "en": "Stone Tag"
+ },
+ "1A2E42": {
+  "list": "items",
+  "zh": "天師符",
+  "en": "Master Tag"
+ },
+ "1A2E49": {
+  "list": "items",
+  "zh": "紫色宝珠",
+  "en": "Purple Orb"
+ },
+ "1A2E52": {
+  "list": "items",
+  "zh": "橙色宝珠",
+  "en": "Orange Orb"
+ },
+ "1A2E5B": {
+  "list": "items",
+  "zh": "綠色宝珠",
+  "en": "Green Orb"
+ },
+ "1A2E64": {
+  "list": "items",
+  "zh": "藍色宝珠",
+  "en": "Blue Orb"
+ },
+ "1A2E6D": {
+  "list": "items",
+  "zh": "黃色宝珠",
+  "en": "Yellow Orb"
+ },
+ "1A2E76": {
+  "list": "items",
+  "zh": "白色宝珠",
+  "en": "White Orb"
+ },
+ "1A2E7F": {
+  "list": "items",
+  "zh": "紅色宝珠",
+  "en": "Red Orb"
+ },
+ "1A2E88": {
+  "list": "items",
+  "zh": "古玉",
+  "en": "Old Jade"
+ },
+ "1A2E8D": {
+  "list": "items",
+  "zh": "地聽",
+  "en": "Earth Ear"
+ },
+ "1A2E92": {
+  "list": "items",
+  "zh": "虎符",
+  "en": "Tiger Tally"
+ },
+ "1A2E97": {
+  "list": "items",
+  "zh": "金釵",
+  "en": "Hairpin"
+ },
+ "1A2E9C": {
+  "list": "items",
+  "zh": "鑰匙",
+  "en": "Key"
+ },
+ "1A2EA1": {
+  "list": "items",
+  "zh": "壁飾碎片",
+  "en": "Mural Bit"
+ },
+ "1A2EAA": {
+  "list": "items",
+  "zh": "鑰匙Ａ",
+  "en": "Key A"
+ },
+ "1A2EB1": {
+  "list": "items",
+  "zh": "鑰匙Ｑ",
+  "en": "Key Q"
+ },
+ "1A2EB8": {
+  "list": "items",
+  "zh": "鑰匙Ｃ",
+  "en": "Key C"
+ },
+ "1A2EBF": {
+  "list": "items",
+  "zh": "鑰匙Ｄ",
+  "en": "Key D"
+ },
+ "1A2EC6": {
+  "list": "items",
+  "zh": "鑰匙Ｅ",
+  "en": "Key E"
+ },
+ "1A2ECD": {
+  "list": "items",
+  "zh": "鑰匙Ｐ",
+  "en": "Key P"
+ },
+ "1A2ED4": {
+  "list": "items",
+  "zh": "鑰匙Ｇ",
+  "en": "Key G"
+ },
+ "1A2EDB": {
+  "list": "items",
+  "zh": "鑰匙Ｈ",
+  "en": "Key H"
+ },
+ "1A2EE2": {
+  "list": "items",
+  "zh": "鑰匙Ｉ",
+  "en": "Key I"
+ },
+ "1A2EE9": {
+  "list": "items",
+  "zh": "鑰匙Ｊ",
+  "en": "Key J"
+ },
+ "1A2EF0": {
+  "list": "items",
+  "zh": "水晶球",
+  "en": "Crystal"
+ },
+ "1A2EF7": {
+  "list": "items",
+  "zh": "辟邪丹",
+  "en": "Ward Pill"
+ },
+ "1A2EFE": {
+  "list": "items",
+  "zh": "耳塞",
+  "en": "Earplugs"
+ },
+ "1A2F03": {
+  "list": "items",
+  "zh": "小銅盒",
+  "en": "Copper Box"
+ },
+ "1A2F0A": {
+  "list": "items",
+  "zh": "鑰匙Ｋ",
+  "en": "Key K"
+ },
+ "1A2F11": {
+  "list": "items",
+  "zh": "紙條",
+  "en": "Note"
+ },
+ "1A2F16": {
+  "list": "items",
+  "zh": "鑰匙Ｏ",
+  "en": "Key O"
+ },
+ "1A2F1D": {
+  "list": "items",
+  "zh": "一幅画",
+  "en": "Painting"
+ },
+ "1A2F24": {
+  "list": "items",
+  "zh": "金釵",
+  "en": "Hairpin"
+ },
+ "1A2F29": {
+  "list": "items",
+  "zh": "",
+  "en": null
+ },
+ "1A2F2A": {
+  "list": "items",
+  "zh": "",
+  "en": null
+ },
+ "1A2F2B": {
+  "list": "items",
+  "zh": "鑰匙Ｍ",
+  "en": "Key M"
+ },
+ "1A2F32": {
+  "list": "items",
+  "zh": "鑰匙Ｎ",
+  "en": "Key N"
+ },
+ "1A2F39": {
+  "list": "items",
+  "zh": "鑰匙Ｌ",
+  "en": "Key L"
+ },
+ "1A2F40": {
+  "list": "items",
+  "zh": "鑰匙Ｆ",
+  "en": "Key F"
+ },
+ "1A2F47": {
+  "list": "items",
+  "zh": "鑰匙Ｂ",
+  "en": "Key B"
+ },
+ "1A2F4E": {
+  "list": "items",
+  "zh": "敦煌画冊",
+  "en": "Art Album"
+ },
+ "1A2F57": {
+  "list": "items",
+  "zh": "繩子",
+  "en": "Rope"
+ },
+ "1A2F5C": {
+  "list": "items",
+  "zh": "渾沌羅盤",
+  "en": "Chaos Dial"
+ },
+ "1A2F65": {
+  "list": "items",
+  "zh": "",
+  "en": null
+ },
+ "1A2F66": {
+  "list": "weapons",
+  "zh": "古劍",
+  "en": "Old Sword"
+ },
+ "1A2F6B": {
+  "list": "weapons",
+  "zh": "天劍",
+  "en": "Sky Sword"
+ },
+ "1A2F70": {
+  "list": "weapons",
+  "zh": "短劍",
+  "en": "Shortsword"
+ },
+ "1A2F75": {
+  "list": "weapons",
+  "zh": "鉄劍",
+  "en": "Iron Sword"
+ },
+ "1A2F7A": {
+  "list": "weapons",
+  "zh": "銅劍",
+  "en": "Brass Swd"
+ },
+ "1A2F7F": {
+  "list": "weapons",
+  "zh": "金魚劍",
+  "en": "Carp Sword"
+ },
+ "1A2F86": {
+  "list": "weapons",
+  "zh": "欲劍",
+  "en": "Lust Sword"
+ },
+ "1A2F8B": {
+  "list": "weapons",
+  "zh": "雙手劍",
+  "en": "Greatsword"
+ },
+ "1A2F92": {
+  "list": "weapons",
+  "zh": "雌雄劍",
+  "en": "Twinblades"
+ },
+ "1A2F99": {
+  "list": "weapons",
+  "zh": "桃木劍",
+  "en": "Peach Swd"
+ },
+ "1A2FA0": {
+  "list": "weapons",
+  "zh": "天蓬劍",
+  "en": "Tianpeng"
+ },
+ "1A2FA7": {
+  "list": "weapons",
+  "zh": "追風劍",
+  "en": "Gale Sword"
+ },
+ "1A2FAE": {
+  "list": "weapons",
+  "zh": "月刀",
+  "en": "Moon Blade"
+ },
+ "1A2FB3": {
+  "list": "weapons",
+  "zh": "短刀",
+  "en": "Knife"
+ },
+ "1A2FB8": {
+  "list": "weapons",
+  "zh": "鉄刀",
+  "en": "Iron Blade"
+ },
+ "1A2FBD": {
+  "list": "weapons",
+  "zh": "銅刀",
+  "en": "Brass Edge"
+ },
+ "1A2FC2": {
+  "list": "weapons",
+  "zh": "燄刀",
+  "en": "Flame Edge"
+ },
+ "1A2FC7": {
+  "list": "weapons",
+  "zh": "冥刀",
+  "en": "Hell Blade"
+ },
+ "1A2FCC": {
+  "list": "weapons",
+  "zh": "朴刀",
+  "en": "Pudao"
+ },
+ "1A2FD1": {
+  "list": "weapons",
+  "zh": "虎刀",
+  "en": "Tiger Blade"
+ },
+ "1A2FD6": {
+  "list": "weapons",
+  "zh": "子午刀",
+  "en": "Noon Blade"
+ },
+ "1A2FDD": {
+  "list": "weapons",
+  "zh": "木棍",
+  "en": "Wood Staff"
+ },
+ "1A2FE2": {
+  "list": "weapons",
+  "zh": "鉄棍",
+  "en": "Iron Staff"
+ },
+ "1A2FE7": {
+  "list": "weapons",
+  "zh": "銅棍",
+  "en": "Brass Rod"
+ },
+ "1A2FEC": {
+  "list": "weapons",
+  "zh": "虎門棍",
+  "en": "Tiger Rod"
+ },
+ "1A2FF3": {
+  "list": "weapons",
+  "zh": "靈蛇棍",
+  "en": "Snake Rod"
+ },
+ "1A2FFA": {
+  "list": "weapons",
+  "zh": "白龍棍",
+  "en": "Dragon Rod"
+ },
+ "1A3001": {
+  "list": "weapons",
+  "zh": "短槍",
+  "en": "Javelin"
+ },
+ "1A3006": {
+  "list": "weapons",
+  "zh": "鉄槍",
+  "en": "Iron Spear"
+ },
+ "1A300B": {
+  "list": "weapons",
+  "zh": "大槍",
+  "en": "Long Spear"
+ },
+ "1A3010": {
+  "list": "weapons",
+  "zh": "雙頭槍",
+  "en": "Twin Spear"
+ },
+ "1A3017": {
+  "list": "weapons",
+  "zh": "銀枴槍",
+  "en": "Silver Pike"
+ },
+ "1A301E": {
+  "list": "weapons",
+  "zh": "鳳爪槍",
+  "en": "Claw Spear"
+ },
+ "1A3025": {
+  "list": "weapons",
+  "zh": "手斧",
+  "en": "Hand Axe"
+ },
+ "1A302A": {
+  "list": "weapons",
+  "zh": "鉄斧",
+  "en": "Iron Axe"
+ },
+ "1A302F": {
+  "list": "weapons",
+  "zh": "銅斧",
+  "en": "Brass Axe"
+ },
+ "1A3034": {
+  "list": "weapons",
+  "zh": "雙手斧",
+  "en": "Great Axe"
+ },
+ "1A303B": {
+  "list": "weapons",
+  "zh": "巨斧",
+  "en": "Giant Axe"
+ },
+ "1A3040": {
+  "list": "weapons",
+  "zh": "皇天斧",
+  "en": "Sky Axe"
+ },
+ "1A3047": {
+  "list": "weapons",
+  "zh": "竹弓",
+  "en": "Reed Bow"
+ },
+ "1A304C": {
+  "list": "weapons",
+  "zh": "皮弓",
+  "en": "Hide Bow"
+ },
+ "1A3051": {
+  "list": "weapons",
+  "zh": "弩箭",
+  "en": "Crossbow"
+ },
+ "1A3056": {
+  "list": "weapons",
+  "zh": "大鉄弓",
+  "en": "Iron Bow"
+ },
+ "1A305D": {
+  "list": "weapons",
+  "zh": "関雲弓",
+  "en": "Cloud Bow"
+ },
+ "1A3064": {
+  "list": "weapons",
+  "zh": "伏遠弩",
+  "en": "Longshot"
+ },
+ "1A306B": {
+  "list": "weapons",
+  "zh": "",
+  "en": null
+ },
+ "1A306C": {
+  "list": "armour",
+  "zh": "草帽",
+  "en": "Straw Hat"
+ },
+ "1A3071": {
+  "list": "armour",
+  "zh": "布帽",
+  "en": "Cloth Cap"
+ },
+ "1A3076": {
+  "list": "armour",
+  "zh": "皮帽",
+  "en": "Hide Cap"
+ },
+ "1A307B": {
+  "list": "armour",
+  "zh": "上清帽",
+  "en": "Taoist Cap"
+ },
+ "1A3082": {
+  "list": "armour",
+  "zh": "鉄頭盔",
+  "en": "Iron Helm"
+ },
+ "1A3089": {
+  "list": "armour",
+  "zh": "青銅盔",
+  "en": "Brass Helm"
+ },
+ "1A3090": {
+  "list": "armour",
+  "zh": "千人盔",
+  "en": "Legion Helm"
+ },
+ "1A3097": {
+  "list": "armour",
+  "zh": "白鳥盔",
+  "en": "Crane Helm"
+ },
+ "1A309E": {
+  "list": "armour",
+  "zh": "朝陽盔",
+  "en": "Sun Helm"
+ },
+ "1A30A5": {
+  "list": "armour",
+  "zh": "紫星盔",
+  "en": "Star Helm"
+ },
+ "1A30AC": {
+  "list": "armour",
+  "zh": "功夫裝",
+  "en": "Kung Fu Gi"
+ },
+ "1A30B3": {
+  "list": "armour",
+  "zh": "麻衣",
+  "en": "Hemp Robe"
+ },
+ "1A30B8": {
+  "list": "armour",
+  "zh": "羽衣",
+  "en": "Plume Robe"
+ },
+ "1A30BD": {
+  "list": "armour",
+  "zh": "籐甲",
+  "en": "Cane Mail"
+ },
+ "1A30C2": {
+  "list": "armour",
+  "zh": "皮甲",
+  "en": "Hide Mail"
+ },
+ "1A30C7": {
+  "list": "armour",
+  "zh": "鉄甲",
+  "en": "Iron Mail"
+ },
+ "1A30CC": {
+  "list": "armour",
+  "zh": "銅甲",
+  "en": "Brass Mail"
+ },
+ "1A30D1": {
+  "list": "armour",
+  "zh": "鎖子甲",
+  "en": "Chain Mail"
+ },
+ "1A30D8": {
+  "list": "armour",
+  "zh": "金鋼甲",
+  "en": "Vajra Mail"
+ },
+ "1A30DF": {
+  "list": "armour",
+  "zh": "明光甲",
+  "en": "Bright Mail"
+ },
+ "1A30E6": {
+  "list": "armour",
+  "zh": "青龍甲",
+  "en": "Drake Mail"
+ },
+ "1A30ED": {
+  "list": "armour",
+  "zh": "金蠶甲",
+  "en": "Silk Mail"
+ },
+ "1A30F4": {
+  "list": "armour",
+  "zh": "木盾",
+  "en": "Wood Shield"
+ },
+ "1A30F9": {
+  "list": "armour",
+  "zh": "皮盾",
+  "en": "Hide Shield"
+ },
+ "1A30FE": {
+  "list": "armour",
+  "zh": "鉄盾",
+  "en": "Iron Shield"
+ },
+ "1A3103": {
+  "list": "armour",
+  "zh": "銅盾",
+  "en": "Brass Shld"
+ },
+ "1A3108": {
+  "list": "armour",
+  "zh": "火雷盾",
+  "en": "Fire Shield"
+ },
+ "1A310F": {
+  "list": "armour",
+  "zh": "白虎盾",
+  "en": "Tiger Shield"
+ },
+ "1A3116": {
+  "list": "armour",
+  "zh": "雲氣盾",
+  "en": "Cloud Shld"
+ },
+ "1A311D": {
+  "list": "armour",
+  "zh": "月光盾",
+  "en": "Moon Shield"
+ },
+ "1A3124": {
+  "list": "armour",
+  "zh": "布手套",
+  "en": "Cloth Glove"
+ },
+ "1A312B": {
+  "list": "armour",
+  "zh": "皮護手",
+  "en": "Hide Glove"
+ },
+ "1A3132": {
+  "list": "armour",
+  "zh": "爪護手",
+  "en": "Claw Glove"
+ },
+ "1A3139": {
+  "list": "armour",
+  "zh": "鉄護手",
+  "en": "Iron Glove"
+ },
+ "1A3140": {
+  "list": "armour",
+  "zh": "青羅護手",
+  "en": "Silk Glove"
+ },
+ "1A3149": {
+  "list": "armour",
+  "zh": "元陽護手",
+  "en": "Yang Glove"
+ },
+ "1A3152": {
+  "list": "armour",
+  "zh": "白雲護手",
+  "en": "Cloud Mitt"
+ },
+ "1A315B": {
+  "list": "armour",
+  "zh": "草鞋",
+  "en": "Sandals"
+ },
+ "1A3160": {
+  "list": "armour",
+  "zh": "功夫鞋",
+  "en": "Slippers"
+ },
+ "1A3167": {
+  "list": "armour",
+  "zh": "皮靴",
+  "en": "Hide Boots"
+ },
+ "1A316C": {
+  "list": "armour",
+  "zh": "官靴",
+  "en": "Court Boot"
+ },
+ "1A3171": {
+  "list": "armour",
+  "zh": "鉄尖鞋",
+  "en": "Spike Shoes"
+ },
+ "1A3178": {
+  "list": "armour",
+  "zh": "策馬靴",
+  "en": "Rider Boots"
+ },
+ "1A317F": {
+  "list": "armour",
+  "zh": "飛登靴",
+  "en": "Leap Boots"
+ },
+ "1A3186": {
+  "list": "armour",
+  "zh": "游蹤鞋",
+  "en": "Roam Shoes"
+ },
+ "1A318D": {
+  "list": "armour",
+  "zh": "羽化靴",
+  "en": "Wing Boots"
+ },
+ "1A3194": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A3195": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A3196": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A3197": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A3198": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A3199": {
+  "list": "armour",
+  "zh": "",
+  "en": null
+ },
+ "1A319A": {
+  "list": "skills",
+  "zh": "五行拳譜",
+  "en": "Five Fists"
+ },
+ "1A31A3": {
+  "list": "skills",
+  "zh": "天眼術法",
+  "en": "Third Eye"
+ },
+ "1A31AC": {
+  "list": "skills",
+  "zh": "封剋術法",
+  "en": "Seal"
+ },
+ "1A31B5": {
+  "list": "skills",
+  "zh": "金鋼手譜",
+  "en": "Vajra Palm"
+ },
+ "1A31BE": {
+  "list": "skills",
+  "zh": "迷眼術法",
+  "en": "Dazzle"
+ },
+ "1A31C7": {
+  "list": "skills",
+  "zh": "大悲拳譜",
+  "en": "Mercy Fist"
+ },
+ "1A31D0": {
+  "list": "skills",
+  "zh": "萬宗拳譜",
+  "en": "Myriad Fist"
+ },
+ "1A31D9": {
+  "list": "skills",
+  "zh": "魔衣術法",
+  "en": "Demon Robe"
+ },
+ "1A31E2": {
+  "list": "skills",
+  "zh": "流星劍譜",
+  "en": "Meteor Cut"
+ },
+ "1A31EB": {
+  "list": "skills",
+  "zh": "六合劍譜",
+  "en": "Six Unions"
+ },
+ "1A31F4": {
+  "list": "skills",
+  "zh": "興番術法",
+  "en": "Rally"
+ },
+ "1A31FD": {
+  "list": "skills",
+  "zh": "龍形劍譜",
+  "en": "Drake Cut"
+ },
+ "1A3206": {
+  "list": "skills",
+  "zh": "天宗劍譜",
+  "en": "Sky Cut"
+ },
+ "1A320F": {
+  "list": "skills",
+  "zh": "蠶蝕術法",
+  "en": "Erode"
+ },
+ "1A3218": {
+  "list": "skills",
+  "zh": "八卦刀譜",
+  "en": "Bagua Cut"
+ },
+ "1A3221": {
+  "list": "skills",
+  "zh": "盜魂術法",
+  "en": "Soul Theft"
+ },
+ "1A322A": {
+  "list": "skills",
+  "zh": "幽靈刀譜",
+  "en": "Ghost Cut"
+ },
+ "1A3233": {
+  "list": "skills",
+  "zh": "夜戰刀譜",
+  "en": "Night Cut"
+ },
+ "1A323C": {
+  "list": "skills",
+  "zh": "游龍刀譜",
+  "en": "Wyrm Cut"
+ },
+ "1A3245": {
+  "list": "skills",
+  "zh": "催眠術法",
+  "en": "Hypnosis"
+ },
+ "1A324E": {
+  "list": "skills",
+  "zh": "八仙棍譜",
+  "en": "Sage Staff"
+ },
+ "1A3257": {
+  "list": "skills",
+  "zh": "風火棍譜",
+  "en": "Blaze Rod"
+ },
+ "1A3260": {
+  "list": "skills",
+  "zh": "伏虎棍譜",
+  "en": "Tigerbane"
+ },
+ "1A3269": {
+  "list": "skills",
+  "zh": "慢影術法",
+  "en": "Slow"
+ },
+ "1A3272": {
+  "list": "skills",
+  "zh": "十字槍譜",
+  "en": "Cross Pike"
+ },
+ "1A327B": {
+  "list": "skills",
+  "zh": "轉化術法",
+  "en": "Transmute"
+ },
+ "1A3284": {
+  "list": "skills",
+  "zh": "断門槍譜",
+  "en": "Gatesplit"
+ },
+ "1A328D": {
+  "list": "skills",
+  "zh": "龍行槍譜",
+  "en": "Drake Pike"
+ },
+ "1A3296": {
+  "list": "skills",
+  "zh": "渾元功法",
+  "en": "Primal Qi"
+ },
+ "1A329F": {
+  "list": "skills",
+  "zh": "風雷斧譜",
+  "en": "Storm Axe"
+ },
+ "1A32A8": {
+  "list": "skills",
+  "zh": "霸王斧譜",
+  "en": "Overlord"
+ },
+ "1A32B1": {
+  "list": "skills",
+  "zh": "奪命斧譜",
+  "en": "Reaper Axe"
+ },
+ "1A32BA": {
+  "list": "skills",
+  "zh": "太極心法",
+  "en": "Taiji"
+ },
+ "1A32C3": {
+  "list": "skills",
+  "zh": "穿楊箭譜",
+  "en": "Sharpshot"
+ },
+ "1A32CC": {
+  "list": "skills",
+  "zh": "連環箭譜",
+  "en": "Chain Shot"
+ },
+ "1A32D5": {
+  "list": "skills",
+  "zh": "射日箭譜",
+  "en": "Sunshot"
+ },
+ "1A32DE": {
+  "list": "skills",
+  "zh": "七星功法",
+  "en": "7 Stars"
+ },
+ "1A32E7": {
+  "list": "skills",
+  "zh": "",
+  "en": null
+ },
+ "1A32E8": {
+  "list": "spells",
+  "zh": "飛石術法",
+  "en": "Stone Shot"
+ },
+ "1A32F1": {
+  "list": "spells",
+  "zh": "形意功法",
+  "en": "Xingyi"
+ },
+ "1A32FA": {
+  "list": "spells",
+  "zh": "三昧火法",
+  "en": "Zen Fire"
+ },
+ "1A3303": {
+  "list": "spells",
+  "zh": "水龍術法",
+  "en": "Hydra"
+ },
+ "1A330C": {
+  "list": "spells",
+  "zh": "蜈蚣術法",
+  "en": "Centipede"
+ },
+ "1A3315": {
+  "list": "spells",
+  "zh": "冥鬼術法",
+  "en": "Ghost Call"
+ },
+ "1A331E": {
+  "list": "spells",
+  "zh": "天雷術法",
+  "en": "Thunder"
+ },
+ "1A3327": {
+  "list": "spells",
+  "zh": "滑步功法",
+  "en": "Glide Step"
+ },
+ "1A3330": {
+  "list": "spells",
+  "zh": "落魂術法",
+  "en": "Soul Fall"
+ },
+ "1A3339": {
+  "list": "spells",
+  "zh": "游龍步法",
+  "en": "Drake Step"
+ },
+ "1A3342": {
+  "list": "spells",
+  "zh": "御劍術法",
+  "en": "Sky Blade"
+ },
+ "1A334B": {
+  "list": "spells",
+  "zh": "天師術法",
+  "en": "Exorcism"
+ },
+ "1A3354": {
+  "list": "spells",
+  "zh": "天絕陣法",
+  "en": "Sky Array"
+ },
+ "1A335D": {
+  "list": "spells",
+  "zh": "地烈陣法",
+  "en": "Rock Array"
+ },
+ "1A3366": {
+  "list": "spells",
+  "zh": "寒冰陣法",
+  "en": "Ice Array"
+ },
+ "1A336F": {
+  "list": "spells",
+  "zh": "風吼術法",
+  "en": "Wind Howl"
+ },
+ "1A3378": {
+  "list": "spells",
+  "zh": "元神術法",
+  "en": "Spirit Ward"
+ },
+ "1A3381": {
+  "list": "spells",
+  "zh": "導氣術法",
+  "en": "Qi Flow"
+ },
+ "1A338A": {
+  "list": "spells",
+  "zh": "大悲咒法",
+  "en": "Mercy Song"
+ },
+ "1A3393": {
+  "list": "spells",
+  "zh": "藥王咒法",
+  "en": "Heal Song"
+ },
+ "1A339C": {
+  "list": "spells",
+  "zh": "護身咒法",
+  "en": "Ward Song"
+ },
+ "1A33A5": {
+  "list": "spells",
+  "zh": "迴風術法",
+  "en": "Whirlwind"
+ },
+ "1A33AE": {
+  "list": "spells",
+  "zh": "霞光術法",
+  "en": "Aurora"
+ },
+ "1A33B7": {
+  "list": "spells",
+  "zh": "白鳥術法",
+  "en": "Crane"
+ },
+ "1A33C0": {
+  "list": "spells",
+  "zh": "幻化術法",
+  "en": "Illusion"
+ },
+ "1A33C9": {
+  "list": "spells",
+  "zh": "迷蹤術法",
+  "en": "Vanish"
+ },
+ "1A34E2": {
+  "list": "enemies",
+  "zh": "鳳眼蟲",
+  "en": "Phoenix Bug"
+ },
+ "1A34E9": {
+  "list": "enemies",
+  "zh": "惡霸",
+  "en": "Bully"
+ },
+ "1A34EE": {
+  "list": "enemies",
+  "zh": "強盜",
+  "en": "Bandit"
+ },
+ "1A34F3": {
+  "list": "enemies",
+  "zh": "亡命之徒",
+  "en": "Desperado"
+ },
+ "1A34FC": {
+  "list": "enemies",
+  "zh": "浪人",
+  "en": "Vagrant"
+ },
+ "1A3501": {
+  "list": "enemies",
+  "zh": "乞丐",
+  "en": "Beggar"
+ },
+ "1A3506": {
+  "list": "enemies",
+  "zh": "道士",
+  "en": "Taoist"
+ },
+ "1A350B": {
+  "list": "enemies",
+  "zh": "李員外",
+  "en": "Squire Li"
+ },
+ "1A3512": {
+  "list": "enemies",
+  "zh": "穿山鼠",
+  "en": "Burrow Rat"
+ },
+ "1A3519": {
+  "list": "enemies",
+  "zh": "長角牛",
+  "en": "Longhorn"
+ },
+ "1A3520": {
+  "list": "enemies",
+  "zh": "巨牙虎",
+  "en": "Sabertooth"
+ },
+ "1A3527": {
+  "list": "enemies",
+  "zh": "扇耳兔",
+  "en": "Fan-Ear Hare"
+ },
+ "1A352E": {
+  "list": "enemies",
+  "zh": "三足蛇",
+  "en": "Tripod Snake"
+ },
+ "1A3535": {
+  "list": "enemies",
+  "zh": "大嘴鳳",
+  "en": "Bigbeak"
+ },
+ "1A353C": {
+  "list": "enemies",
+  "zh": "雙面猴",
+  "en": "Two-Faced Ape"
+ },
+ "1A3543": {
+  "list": "enemies",
+  "zh": "龍蟋蜴",
+  "en": "Dragon Lizard"
+ },
+ "1A354A": {
+  "list": "enemies",
+  "zh": "巨眼獸",
+  "en": "Big-Eye Beast"
+ },
+ "1A3551": {
+  "list": "enemies",
+  "zh": "長袖善舞",
+  "en": "Sleeve Dancer"
+ },
+ "1A355A": {
+  "list": "enemies",
+  "zh": "鬼鼓男",
+  "en": "Ghost Drummer"
+ },
+ "1A3561": {
+  "list": "enemies",
+  "zh": "舞鞭人",
+  "en": "Whip Dancer"
+ },
+ "1A3568": {
+  "list": "enemies",
+  "zh": "玩火者",
+  "en": "Fire Juggler"
+ },
+ "1A356F": {
+  "list": "enemies",
+  "zh": "耍珠人",
+  "en": "Orb Juggler"
+ },
+ "1A3576": {
+  "list": "enemies",
+  "zh": "舞俑",
+  "en": "Dancing Figure"
+ },
+ "1A357B": {
+  "list": "enemies",
+  "zh": "人馬魂",
+  "en": "Centaur Spirit"
+ },
+ "1A3582": {
+  "list": "enemies",
+  "zh": "銅面鬼",
+  "en": "Bronze Mask"
+ },
+ "1A3589": {
+  "list": "enemies",
+  "zh": "秦俑人",
+  "en": "Terracotta"
+ },
+ "1A3590": {
+  "list": "enemies",
+  "zh": "貓面鬼",
+  "en": "Cat-Face Ghost"
+ },
+ "1A3597": {
+  "list": "enemies",
+  "zh": "蛇首人身",
+  "en": "Snakehead"
+ },
+ "1A35A0": {
+  "list": "enemies",
+  "zh": "花妖",
+  "en": "Flower Fiend"
+ },
+ "1A35A5": {
+  "list": "enemies",
+  "zh": "羊刃",
+  "en": "Yangren"
+ },
+ "1A35AA": {
+  "list": "enemies",
+  "zh": "陀羅",
+  "en": "Tuoluo"
+ },
+ "1A35AF": {
+  "list": "enemies",
+  "zh": "天哭",
+  "en": "Tianku"
+ },
+ "1A35B4": {
+  "list": "enemies",
+  "zh": "天虛",
+  "en": "Tianxu"
+ },
+ "1A35B9": {
+  "list": "enemies",
+  "zh": "空亡",
+  "en": "Kongwang"
+ },
+ "1A35BE": {
+  "list": "enemies",
+  "zh": "喪門",
+  "en": "Sangmen"
+ },
+ "1A35C3": {
+  "list": "enemies",
+  "zh": "劫煞",
+  "en": "Jiesha"
+ },
+ "1A35C8": {
+  "list": "enemies",
+  "zh": "住持",
+  "en": "Abbot"
+ },
+ "1A35CD": {
+  "list": "enemies",
+  "zh": "大蟒蛇",
+  "en": "Python"
+ },
+ "1A35D4": {
+  "list": "enemies",
+  "zh": "黑姥姥",
+  "en": "Granny Hei"
+ },
+ "1A35DB": {
+  "list": "enemies",
+  "zh": "黑蜘蛛",
+  "en": "Black Spider"
+ },
+ "1A35E2": {
+  "list": "enemies",
+  "zh": "青姑",
+  "en": "Sister Qing"
+ },
+ "1A35E7": {
+  "list": "enemies",
+  "zh": "紅姑",
+  "en": "Sister Hong"
+ },
+ "1A35EC": {
+  "list": "enemies",
+  "zh": "黃姑",
+  "en": "Sister Huang"
+ },
+ "1A35F1": {
+  "list": "enemies",
+  "zh": "池怪",
+  "en": "Pool Fiend"
+ },
+ "1A35F6": {
+  "list": "enemies",
+  "zh": "山魅",
+  "en": "Hill Wraith"
+ },
+ "1A35FB": {
+  "list": "enemies",
+  "zh": "天煞",
+  "en": "Tiansha"
+ },
+ "1A3600": {
+  "list": "enemies",
+  "zh": "洪元通",
+  "en": "Hong Yuantong"
+ },
+ "1A3607": {
+  "list": "enemies",
+  "zh": "地魔",
+  "en": "Earth Demon"
+ },
+ "1A360C": {
+  "list": "enemies",
+  "zh": "大魔王",
+  "en": "Demon King"
+ },
+ "1A3613": {
+  "list": "enemies",
+  "zh": "大魔王",
+  "en": "Demon King"
+ },
+ "1A361A": {
+  "list": "enemies",
+  "zh": "大魔王",
+  "en": "Demon King"
+ },
+ "1A3621": {
+  "list": "enemies",
+  "zh": "樹妖",
+  "en": "Tree Fiend"
+ },
+ "1A3626": {
+  "list": "enemies",
+  "zh": "小和尚",
+  "en": "Young Monk"
+ },
+ "1A362D": {
+  "list": "enemies",
+  "zh": "家丁",
+  "en": "Servant"
+ },
+ "1A3632": {
+  "list": "enemies",
+  "zh": "靈芝怪",
+  "en": "Fungus Fiend"
+ },
+ "1A3639": {
+  "list": "enemies",
+  "zh": "石怪",
+  "en": "Rock Fiend"
+ },
+ "1A363E": {
+  "list": "enemies",
+  "zh": "蛇王",
+  "en": "Snake King"
+ },
+ "1A3643": {
+  "list": "enemies",
+  "zh": "風魔",
+  "en": "Wind Demon"
+ },
+ "1A3648": {
+  "list": "enemies",
+  "zh": "毒海星",
+  "en": "Toxic Starfish"
+ },
+ "1A364F": {
+  "list": "enemies",
+  "zh": "火童",
+  "en": "Fire Imp"
+ },
+ "1A3654": {
+  "list": "enemies",
+  "zh": "雪怪",
+  "en": "Yeti"
+ },
+ "1A3659": {
+  "list": "enemies",
+  "zh": "長牙蝠",
+  "en": "Fang Bat"
+ },
+ "1A3660": {
+  "list": "enemies",
+  "zh": "仙人掌怪",
+  "en": "Cactus Fiend"
+ },
+ "1A3669": {
+  "list": "enemies",
+  "zh": "勾魂使者",
+  "en": "Soul Reaper"
+ },
+ "1A3672": {
+  "list": "enemies",
+  "zh": "左護法",
+  "en": "Left Guardian"
+ },
+ "1A3679": {
+  "list": "enemies",
+  "zh": "右護法",
+  "en": "Right Guardian"
+ },
+ "1A3680": {
+  "list": "enemies",
+  "zh": "？？？",
+  "en": "???"
+ },
+ "1A3687": {
+  "list": "enemies",
+  "zh": "地煞",
+  "en": "Disha"
+ },
+ "1A368C": {
+  "list": "enemies",
+  "zh": "丹魔",
+  "en": "Elixir Demon"
+ },
+ "1A3691": {
+  "list": "enemies",
+  "zh": "魔女",
+  "en": "Witch"
+ },
+ "1A3696": {
+  "list": "enemies",
+  "zh": "殿前侍舞",
+  "en": "Hall Dancer"
+ },
+ "1A369F": {
+  "list": "enemies",
+  "zh": "",
+  "en": null
+ },
+ "1A36A0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A36A1": {
+  "list": "places",
+  "zh": "牛家橋",
+  "en": "Niujia Bridge"
+ },
+ "1A36A8": {
+  "list": "places",
+  "zh": "白道口",
+  "en": "Baidao Pass"
+ },
+ "1A36AF": {
+  "list": "places",
+  "zh": "上官村",
+  "en": "Shangguan Village"
+ },
+ "1A36B6": {
+  "list": "places",
+  "zh": "清江城",
+  "en": "Qingjiang City"
+ },
+ "1A36BD": {
+  "list": "places",
+  "zh": "風陵渡",
+  "en": "Fengling Ferry"
+ },
+ "1A36C4": {
+  "list": "places",
+  "zh": "水城",
+  "en": "Water City"
+ },
+ "1A36C9": {
+  "list": "places",
+  "zh": "十里舖",
+  "en": "Shilipu"
+ },
+ "1A36D0": {
+  "list": "places",
+  "zh": "荷葉坪",
+  "en": "Heyeping"
+ },
+ "1A36D7": {
+  "list": "places",
+  "zh": "神池",
+  "en": "Sacred Pool"
+ },
+ "1A36DC": {
+  "list": "places",
+  "zh": "逍遙鎮",
+  "en": "Xiaoyao Town"
+ },
+ "1A36E3": {
+  "list": "places",
+  "zh": "托克托",
+  "en": "Tuoketuo"
+ },
+ "1A36EA": {
+  "list": "places",
+  "zh": "鉄辺城",
+  "en": "Tiebian Castle"
+ },
+ "1A36F1": {
+  "list": "places",
+  "zh": "老鹽池",
+  "en": "Old Salt Lake"
+ },
+ "1A36F8": {
+  "list": "places",
+  "zh": "月牙湖",
+  "en": "Crescent Lake"
+ },
+ "1A36FF": {
+  "list": "places",
+  "zh": "青銅峽",
+  "en": "Bronze Gorge"
+ },
+ "1A3706": {
+  "list": "places",
+  "zh": "白崖",
+  "en": "White Cliff"
+ },
+ "1A370B": {
+  "list": "places",
+  "zh": "鎖龍",
+  "en": "Suolong"
+ },
+ "1A3710": {
+  "list": "places",
+  "zh": "不凍泉",
+  "en": "Ice-Free Spring"
+ },
+ "1A3717": {
+  "list": "places",
+  "zh": "地底沙城",
+  "en": "Sunken Sand City"
+ },
+ "1A3720": {
+  "list": "places",
+  "zh": "沈皓家",
+  "en": "Shen Hao's House"
+ },
+ "1A3727": {
+  "list": "places",
+  "zh": "鄰家",
+  "en": "Neighbor"
+ },
+ "1A372C": {
+  "list": "places",
+  "zh": "雜貨店",
+  "en": "General Store"
+ },
+ "1A3733": {
+  "list": "places",
+  "zh": "方天弓家",
+  "en": "Fang's House"
+ },
+ "1A373C": {
+  "list": "places",
+  "zh": "茶店",
+  "en": "Teahouse"
+ },
+ "1A3741": {
+  "list": "places",
+  "zh": "古廟",
+  "en": "Old Temple"
+ },
+ "1A3746": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A374B": {
+  "list": "places",
+  "zh": "古厝",
+  "en": "Old House"
+ },
+ "1A3750": {
+  "list": "places",
+  "zh": "村長家",
+  "en": "Elder's House"
+ },
+ "1A3757": {
+  "list": "places",
+  "zh": "學者家",
+  "en": "Scholar's House"
+ },
+ "1A375E": {
+  "list": "places",
+  "zh": "武器防具店",
+  "en": "Arms & Armor"
+ },
+ "1A3769": {
+  "list": "places",
+  "zh": "上官明家",
+  "en": "Shangguan Ming's"
+ },
+ "1A3772": {
+  "list": "places",
+  "zh": "藥舖",
+  "en": "Pharmacy"
+ },
+ "1A3777": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A377C": {
+  "list": "places",
+  "zh": "酒館",
+  "en": "Tavern"
+ },
+ "1A3781": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3786": {
+  "list": "places",
+  "zh": "防具店",
+  "en": "Armor Shop"
+ },
+ "1A378D": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3792": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3797": {
+  "list": "places",
+  "zh": "武器藥舖",
+  "en": "Arms & Medicine"
+ },
+ "1A37A0": {
+  "list": "places",
+  "zh": "張看家",
+  "en": "Zhang Kan's House"
+ },
+ "1A37A7": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A37AC": {
+  "list": "places",
+  "zh": "明尊寺",
+  "en": "Mingzun Temple"
+ },
+ "1A37B3": {
+  "list": "places",
+  "zh": "李員外府",
+  "en": "Squire Li's Manor"
+ },
+ "1A37BC": {
+  "list": "places",
+  "zh": "敦煌公司",
+  "en": "Dunhuang Company"
+ },
+ "1A37C5": {
+  "list": "places",
+  "zh": "空屋",
+  "en": "Empty House"
+ },
+ "1A37CA": {
+  "list": "places",
+  "zh": "彩衣女家",
+  "en": "Caiyi's House"
+ },
+ "1A37D3": {
+  "list": "places",
+  "zh": "雜物間",
+  "en": "Storeroom"
+ },
+ "1A37DA": {
+  "list": "places",
+  "zh": "水城一",
+  "en": "Water City 1"
+ },
+ "1A37E1": {
+  "list": "places",
+  "zh": "水城三層",
+  "en": "Water City 3F"
+ },
+ "1A37EA": {
+  "list": "places",
+  "zh": "地底祕道",
+  "en": "Secret Tunnel"
+ },
+ "1A37F3": {
+  "list": "places",
+  "zh": "武器店",
+  "en": "Weapon Shop"
+ },
+ "1A37FA": {
+  "list": "places",
+  "zh": "葯舖",
+  "en": "Pharmacy"
+ },
+ "1A37FF": {
+  "list": "places",
+  "zh": "空屋",
+  "en": "Empty House"
+ },
+ "1A3804": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A3809": {
+  "list": "places",
+  "zh": "雜貨店",
+  "en": "General Store"
+ },
+ "1A3810": {
+  "list": "places",
+  "zh": "丘道人家",
+  "en": "Qiu's House"
+ },
+ "1A3819": {
+  "list": "places",
+  "zh": "織布者",
+  "en": "Weaver"
+ },
+ "1A3820": {
+  "list": "places",
+  "zh": "火葯家",
+  "en": "Powder Maker"
+ },
+ "1A3827": {
+  "list": "places",
+  "zh": "煉鉄者",
+  "en": "Ironsmith"
+ },
+ "1A382E": {
+  "list": "places",
+  "zh": "呼爾穆珠家",
+  "en": "Hurmuzhu's House"
+ },
+ "1A3839": {
+  "list": "places",
+  "zh": "製葯者",
+  "en": "Apothecary"
+ },
+ "1A3840": {
+  "list": "places",
+  "zh": "民宅",
+  "en": "House"
+ },
+ "1A3845": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A384A": {
+  "list": "places",
+  "zh": "劉三家",
+  "en": "Liu San's House"
+ },
+ "1A3851": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3856": {
+  "list": "places",
+  "zh": "白員外家",
+  "en": "Squire Bai's House"
+ },
+ "1A385F": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3864": {
+  "list": "places",
+  "zh": "工寮",
+  "en": "Work Shed"
+ },
+ "1A3869": {
+  "list": "places",
+  "zh": "老頭家",
+  "en": "Old Man's House"
+ },
+ "1A3870": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3871": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3872": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3873": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3874": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3875": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3876": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3877": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3878": {
+  "list": "places",
+  "zh": "魔城",
+  "en": "Demon Castle"
+ },
+ "1A387D": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A387E": {
+  "list": "places",
+  "zh": "内殿",
+  "en": "Inner Hall"
+ },
+ "1A3883": {
+  "list": "places",
+  "zh": "邪惡殿",
+  "en": "Hall of Evil"
+ },
+ "1A388A": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A388B": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A388C": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A388D": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A388E": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A388F": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3890": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3891": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3892": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3893": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3894": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3895": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3896": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3897": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3898": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3899": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A389A": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A389B": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A389C": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A389D": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A38A2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38A3": {
+  "list": "places",
+  "zh": "民宅",
+  "en": "House"
+ },
+ "1A38A8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38A9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38AF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B4": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B7": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38B9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38BF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C4": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38C7": {
+  "list": "places",
+  "zh": "湖底聖城",
+  "en": "Sunken Holy City"
+ },
+ "1A38D0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D4": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D7": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38D9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38DA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38DB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38DC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38DD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38DE": {
+  "list": "places",
+  "zh": "鎖龍谷",
+  "en": "Suolong Valley"
+ },
+ "1A38E5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38E6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38E7": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38E8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38E9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38EA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38EB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38EC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38ED": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38EE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38EF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38F0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38F1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38F2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38F3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38F4": {
+  "list": "places",
+  "zh": "月牙湖底",
+  "en": "Crescent Lakebed"
+ },
+ "1A38FD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38FE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A38FF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3900": {
+  "list": "places",
+  "zh": "雜貨店",
+  "en": "General Store"
+ },
+ "1A3907": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A390C": {
+  "list": "places",
+  "zh": "防具店",
+  "en": "Armor Shop"
+ },
+ "1A3913": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A3918": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A391D": {
+  "list": "places",
+  "zh": "黑姥姥家",
+  "en": "Granny Hei's House"
+ },
+ "1A3926": {
+  "list": "places",
+  "zh": "葯舖",
+  "en": "Pharmacy"
+ },
+ "1A392B": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3930": {
+  "list": "places",
+  "zh": "防具店",
+  "en": "Armor Shop"
+ },
+ "1A3937": {
+  "list": "places",
+  "zh": "武器店",
+  "en": "Weapon Shop"
+ },
+ "1A393E": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A3943": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A3948": {
+  "list": "places",
+  "zh": "武器防具店",
+  "en": "Arms & Armor"
+ },
+ "1A3953": {
+  "list": "places",
+  "zh": "葯舖",
+  "en": "Pharmacy"
+ },
+ "1A3958": {
+  "list": "places",
+  "zh": "民舍",
+  "en": "House"
+ },
+ "1A395D": {
+  "list": "places",
+  "zh": "藍道人家",
+  "en": "Taoist Lan's House"
+ },
+ "1A3966": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A396B": {
+  "list": "places",
+  "zh": "葯舖",
+  "en": "Pharmacy"
+ },
+ "1A3970": {
+  "list": "places",
+  "zh": "客棧",
+  "en": "Inn"
+ },
+ "1A3975": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3976": {
+  "list": "places",
+  "zh": "武器防具店",
+  "en": "Arms & Armor"
+ },
+ "1A3981": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3982": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3983": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3984": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3985": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3986": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3987": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3988": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3989": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398A": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398B": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398C": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398D": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398E": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A398F": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3990": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3991": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3992": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3993": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3994": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3995": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3996": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3997": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3998": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A3999": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399A": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399B": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399C": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399D": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399E": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A399F": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A4": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A7": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39A9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39AF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B2": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B3": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B4": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B5": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B6": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B7": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B8": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39B9": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BA": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BB": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BC": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BD": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BE": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39BF": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39C0": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ },
+ "1A39C1": {
+  "list": "places",
+  "zh": "",
+  "en": null
+ }
+}

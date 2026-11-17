@@ -1,0 +1,466 @@
+[14E8B2]
+May I visit your ancestral house?
+
+[14E8D4]
+Of course. Come, I'll show you right now.
+
+[14E8FC]
+You looked flustered just now. Has something happened?
+
+[14E928]
+...My daughter is sixteen, yet she's always swinging swords, wilder than any boy! She made trouble at the tavern again. I went to apologize and she said I took their side...
+
+[14E9AC]
+Now who knows where she's run off to. Sigh! Are children for comfort in old age, or for torture?
+
+[14E9EE]
+I gave her the wrong name! Her mother wanted "Furong" as in lotus, but I chose the "rong" of war. Now she does nothing but fight...
+
+[14EA52]
+Have you seen that wild girl of mine?
+
+[14EA6A]
+Go away! You boring, tedious bunch!
+
+[14EA8E]
+She's really wild, isn't she? I wonder if it's too late to change her name?...
+
+[14EAC8]
+Don't take it to heart. She recently lost the gold hairpin her mother left her before she died, so she's in a foul mood. Once it's found, she'll probably cheer up!
+
+[14EB3E]
+Miss Furong, your father says you lost a gold hairpin. Come see if this is it.
+
+[14EB7C]
+Wow! Great! I've looked everywhere for it. Where did you find it?
+
+[14EBAA]
+I found it by the stove.
+
+[14EBC4]
+Oh! Ahua must have carried it off to play with!
+
+[14EBEA]
+Ahua?... Who's Ahua?
+
+[14EC08]
+Oh! Ahua is my dad's old cat. She's always chewing things. Who knows where she's napping now. Anyway, thanks.
+
+[14EC6A]
+It was nothing, really.
+
+[14EC84]
+You're quite a smooth talker! Since Mother died, I've been stuck in this village. Tell you what, I'll come with you and see the world.
+
+[14ECE8]
+All right, but your father has to agree.
+
+[14ED0A]
+No problem, Dad dotes on me. As long as I don't make trouble, he'll say yes.
+
+[14ED4A]
+Ha! Ha! Ha! So you know you love making trouble.
+
+[14ED74]
+You... Never mind. Since you found my hairpin, I'll let it go. Come... let's go see my dad.
+
+[14EDC0]
+Dad, I want to go out and see the world. Is that all right?
+
+[14EDE4]
+Sigh! You're old enough now. A journey might do you good. But being away isn't like home, so stay out of trouble.
+
+[14EE30]
+Dad! Don't worry, I'll be fine.
+
+[14EE4E]
+Please take care of my girl from now on.
+
+[14EE6E]
+Don't worry, sir.
+
+[14EE86]
+Dad, we're off.
+
+[14EE9C]
+Be careful out there!
+
+[14EEB8]
+Sigh! Remember to come home and see your dad often.
+
+[14EED0]
+Shen Hao! Need me to join you?
+={>130}Yes{>169}No
+
+[14F042]
+The tablet speaks of "five woes". Old books also say, "When five ill omens appear in heaven and earth, the world will perish."
+={>130}Ask{>169}Leave
+
+[14F0B6]
+What do you want to know?
+={>13}Blood meteor
+={>13}The tablet
+={>13}The five woes{>169}Leave
+
+[14F0F6]
+About what's written on the tablet...
+={>13}The Son of Evil
+={>13}Red dragon fire
+={>169}Other
+
+[14F142]
+About the Son of Evil, you want to know...
+={>13}The Mani Heart
+={>13}Your opinion
+={>169}Other
+
+[14F196]
+Since ancient times, meteors have been ill omens. And one the color of blood surely means even worse disaster.
+
+[14F1DC]
+From the fine carving and script, that tablet is not the work of an ordinary man!
+
+[14F218]
+The "five woes" are five strange omens: a meteor, sun and moon together in the west, the moon changing color, a sandstorm, and an eclipse of the moon!
+
+[14F278]
+If heaven and earth show these signs, the doom cannot be undone.
+
+[14F2A2]
+Whoa~ How can I remember all that?
+
+[14F2C0]
+Since you're keen, again: the five woes are a meteor, a sandstorm, sun and moon together in the west, the moon changing color, and an eclipse! Sigh... catastrophe.
+
+[14F332]
+Anything else you'd like to ask?
+={>130}Other{>169}Leave
+
+[14F368]
+I think I've heard it somewhere... Sigh... I'm getting old! My memory's going... Who was it that said it?
+
+[14F3B2]
+I can't make sense of that line either... Does it mean that beast on the tablet, neither animal nor demon?
+
+[14F3F2]
+I've been puzzling over that too... "Mani" means "jewel", but "heart of sun and moon" I don't understand!
+
+[14F446]
+My opinion?... I... I... I don't know... This... this is beyond my knowledge.
+
+[14F49A]
+Could it be... disaster really is upon us?
+
+[14F4B8]
+I remember where I heard "Son of Evil"! Last month in Qingjiang City, the abbot of Mingzun Temple mentioned it.
+
+[14F50E]
+Hmm! I must go ask the abbot someday...
+
+[14F74A]
+You're not from our village, are you? Come, come, don't be shy, have a seat!
+={>130}Ask{>169}Leave
+
+[14F79C]
+Ask away!
+={>13}Qingjiang City
+={>13}Shangguan Village
+={>13}The tablet{>169}Leave
+
+[14F7DA]
+About Qingjiang City...
+={>13}The strange illness
+={>13}The abbot
+={>169}Leave
+
+[14F81C]
+I just came from there. It's terrible! Many people died! Luckily the abbot saved the day. It's all right now.
+
+[14F870]
+Nothing much happens here. We can't keep up! Everything changes so fast now, Shangguan Village has fallen out of touch.
+
+[14F8CA]
+I don't have an opinion. Worrying won't help! Who knows if I'll be alive tomorrow?... But I am quite interested in that tablet. It should fetch a good price.
+
+[14F944]
+It's no illness. It's a snake demon's doing! Brush against its poison breath and you just drop dead!
+
+[14F992]
+We owe him a lot this time. Without him, all of Qingjiang would have been lost.
+
+[14F9C0]
+Going to Qingjiang City? Be careful, it's still chaotic there.
+
+[14F9E8]
+Nice house, eh? I designed it myself! Look around, it's fine!
+
+[14FA1C]
+Five Fists manual
+
+[14FA26]
+Well, little brother? Interested? I'm a merchant, I don't understand these things, but it should be useful to you.
+={>130}Buy{>169}Don't
+
+[14FA90]
+I'll give you a deal: just 100 gold.
+
+[14FAB4]
+Same old price, 100 gold.
+
+[14FAD2]
+={>13}Too expensive! No thanks.
+={>13}I'm Amu's friend. Any discount?
+={>13}All right, I'll take it.
+
+[14FB16]
+Sorry, even brothers keep accounts! Besides, that rascal Amu still owes me 30 gold.
+
+[14FB5A]
+Good, it's yours.
+
+[14FB6E]
+No matter, forget it.
+
+[14FB84]
+Ah! You don't have enough money. Come again next time!
+
+[14FD3E]
+Hey, lad! You look like a man who knows quality. I have something special here. Want a look?
+={>130}Yes{>169}Leave
+
+[14FDAA]
+I have a fine art here called "Dazzle". They say if you use it on bad guys, they can't see and lose all sense of direction... Well? Want it?...
+
+[14FE2C]
+It's good, just a bit pricey: 300 gold. Want it?
+={>130}Yes{>169}No
+
+[14FE82]
+Wonderful, it's yours now.
+
+[14FEA2]
+No matter. Come buy it when you've scraped the money together!
+
+[14FEC8]
+Feel free to look around.
+
+[14FEDE]
+Lad, don't provoke her. Her dad just gave her an earful, she's in a bad mood.
+
+[14FF16]
+So she's Furong?
+
+[14FF28]
+You know my name?
+
+[14FF3E]
+They were talking about you in the tavern just now. They kept praising you!
+
+[14FF6A]
+={>13}I think you did the right thing.
+={>13}Don't be mad, he means well!
+={>13}You could have just talked!
+
+[14FFC8]
+But my dad scolded me without even asking what happened!
+
+[14FFEA]
+He was worried about you. That's why he got angry!
+
+[15000C]
+Yes! I'm always making him worry.
+
+[150026]
+By the way, who are you? What brings you to Shangguan Village?
+
+[15004C]
+My name is Shen Hao. I'm going to Qingjiang City to find someone.
+
+[150072]
+I'm Fang Tiangong. We grew up together. We're off to see the world and broaden our horizons!
+
+[1500BA]
+Can I come with you? I want to see what's outside Shangguan Village too!
+
+[1500F2]
+But... you're a girl...
+
+[15010C]
+What difference does that make? In a fight I could beat you! Please! I won't hold you back, I promise. OK?
+={>130}Yes{>169}No
+
+[15017C]
+Great! See you at the village gate!
+
+[15019C]
+Fine! I'll just go on my own!
+
+[1501BA]
+I know! But he never listens to me!
+
+[1501DC]
+He's worried about you too!
+
+[1501F2]
+He is your father. It's only right for him to scold you a bit.
+
+[15021A]
+Yes! Whatever happens, he really loves me.
+
+[150240]
+I don't believe you're really that well-behaved! Easier said than done!
+
+[15026C]
+Tell me to talk it out the day someone bullies you!
+
+[1502A6]
+Ah! You don't have enough money. Come again next time!
+
+[1502C4]
+What can I do for you?
+={>13}Trade
+={>13}Talk
+={>169}Leave
+
+[1503FC]
+Welcome! A rest is only 10 gold, very cheap...
+={>130}Yes{>169}No
+
+[15044A]
+Then have a good rest! But please don't disturb the other guests.
+
+[150478]
+All right, no matter. But you look like you've come from far away. You'd better get a good rest!
+
+[1504CA]
+The whole inn is empty. I bet I'm the only guest who got suckered in.
+
+[1504FA]
+Ah! Not enough money?! Come again next time!
+
+[150758]
+Little brother! How old are you? No drinking under eighteen!
+
+[150786]
+I don't get you. What's there to see in a tavern? Just a bunch of drunks.
+
+[1507BA]
+Hey! Out! Out! I hate liars!
+
+[1507E2]
+={>13}I'm already eighteen.
+={>13}I don't drink. Just looking.
+={>13}I'm looking for someone.
+
+[150824]
+Then show me your ID, please.
+
+[150842]
+They have "ID" in this day and age?
+
+[150866]
+Every dynasty has it! Shoo, shoo! So young and already wanting to drink!
+
+[150894]
+All right, look around as you like.
+
+[1508AE]
+All right, but don't stay long.
+
+[1508C6]
+...Seen you... somewhere... Who are you?... Oh! I'm Qing Boyang! Sigh... "Green waves beneath the Bridge of Sorrow, where once her lovely image shone..." Sigh!...
+
+[150944]
+You know why I drink?... Because I always feel something's wrong with life... I always feel so powerless...
+
+[15099C]
+Powerlessness, you know?... So powerless...
+
+[1509C2]
+Kid! Why'd you bump into me? Want to die? Get lost!
+
+[1509E6]
+Go away! Make me mad and you'll get a beating!
+
+[150A04]
+Little brother, from out of town?
+
+[150A1C]
+Kid! You're a handsome one!
+
+[150A32]
+Wow! That was something! Too bad you missed it! Furong just beat a drunk so badly he ran for his life!
+={>130}Ask{>169}Leave
+
+[150A94]
+What do you want to know?
+={>13}Furong
+={>13}The drunk
+={>13}Why they fought{>169}Leave
+
+[150AD0]
+What do you want to know?
+={>13}Furong
+={>13}The drunk
+={>13}What happened{>169}Leave
+
+[150B0C]
+Furong is the elder's darling daughter, but she acts like a boy and loves to stand up for the weak. Her old man is at his wits' end!
+
+[150B5C]
+He's not from our village. He's a hoodlum!
+
+[150B7E]
+That drunk tried to grope Mrs. Li, so Furong gave him a thrashing and ran him out of the village!
+
+[150BC2]
+The elder rushed over, furious that Furong was fighting again, and scolded her. Now who knows where she's gone.
+
+[150C04]
+I really like Furong. Too bad she was born a girl, or she could do great things!
+
+[150C46]
+If you meet her, you'll like her for sure!
+
+[150C6E]
+...I think if I knew kung fu like Furong, I wouldn't feel so powerless... What do you think?
+
+[150CBA]
+Watching Furong thrash that guy was a real blow for us women! So satisfying!
+={>130}Ask{>169}Leave
+
+[150D1A]
+What do you want to know?
+={>13}Furong
+={>13}Kung fu
+={>13}Why they fought{>169}Leave
+
+[150D56]
+What do you want to know?
+={>13}Furong
+={>13}Kung fu
+={>13}What happened{>169}Leave
+
+[150D92]
+She's the elder's only daughter, frank, and always stands up for what's right. Everyone loves her, except her one sworn enemy: her old man.
+
+[150DFA]
+Furong has loved swordplay since she was little. She even trained under a master! She's the best fighter in our village.
+
+[150E3E]
+Lad, you really should meet Furong.
+
+[151B60]
+I'm not a hornless sheep!
+
+[151B74]
+I may not have eaten horse, but I've seen one run!
+
+[151B92]
+Right, we still have to wait for Uncle Zhang to come back.
+
+[151BB0]
+Lately a woman's crying has been heard in the woods at midnight. Something strange is going on.
+
+[151BE8]
+...Huh! Where did she go? Something fishy is going on!

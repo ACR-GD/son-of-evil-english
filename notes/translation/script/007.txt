@@ -1,0 +1,467 @@
+[151C14]
+What dirty work are they up to now? Let's sneak after them and see!
+
+[151C42]
+Huh! Is that a noise behind the door?
+
+[151C5C]
+Quick, let's find somewhere to hide!
+
+[151C76]
+...Evil... an evil power!... Ah... you are...
+
+[151CA4]
+Granny, what are you saying?!...
+
+[151CC8]
+...Child of the devil!!... Evil!...
+
+[151CF2]
+...What on earth is going on?!
+
+[151D16]
+An eerie "...ooh... ooh..." comes from the woods.
+
+[151D32]
+Why such a ghastly wailing?...
+
+[151D58]
+So both of them were monsters in disguise!
+
+[151D78]
+What would you like to ask?
+={>13}Qingjiang City
+={>13}Mingzun Temple
+={>13}The Son of Evil{>169}Leave
+
+[151DBA]
+Never heard of it. Can you eat it?
+
+[151DDA]
+Qingjiang City
+
+[151DE2]
+Huh! Father still isn't here. I'll wait at Uncle's house... and see what else is new in town.
+
+[151E2C]
+Right, I still have to wait for Uncle to come back. I'll look around town first...
+
+[151E64]
+Oh! I almost forgot to give the letter to Uncle Zhang, Zhang Kan.
+
+[151E8E]
+Help! No! I won't go! I won't!...
+
+[151EB0]
+Shut up! Your father sold you to Squire Li!
+
+[151ED6]
+That's not true! You're lying!
+
+[151EEC]
+Why argue with her?! Drag her off!
+
+[151F0A]
+Help! No! I won't go!
+
+[151F26]
+Brat! You want to die? Get out of the way!
+
+[151F4A]
+={>13}Have you no respect for the law?
+={>13}Let's talk this over!
+={>13}...Sorry! Sorry!
+
+[151F90]
+Same old line! Got anything new?
+
+[151FA8]
+You've got some nerve, poking your nose into the Li household's business.
+
+[151FD4]
+Help me, sir! They're lying!
+
+[151FF0]
+Little brother! Mind your own business! Out of the way!
+
+[15200E]
+Should we get involved?
+={>130}Help{>169}Ignore
+
+[152040]
+Let her go!
+
+[15204E]
+Oho! Playing the hero for a pretty girl! Hmph!
+
+[152068]
+As the ancients taught, the less trouble the better.
+
+[15208A]
+Help!
+
+[152096]
+Brat! You dare meddle with the Li household! You'll pay for this!
+
+[1520BC]
+Thank you for saving me! If they'd taken me to Squire Li, I'd rather have died!
+={>130}Ask{>169}Leave
+
+[152118]
+Ask whatever you want to know!
+={>13}Squire Li
+={>13}Why they took you
+={>13}Qingjiang City{>169}Leave
+
+[152166]
+About Qingjiang City...
+={>13}The abbot
+={>13}Zhang Kan
+={>169}Other
+
+[1521AA]
+He lives in the west of the city, in the grandest house in town! He's our richest man, and our worst villain.
+
+[1521FC]
+A while ago my father urgently needed 300 gold and borrowed it from him. Later he claimed we owed over 1000! Where would we get that much money?...
+
+[152274]
+So he pressured my father and seized me to pay the debt.
+
+[152298]
+That's outrageous! He has no respect for the law!
+
+[1522BA]
+What can we do? He has a gang of thugs, too many to fight, including some hardened fighters. We just have to swallow it.
+
+[152312]
+You may have heard about the monster recently. Sigh... surviving isn't always a blessing!
+
+[152356]
+Luckily Qingjiang has the abbot. He's our last hope! You must go pay your respects at Mingzun Temple!
+
+[15239A]
+...Zhang Kan... Sorry, I've never heard of him.
+
+[1523C6]
+Squire Li will surely come after you. You'd better leave quickly. I'll never forget your kindness!
+
+[152418]
+...You?... What do you want? I didn't do anything to you!...
+
+[15244A]
+Weird. What's with him? We didn't do anything. He looks like we're going to eat him.
+
+[152488]
+You're not from here, are you? In times like these, go burn incense at Mingzun Temple in the north and pray!
+={>130}Ask{>169}Leave
+
+[1524F6]
+What do you want to know?
+={>13}Qingjiang City
+={>13}Mingzun Temple
+={>13}Zhang Kan{>169}Leave
+
+[152536]
+Things aren't too peaceful here lately. Be careful!
+
+[15255E]
+The abbot of Mingzun Temple is a living bodhisattva with boundless power. He wards off disaster, and he can see the past and future!
+
+[1525AE]
+...Don't know him...
+
+[1525CC]
+The less trouble the better. Remember that!
+
+[1525EA]
+Little brother, pay the toll.
+={>130}Pay{>169}Refuse
+
+[152622]
+Lost 10 gold.
+
+[152630]
+Mm, you know what's good for you. A word of advice, kid: this town's been pretty rough lately, so watch yourself! Heh heh!
+
+[152682]
+What?! Then I'll just help myself!
+
+[15269E]
+What's wrong with this city?
+
+[1526B8]
+Go away! Go away! Tired of living?
+
+[1526D8]
+Young man, you're not from here. If you meet Squire Li's thugs, stay out of their way, or you'll be asking for trouble.
+={>130}Ask{>169}Leave
+
+[152748]
+What do you want to know?
+={>13}Squire Li
+={>13}His thugs
+={>13}Zhang Kan{>169}Leave
+
+[152788]
+Sigh... Don't ask.
+
+[15279E]
+Just keep out of their way!
+
+[1527B6]
+...Ah... I... I don't know...
+
+[1527D8]
+Something's off! Something about this place is very wrong.
+
+[1527FE]
+I think so too! Especially the people here, all frowning. Their faces are so strange...
+
+[152840]
+What a strange city.
+
+[15285C]
+...Nobody's... home... I didn't hear anything... didn't hear... Go away... didn't hear, didn't hear...
+
+[1528C6]
+Thank you so much for driving out the scoundrel! I wonder... weren't the missing people taken by Squire Li?
+
+[152916]
+Where do you think the missing people went?
+
+[152938]
+The man who lives in this house is a bit odd. He keeps saying he hears a ghost woman crying!
+
+[15296E]
+Hurry and get a charm at the temple! People often hear ghosts crying at night lately!
+
+[1529AA]
+Do you believe in ghosts?
+
+[1529C2]
+My mom says the abbot of Mingzun Temple is a living bodhisattva!
+
+[1529E2]
+Have you seen my little sister? She's been missing for two months!
+
+[152A14]
+How can it be? The abbot was a monster in disguise?!
+
+[152A38]
+Why is everything counterfeit these days? Now people even fake being monks!
+
+[152A7C]
+So the monster had us fooled all along.
+
+[152A9C]
+Thank you so much! If not for you, who knows how long we'd have been fooled!
+
+[152AD0]
+...Don't talk nonsense, the abbot is a good man!...
+
+[152AFA]
+They say you're a hero who fights monsters. Is it true?!
+
+[152B1E]
+What the heck are you? This is no place for you to wander!
+
+[152B48]
+What do you want! No loitering!
+
+[152B6A]
+={>13}Tell Li to get out here!
+={>13}I'd like to see Squire Li.
+={>13}Sorry, I'll leave at once.
+
+[152BAA]
+Brat! You asked for it!
+
+[152BBA]
+No! No! Squire Li has no time for the likes of you! Go away!
+
+[152BEC]
+That's them! They're the ones who meddled at the city gate.
+
+[152C14]
+Brat! Tired of living?
+
+[152C2C]
+Excuse me, I've brought a friend to see Squire Li.
+
+[152C4E]
+All right. Go in.
+
+[152C60]
+Huh?
+
+[152C6A]
+Where did he go?
+
+[152C7E]
+Hmph! These bullying rats need a lesson. And let's see what kind of superman this Li is.
+
+[152CD4]
+Big talker! Don't come in if you dare.
+
+[152CF0]
+No one is home.
+
+[152CFA]
+Hmph! You again, making trouble!
+
+[152D12]
+So all these disappearances were the work of you beasts in human skin. Who'd have thought the revered abbot was one of you too. You won't be spared...
+
+[152D88]
+We haven't settled last time, and you keep ruining my business! This time leave your heads here to pay off the debt! Your lives are mine...
+
+[152DEA]
+Brats, you'll remember this!
+
+[152DFE]
+Thank you for saving us, sirs!
+
+[152E14]
+Ah! Squire, someone's followed us through the secret passage.
+
+[152E34]
+Kill them!
+
+[152E40]
+It's all right now. Everyone hurry home through the secret passage!
+
+[152E68]
+Sigh! Who'd have thought the abbot was in league with Squire Li...
+
+[152E96]
+That gave me a fright. I'm not ready to get married yet.
+
+[152EBA]
+Everything's counterfeit these days. Now people even fake being monks. No wonder trade sanctions keep looming over us...
+
+[152F16]
+Little sister! Where are you?!
+
+[153232]
+Huh! The abbot isn't in the temple? Where might the abbot be?
+
+[153262]
+The abbot has just gone out!
+
+[15327A]
+This bodhisattva answers prayers! You must worship devoutly!
+={>130}Ask{>169}Leave
+
+[1532C0]
+What do you want to know?
+={>13}The abbot
+={>13}The illness
+={>13}Zhang Kan{>169}Leave
+
+[1532FC]
+What do you want to ask?
+={>13}The abbot
+={>13}The illness
+={>13}The Son of Evil{>169}Leave
+
+[153336]
+The abbot is a true bodhisattva! We owe him everything this time. He's like a second parent to us!
+
+[153378]
+...It's such a sad story!... My husband was killed by that monster... Sob...
+
+[1533C0]
+Sorry, never heard of him.
+
+[1533DC]
+What did you say?! I've never heard of such a thing!
+
+[153400]
+You know, my child was sick and nothing could cure him. Then the abbot blessed him, and he got well!
+
+[15344E]
+Namo Amitabha...
+
+[153464]
+Have you paid your respects to the abbot of this temple?
+={>130}Ask{>169}Leave
+
+[15349E]
+Anything you want to ask?
+={>13}The abbot
+={>13}The illness
+={>13}Zhang Kan{>169}Leave
+
+[1534DC]
+What do you want to know?
+={>13}The abbot
+={>13}The illness
+={>13}The Son of Evil{>169}Leave
+
+[153516]
+The abbot always warned us to do good deeds, or disaster would come! But we wouldn't listen, and so disaster struck!
+
+[153570]
+The abbot says it's over for now, but if we don't worship and do good deeds, it will happen again!
+
+[1535B6]
+...Ah... N-no... n-never heard of it...
+
+[1535DE]
+That strange look again...
+
+[1535FC]
+Son... of... Evil... I think the abbot mentioned it! He said that if we don't do good deeds quickly, the world is doomed!
+
+[153652]
+Be sure to pay your respects to the abbot!
+
+[15366E]
+Today I offered my favorite doll to the bodhisattva! I have no money, so I gave my doll! What about you?
+
+[1536BE]
+Mom says if we make offerings, the bodhisattva will protect us! Want to make an offering?
+
+[1536F8]
+Amitabha! Have you come to burn incense, sir?
+
+[153716]
+I heard of the abbot's holy virtue, so I came to pay my respects!
+
+[153742]
+You flatter me! How may this humble monk serve you?
+={>130}Ask{>169}Leave
+
+[15378A]
+How may this humble monk help you?
+={>13}The illness
+={>13}The tablet
+={>13}The Son of Evil{>169}Leave
+
+[1537CE]
+About the illness...
+={>13}The snake demon
+={>13}Your powers
+={>169}Other
+
+[153814]
+About the Son of Evil?
+={>13}His coming
+={>13}How to stop it
+={>169}Other
+
+[153868]
+I'm ashamed! My virtue is shallow, so the snake demon ran wild and harmed the people! By the Buddha's grace, I finally slew it!
+
+[1538C0]
+The snake demon had lurked a long time, waiting for its chance! But with good and evil reversed and justice failing, demonic power grew and let it loose!
+
+[153930]
+You jest, sir! What powers would I have? I just recite a few sutras and bow to the Buddha!
+
+[153974]
+I've heard about the tablet in Shangguan Village too! Sigh!! It seems this world's great catastrophe cannot be avoided!
+
+[1539BE]
+Legend tells of a son of darkness, the "Son of Evil", who can gather the power of men, beasts, ghosts, fiends and demons. If he is born, heaven will weep, and evil will rise!

@@ -1,0 +1,458 @@
+[15C6CE]
+What's going on?
+
+[15C6F4]
+Look!
+
+[15C71A]
+...The moon has changed color...
+
+[15C740]
+...Yes, we must hurry! The omens are coming closer and closer together!
+
+[15C786]
+...Time is running out...
+
+[15C7AC]
+The door is locked. You can't get in...
+
+[15C88E]
+The seasons are changing again. We fashion folks are worn out! The boss makes us work overtime every day! Sigh, what a life!
+
+[15C8D2]
+What is it?
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15C916]
+Our town is full of talent! Five years running we've won "Village of Invention"!
+
+[15C94A]
+...Sorry, I've never seen this mark...
+
+[15C96E]
+Is that the title of some novel? I haven't read a novel in ages. I'm out of touch...
+
+[15C9A8]
+Want to buy our local specialty, the "Heavenly Scent Robe"? It's light and soft, so comfortable!
+={>129}Buy{>172}Don't
+
+[15CA0C]
+Thank you. 100 gold.
+
+[15CA22]
+Is this a robbery?! So expensive for one robe!
+
+[15CA44]
+These days the pricier, the rarer! Who'd buy it if it were cheap?
+
+[15CA68]
+Oh, that's all right. Come back anytime you want one!
+
+[15CA8C]
+Not carrying enough? No matter, come back when you have the money!
+
+[15CAB8]
+Well? Buying a Heavenly Scent Robe?
+
+[15CAD2]
+Sir! Our shop has created a new outfit beyond time and space! The Plume Robe, sung of in the famous "Rainbow Robe and Feather Dress"! And there's only one!
+
+[15CB34]
+Sir, you'll regret it if you don't buy!
+={>130}Buy{>167}Don't
+
+[15CB6A]
+Sir, you'll regret it if you don't buy!
+={>129}Buy{>172}Don't
+
+[15CBA2]
+Wonderful! I knew you had refined taste! 300 gold!
+
+[15CBD2]
+You really think I rob banks?
+
+[15CBF0]
+Don't worry, it's definitely a wise choice!
+
+[15CC12]
+={>6}***{>30}***{>60}***
+
+[15CC32]
+Received the Plume Robe.
+
+[15CD12]
+*Cough!* *Cough!*... Failed again!
+
+[15CD36]
+Are you... all right?...
+
+[15CD5C]
+...@#$%^245@!1#!... Something must have gone wrong!... I must find out what!...
+
+[15CDA0]
+Excuse me... what were you doing just now?
+
+[15CDC6]
+I've always dreamed of carrying fire around with me! At last I've done it! I call it "gunpowder"!
+
+[15CE0A]
+Ah! So it was you!
+
+[15CE30]
+What?!
+
+[15CE54]
+Someone once foretold that the invention of "gunpowder" would cause the deaths of countless thousands!
+
+[15CE9A]
+What!... Don't joke like that! I only wanted to help people live better!
+
+[15CEDE]
+It's invented now; I can't stop it! Sigh... I have a treasure that guards a little against fire. Take it to protect yourself! I hope it eases my guilt...
+
+[15CF54]
+But really... how can you blame the inventor? Good or evil depends on the user! Otherwise even a rope can kill!
+
+[15CFB8]
+Received the Fire Shield.
+
+[15D11A]
+Hey! How can you take other people's things! That's wrong! This "Myriad Fist" manual is worth 500 gold at least!
+
+[15D168]
+It's business! Neither side should lose out, right?!
+
+[15D1AC]
+Not enough money? Then forget it!
+
+[15D1C2]
+Forget it! Forget it! Give it back! No deal!
+
+[15D1E6]
+Little brother! See anything you like?
+
+[15D20A]
+Iron is rarely smelted from one pure metal. It's mostly alloys. But the proportions are our family secret!
+
+[15D262]
+What is it?
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15D2B6]
+"Xiaoyao" means carefree, and everyone here lives that way!
+
+[15D2FA]
+Sorry... I don't remember seeing anything like that...
+
+[15D33E]
+...Hmm... I heard that name a while back in the tavern at the inn. I thought they were talking about some kung fu novel!
+
+[15D3A2]
+Want to buy our special weapons?
+={>129}Buy{>172}Don't
+
+[15D3E6]
+Drop by anytime!
+
+[15D55C]
+Sorry! I'm busy! I can't attend to you...
+
+[15D580]
+You?...
+
+[15D592]
+What do you want to know?
+={>12}The Lady Sage
+={>12}The Son of Evil
+={>12}The coronation{>169}Leave
+
+[15D5D6]
+={>12}When is it?
+={>12}How to stop it
+={>12}Other{>169}Leave
+
+[15D612]
+Oh, they flatter me too much! My name is Hurmuzhu. And you are...
+
+[15D648]
+I'm Shen Hao.
+
+[15D656]
+The demon scriptures foretold the "Son of Evil" long ago: "the age when the demon wheel turns". For men it's the end of the world! In short, when he is born,
+
+[15D6DC]
+heaven and earth will change!
+
+[15D6F0]
+The coronation is a great event for the demons. Once the Son of Evil is born, they'll rule the three realms! And their flames will burn away all the world!
+
+[15D76E]
+...burn away all the world!
+
+[15D792]
+Before the Son of Evil appears, five reversed omens show in the sky. At the last, the eclipse of the moon, heaven and earth will fall, and that is when he'll be crowned!
+
+[15D80E]
+...that is when he'll be crowned!
+
+[15D832]
+Honestly, I don't know either. I think many things are still undecided, aren't they? Who can say for sure?
+
+[15D884]
+Shen Hao... or perhaps I should call you the Son of Evil...
+
+[15D8A8]
+...How... how do you know?!...
+
+[15D8CC]
+Sometimes our secrets aren't secrets to others!... Will you tell me what this is all about?
+
+[15D924]
+...I see... You've had it hard... But I think good and evil are still undecided.
+
+[15D968]
+The "demon way" is simply seeing the world through negative eyes, and it only leads you to ruin!
+
+[15D9BE]
+As the holy monk said, there's still a chance, if we find all seven jewels in time! As for the mural shard, I think it's an important key!
+
+[15DA2E]
+Go on.
+={>12}The deadline
+={>12}The Mani Heart
+={>12}The mural shard{>171}Leave
+
+[15DA72]
+={>12}A blade in the water
+={>12}A flame in the moon
+={>173}Leave
+
+[15DAAA]
+Two omens have already appeared. If we don't find all seven jewels before the moon changes color, the sandstorm and finally the eclipse, we'll truly face
+
+[15DB30]
+destruction!
+
+[15DB44]
+If it comes to that, I'll end my own life first! So I won't hurt so many people!
+
+[15DB7E]
+That's no use! Even if you died today, another Son of Evil would appear tomorrow!... The real root of it all is the King of Darkness!
+
+[15DBE2]
+Unless we destroy that root of evil, we'll go on living in fear forever!
+
+[15DC24]
+"Mani" must be Sanskrit for "jewel", and "heart of sun and moon" means the Sky Sword and Moon Blade, yin and yang made one.
+
+[15DC76]
+This mural shard looks like part of a crest. But what does the whole design look like? And where does it come from? Let's all keep an eye out.
+
+[15DCEC]
+I'd guess it means the Moon Blade lies in water.
+
+[15DD18]
+That I don't understand. How can the moon have a flame?...
+
+[15DD5E]
+This isn't just your affair. It concerns the future of all mankind. I want to help too! Will you let me join?
+={>130}Yes{>169}No
+
+[15DDDC]
+I've read the stars. Something will change soon. We'd better set off quickly!
+
+[15DE22]
+...Very well. If you need me, I'll be here.
+
+[15DE68]
+Well? Will you let me join now?
+={>130}Yes{>169}No
+
+[15E0A8]
+I keep wondering: could a medicine be made that turns you into a superman the moment you take it?... I hear someone made one from a vegetable. Do you know which?
+
+[15E128]
+Which vegetable was it?
+
+[15E13C]
+Heh heh! I've just mixed a new beauty potion from spider legs, toad skin, snake spit and cockroach whiskers! Want to try it? It's one of a kind!
+
+[15E1C0]
+...Um, no thanks! "Natural is beautiful."
+
+[15E1E4]
+Well? Be the test subject for my new drug!
+={>129}Yes{>172}No
+
+[15E228]
+Wonderful! Here! Drink this!
+
+[15E24C]
+...Help! I'm burning all over!...
+
+[15E272]
+Failed again!... Oh well! You weren't much to look at anyway. No great loss!
+
+[15E2B4]
+Why not? You look like that already. What's the harm in trying?
+
+[15E2F8]
+Little brother, you won't find so many wonder drugs anywhere else! We hire several master physicians to develop new medicines!
+
+[15E356]
+You've got a good eye! We made this specially for people with weak stamina. It's our best seller!
+
+[15E3B0]
+Lad! You know quality! An Indian monk left this for us to sell. He said it's just a small chant, but it can free people from the sea of suffering!
+
+[15E414]
+Come back whenever you need anything!
+
+[15E426]
+Little brother, what'll it be? Need anything?
+
+[15E44A]
+Let me tell you, this shop's quality isn't always reliable. Use it and you'll see!
+
+[15E48E]
+Well, what can I do for you?
+={>13}Rally{>71}....{>101}500
+={>13}Mercy Song{>70}....{>100}2000
+={>13}Other{>169}Leave
+
+[15E4F8]
+Not enough money? Then come back next time.
+
+[15E516]
+Sorry, that's sold out!
+
+[15E930]
+How dare you barge into my place?!
+
+[15E954]
+What's your connection to the Hill Wraith?!
+
+[15E97A]
+What's it to you?... Prepare to die!
+
+[15E99E]
+The Hill Wraith... will surely... avenge me...
+
+[15E9C2]
+We still don't know where the Hill Wraith is...
+
+[15E9E8]
+Received a Drake Cap.
+
+[15EA9E]
+Huh? Look! Isn't that the Hill Wraith's mark?
+
+[15EAC4]
+This household must be connected to the Hill Wraith!
+
+[15EBFE]
+As the saying goes, "When wine goes in, secrets come out!" So after I drink, I never say a word!
+
+[15EC62]
+Ha ha! Hilarious! Your secrets were all spilled long before you shut your mouth!
+
+[15ECA6]
+No more talk! I... I can't talk anymore...
+
+[15ECCA]
+He's dead drunk...
+
+[15ECF0]
+I think the devil's been really busy lately!...
+
+[15ED14]
+Look at those two, drunk as lords... Sigh... In this world, being truly drunk can be a kind of bliss... but only for a moment. When you wake, you must face it all again. Right?
+
+[15ED96]
+When you wake, you must face it all again. Right?
+
+[15EDBA]
+What is it?
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15EE0E]
+What is it?
+={>12}The underworld
+={>12}The coronation
+={>12}Other{>169}Leave
+
+[15EE62]
+This town's a lot of fun, full of oddballs! Take your time and look around!
+
+[15EEA6]
+Huh?... Sorry... I... I've never seen it...
+
+[15EECA]
+You mean that "Devil's Son" everyone's talking about? I hear the underworld is all abuzz over this "happy event". Demons big and small are busy preparing his coronation!
+
+[15EF4E]
+...preparing his coronation!
+
+[15EF8E]
+They say the Demon King's palace is 84,000 miles underground!
+
+[15EFD2]
+They say the Son of Evil isn't really of the demon world, so there'll be a coronation rite to root out all the humanity inside him!
+
+[15F02A]
+They say this coronation was foretold a thousand years ago in the demon cult's holy book!
+
+[15F06E]
+About the Son of Evil, ask our village's Lady Sage. She lives in the big house in the southwest of town.
+
+[15F0D2]
+Anything else?
+
+[15F0F6]
+...What do you want?
+
+[15F11A]
+Go on, ask.
+={>12}Xiaoyao Town
+={>12}Wraith's mark
+={>12}The Son of Evil{>171}Leave
+
+[15F16E]
+This town is as ordinary as it gets. Nothing special here!
+
+[15F1B2]
+...Huh?!... Um... no! I've never seen this mark... Why are you asking about it?
+
+[15F1F6]
+No reason. It just looked unusual, so I asked.
+
+[15F21A]
+={>12}I urgently need to find its owner.
+
+[15F23C]
+Sorry, I can't help you.
+
+[15F260]
+...I'm not sure! Sorry.
+
+[15F284]
+Money's tight lately. I have a spell here that can save your life in an emergency. Will you buy it?
+={>130}Yes{>169}No
+
+[15F2E6]
+500 gold. Deal?
+={>130}Yes{>169}No
+
+[15F328]
+What?... Then... it breaks my heart, but 250 gold!
+={>130}Yes{>169}No
+
+[15F36A]
+What?... No way! That's my lowest price! Don't rob a poor man in his hour of need! Are you buying or not?
+={>130}Yes{>169}No

@@ -1,0 +1,431 @@
+[156B32]
+Sigh! Fight, fight, fight. Fight him with what? Have you got power? Influence? Two cups of wine and you're talking nonsense...
+
+[156B88]
+Sigh, at least it lets off steam... This is no place for people to live. I wish I had somewhere to live in peace.
+
+[156BD6]
+Honestly, I'm almost certain Squire Li's behind it, but who dares look into it? Don't say I told you, I don't want to die. And the armor shop owner's daughter is missing too.
+
+[156C5A]
+No ordinary folk get into that mansion. But... I hear the weapon shop owner deals foreign arms and guns for Squire Li, so many that even the magistrate is worried.
+
+[156CDA]
+I feel much better for getting that off my chest!
+
+[156CF2]
+I bet the armor shop owner is heartbroken! He worked so hard raising that child, and now she's gone.
+
+[156D38]
+I tell you, if I didn't have business here, I'd never come to this godforsaken place.
+
+[156D70]
+A room is 30 gold. Want one?
+={>130}Yes{>169}No
+
+[156DAC]
+Ah! With peace back, business is much better.
+
+[156DCA]
+Who'd have thought you'd drive out that tyrant Li! Heroes really do come young.
+
+[156DFA]
+Hey! You're better than you look! If you're ever up north, come visit. I run a pharmacy in Shilipu. Drop by when you pass!
+
+[156E5A]
+Little brother, are you really sure the abbot was evil?... Sigh!... I still can't believe it...
+
+[156EA8]
+My dad runs this place. He says since you drove out the bad guys, business is much better. Mom says thank you so much!
+
+[156F0C]
+Can you stay here? I don't have any friends. I'm so lonely!
+
+[156F3A]
+I'm afraid you don't have enough for a room, sir.
+
+[157968]
+Did you see that blood-red meteor? How frightening!
+
+[15798C]
+What is it, child?
+={>12}Blood meteor
+={>12}Qingjiang City
+={>12}Lately...{>179}Leave
+
+[1579D2]
+They call meteors broom stars, bad luck for all who see them! And this one was red as blood! Something terrible is bound to happen!
+
+[157A20]
+Some great evil star has come down to earth! Mark my words!
+
+[157A42]
+I went there a few years ago. A lively place, and every girl a beauty! Sigh... too bad I'm old now...
+
+[157A90]
+...Sigh... I don't know why, lately I always feel uneasy, as if something's about to happen.
+
+[157AD2]
+Sigh... Growing old isn't so sad. What's sad is... when the heart grows old too.
+
+[157B5C]
+You know what? The worst thing is biting off more than you can chew! Dabble in everything and you master nothing!
+
+[157B9A]
+Just like martial arts. What matters most is constant practice. That's how your skill keeps growing!
+
+[157F60]
+Little Hao, I'm leaving my son in your hands!
+
+[157F7C]
+Little Hao, what is it?
+={>12}Blood meteor
+={>12}Qingjiang City
+={>12}Fang Tiangong{>171}Leave
+
+[157FC2]
+Doesn't this meteor seem a bit... wrong to you?... I'm afraid our peaceful days are ending...
+
+[158006]
+City folk are a lot more cunning than us. Keep your wits about you, understand?
+
+[15803C]
+Tiangong is a fine archer. He can help you a lot!
+
+[158064]
+A little hardship is always good for a person.
+
+[158082]
+He's my only son. Please look after him!
+
+[1580A4]
+Something to ask?
+={>12}Blood meteor
+={>12}Qingjiang City
+={>12}Fang Tiangong{>171}Leave
+
+[1580E4]
+It's a bad omen... Must you leave at a time like this?
+
+[158116]
+I'm not sure. But when you're away from home, it's always right to be careful!
+
+[158148]
+That boy never grows up. He's always dreaming he's a knight-errant! Please bear with him.
+
+[15818C]
+Please take good care of my precious son!
+
+[1581B0]
+Wait, I'll be ready in a second.
+
+[1581CC]
+Mom, Dad, I'm off. Please take care of yourselves!
+
+[1581F0]
+Let's go.
+
+[158200]
+Little Hao, here to play with Tiangong?
+
+[158218]
+I hear something happened there lately, but I don't know the details.
+
+[158242]
+Tiangong is a kind boy, he just loves to play too much.
+
+[15826A]
+As the saying goes, "Storms come unforeseen, and fortune turns overnight." Being careful is never wrong.
+
+[1582AE]
+Little Hao! Stay for dinner tonight!
+
+[1582CE]
+I'm scared! Heaven knows what that frightening meteor means.
+
+[158304]
+I hear that city's very lively!
+
+[15831A]
+That boy never grows up, always shouting that he'll be a knight-errant! Talk some sense into him when you can!
+
+[158358]
+Tiangong's in his room. Go play with him.
+
+[15837A]
+Did you come back for me? Will you let me join?
+={>130}Yes{>168}No
+
+[1583C6]
+Great! I knew you'd come back for me! Wait, I'll go tell my parents!
+
+[158408]
+Oh... all right.
+
+[15841A]
+If you change your mind, come find me!
+
+[158440]
+My parents said yes. Let's go!
+
+[15845E]
+Mom, Dad, I'm off. Please take care of yourselves!
+
+[158482]
+Let's go.
+
+[158492]
+Be careful out there!
+
+[1584AE]
+If things go badly out there, come home anytime!
+
+[1584D2]
+Oh, I almost forgot! This is our family's "Bagua Cut" manual. Practice it, and it'll protect you!
+
+[158514]
+Huh?... Is something missing?...
+
+[158536]
+Oh? Little Hao, here to play with Tiangong?
+
+[1587DE]
+Little Hao, going on a journey? Good, it'll broaden your horizons.
+
+[15880E]
+For a long trip, get everything ready before you set off.
+
+[15883A]
+Do you know kung fu? Dad says when you travel, it's best to have a skill to defend yourself!
+
+[15886E]
+Be careful out there! I hear someone was robbed a few days ago and lost his life! Sigh... People are getting worse and worse...
+
+[1588C2]
+Losing money is nothing. Losing your life is a bad deal!
+
+[1588E0]
+Brother Hao! Where are you going?
+
+[1588F8]
+I'm going to Qingjiang City.
+
+[15890C]
+Wow! Can I come with you?
+I really want to travel and see the world!
+
+[158942]
+={>13}Your parents won't let you come!
+={>13}It's my first trip, I can't mind you!
+={>13}Sure, I was getting lonely!
+
+[1589A6]
+My parents are very open-minded. They'll say yes. Will you let me come with you?
+={>130}Yes{>169}No
+
+[158A08]
+I can look after myself! Will you let me come with you?
+={>130}Yes{>169}No
+
+[158A52]
+Great! I'll go pack. See you soon!
+
+[158A78]
+Oh... all right.
+
+[158A8A]
+If you change your mind, come find me!
+
+[158AB0]
+Fang Tiangong wants so badly to see the world. I shouldn't let him down... I'll go find him now.
+
+[158AF0]
+I almost forgot I promised Fang Tiangong we'd travel together. I'll go find him now.
+
+[158FC0]
+Welcome to Baidao Pass, sir! Care to rest your feet? Or buy something?
+
+[158FFC]
+What can I get you, sir?
+={>13}Rest
+={>13}Shop
+={>13}Chat{>182}Leave
+
+[159042]
+A rest is only 10 gold. All right?
+={>130}Yes{>169}No
+
+[15907C]
+Then just call if you need anything.
+
+[15909A]
+What would you like to chat about, sir?
+={>13}Baidao Pass
+={>13}Qingjiang City
+={>13}Blood meteor{>182}Leave
+
+[1590E4]
+What do you want to ask?
+={>13}The epidemic
+={>13}And then...
+={>13}Other{>182}Leave
+
+[159124]
+What do you want to ask?
+={>12}The demon
+={>12}The holy monk
+={>12}Other{>170}Leave
+
+[15915E]
+Things aren't peaceful around here lately. Bandits are about! Mind your own business, sir, or you could lose your life!
+
+[1591A8]
+You asked the right man, sir! Nobody for a hundred miles knows more about it! Qingjiang had it terrible. Hundreds died in just one month! Frightening!
+
+[15921E]
+Now the whole city is practically a ghost town!
+={>130}Other{>169}Leave
+
+[15925E]
+That one really scares me! Red as blood, you say?! Oh my! I want to find somewhere to hide! But heaven knows, where's really safe these days?!
+
+[1592D2]
+They say a demon is behind it! Frightening!
+
+[1592F4]
+Luckily that holy monk is so powerful! One wave of his hand and the snake was cut into eight pieces! Wow! So strong!
+
+[159340]
+They say it was a thousand-year-old snake! A guest said he saw it with his own eyes! It was over seventy feet long and so thick ten men couldn't reach around it!
+
+[1593A8]
+He's the abbot of Mingzun Temple. Everyone says he's a bodhisattva come down to save us!
+
+[1593DC]
+Welcome to Baidao Pass.
+
+[1593F0]
+What is it, lad?
+={>130}Ask{>169}Leave
+
+[159426]
+What do you want to ask me?
+={>13}Qingjiang City
+={>13}Baidao Pass
+={>13}Blood meteor{>182}Leave
+
+[15946A]
+What do you want to ask?
+={>13}The epidemic
+={>13}The abbot
+={>182}Leave
+
+[1594A6]
+What do you want to ask?
+={>13}The waiter
+={>13}Bandits
+={>182}Leave
+
+[1594E2]
+They say the city suffered because people never did good deeds. But now they've all turned over a new leaf and pray devoutly!
+={>130}Other{>169}Leave
+
+[159550]
+Baidao Pass is small, but it's the only road linking north and south. Be careful though, it's not peaceful here lately!
+={>130}Other{>169}Leave
+
+[1595B8]
+Everyone's talking about it lately, but I doubt it's really that scary!
+
+[1595F6]
+I hear a healthy person could be dead within days!
+
+[159620]
+This time we owe it all to that holy monk's mighty power! Once I sell these goods, I'll go pay my respects too!
+
+[159662]
+He's a nice enough guy, but take what he says with a grain of salt. He tends to exaggerate!
+
+[1596A6]
+Sigh! These past years have been chaos, and the harvests poor. People can't make a living, so they turn bandit! Little brother, don't wander around, or you'll find trouble!
+
+[159710]
+Hurry home. Looks like the world's about to go mad!
+
+[159732]
+What do you want?!
+={>130}Ask{>169}Leave
+
+[159762]
+Ask what? What's there to ask!
+={>13}Qingjiang City
+={>13}Baidao Pass
+={>13}Blood meteor{>182}Leave
+
+[1597AC]
+Ask what?
+={>13}The demon
+={>13}The holy monk
+={>182}Leave
+
+[1597E4]
+Ask what?
+={>13}The waiter
+={>13}Bandits
+={>182}Leave
+
+[15981E]
+Why ask about that place? Want to go? You must want to die!
+={>130}Other{>169}Leave
+
+[15985E]
+You're standing in it! What's there to ask?!
+={>130}Other{>169}Leave
+
+[1598A0]
+I don't know! Stop bothering me!
+
+[1598BA]
+Demons, schmemons. These days people are a thousand times worse than demons!
+
+[1598F2]
+Don't know! Stop bothering me!
+
+[15990A]
+Hey! Waiter! Come over here and get rid of this pest for me!
+
+[159938]
+Sorry, sir. Would you please not disturb the other guests?
+
+[159966]
+I'll tell you something! I'm a bandit!
+
+[15997E]
+Sir! Please leave quickly. Forget paying for the damage. If you don't go now, they'll be back with more men!
+
+[1599D0]
+I'm warning you! Bother me again and you're finished!
+
+[1599F0]
+Kid! You asking for a beating?
+
+[159A04]
+What can I do for you, sir?
+
+[159A1C]
+I hear you found a book a while ago. The road gets boring. Would you sell it to me?
+
+[159A61]
+Sure! How much will you offer?
+={>13}5 gold
+={>13}10 gold
+={>13}30 gold{>181}No
+
+[159AAD]
+How much will you offer?
+={>13}5 gold
+={>13}10 gold
+={>13}15 gold{>181}No
+
+[159AF3]
+Ah! Too little! Too little! A bit more!

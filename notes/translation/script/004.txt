@@ -1,0 +1,415 @@
+[148ED8]
+You mean that gloomy place? I never liked it! But the people here seem crazy about it!
+
+[148F20]
+Every time I came before, Drunk Zhang at the pharmacy would drag me off for a big drinking bout. This time he barely looked at me!
+
+[148F72]
+The weapon shop owner is even colder! Not even a hello! I don't get it. Nobody did anything to them!
+
+[148FB8]
+Hey! A few days ago I got something new, called "Hypnosis"! How about it? Want it? Just 250 gold?
+={>130}Yes{>169}No
+
+[149036]
+Ah! You don't have enough money!
+
+[149048]
+Fine! This thing sells easily anyway.
+
+[149066]
+No problem, come buy it when you have the money! I'll keep it for you!
+
+[14909C]
+Yesterday I found a family in the southwest of the city with three daughters, each prettier than the last!
+
+[1490D8]
+If I had a pretty face like yours, I wouldn't be wandering around all alone today!
+
+[149120]
+Well? Got the money? Buying now?
+={>130}Yes{>169}No
+
+[149160]
+There! It's yours!
+
+[14917A]
+Sorry, little brother. If you won't buy it, I'll have to sell it to someone else.
+
+[1491B0]
+Well? Have you been to see those pretty girls yet?
+
+[1491D4]
+Who'd have thought! The whole city was taken over by monsters! No wonder it felt so odd!... But my drinking pal Drunk Zhang, and old Wang? Sigh... I fear the worst.
+
+[149256]
+Aren't you leaving? I'm getting out of this place fast too!
+
+[149284]
+Oh, that's all right. We sailed here ourselves. Once the waves calm down, we can go anywhere.
+
+[1492CA]
+Learned Hypnosis.
+
+[1492D8]
+The three beauties in the west of town were demons? You're pulling my leg! I was going to bring rich gifts and propose once this deal was done!
+
+[149332]
+Friend, don't be fooled by looks. Evil is everywhere these days. Someone like you is in real danger!
+
+[1494F4]
+Huh? Who are you? What do you want?
+
+[149510]
+What do you want to talk about?
+={>13}Water City
+={>13}Old castle
+={>13}Heyeping{>169}Leave
+
+[14954C]
+This place has always been famous for its strange lie of the land. Legend says it was the lost paradise where gods and demons went to war!
+
+[14959C]
+Really?! And how did it end?!
+
+[1495B6]
+A legend?! Of course no one knows. It's been passed around so much there's nothing left to say!
+
+[1495F8]
+Look around and you'll find out! Why keep asking me?
+
+[149624]
+They say the old castle holds priceless treasure, but only those fated can see it!
+
+[149664]
+That's still up north! It's quite a way yet!
+
+[149684]
+Anything else?
+
+[149696]
+Hey! Could you respect my privacy, please?
+
+[1496B4]
+So this is where the tunnel comes out!
+
+[149898]
+Are you from out of town? I've never seen you before.
+
+[1498BA]
+What do you want to know?
+={>13}Who are you?
+={>13}Water City
+={>13}Old castle{>169}Leave
+
+[1498FC]
+I'm Hong Gu. My sisters, mother and I live in the southwest of the city, the house with a tree out front.
+
+[149944]
+Only simple, honest folk live here. Maybe because of where we are, we don't have much to do with outsiders.
+
+[149994]
+People say the treasure inside is only for those who are fated!
+
+[1499BA]
+If you pass my house, come in and sit a while.
+
+[1499D6]
+More strangers have come. How lovely.
+
+[1499F0]
+The waves are too high to sail...
+
+[149A84]
+It seems no one has lived here for a long time.
+
+[149A9C]
+Storeroom
+
+[149CF8]
+You're Shen Hao, right? You've come at last. I just changed your father's dressings. Come see him.
+
+[149D36]
+Father! Father! What happened?
+
+[149D4E]
+...Ying... Ying...
+
+[149D6E]
+Father?... Why are you calling Mother's name?... Wake up!
+
+[149D9A]
+Ying!... No!... What do we do?... The child is innocent!... Ying!...
+
+[149DE8]
+Father! What are you saying?!... Father?! Wake up!
+
+[149E14]
+Your father is badly hurt and not in his right mind. Let him rest for now!
+
+[149E4A]
+...Father...
+
+[149E5E]
+...Father Shen is still asleep...
+
+[149E7C]
+...Hao'er...
+
+[149E92]
+Father!... Who did this to you?!
+
+[149EB6]
+Sigh, don't ask. You're no match for him!... There's little time left... I must tell you what happened back then...
+
+[149F0A]
+Do you know why I never spoke of your mother?
+
+[149F30]
+...I thought maybe it hurt too much to talk about...
+
+[149F5A]
+...Sigh!...
+
+[149F70]
+I loved your mother from the moment I saw her... Did you know?... Your mother was the spirit of an ancient orchid...
+
+[149FCA]
+What?! Mother wasn't human?!
+
+[149FE4]
+Yes. Perhaps that's why she was so otherworldly!... It was love at first sight...
+
+[14A02C]
+But a demon, the Hill Wraith, also pursued your mother. We couldn't fight him, so we hid... Then your mother became pregnant with you...
+
+[14A092]
+But on the day you were born, the Hill Wraith found us somehow! In his jealousy he took your mother and laid a most vicious curse:...
+
+[14A100]
+Seven Mani Jewels?... Could the two jewels I carry be...?
+
+[14A140]
+And... Mother?!... What happened to Mother?
+
+[14A168]
+After she was taken, I heard she soon died of grief...
+
+[14A198]
+...Sob... Cursed Hill Wraith, I'll have my revenge!
+
+[14A1C6]
+Child... Your mother and I failed you... You must rely on yourself now... Go to Heyeping and find Taoist Qiu. He's my good friend...
+
+[14A226]
+...Father... Father!!... Sob...
+
+[14A24E]
+Try to bear your grief. At least your parents are together again.
+
+[14A276]
+I don't believe Brother Shen is some "Son of Evil"! No matter what anyone says!
+
+[14A2B2]
+Don't grieve. Finding the other jewels as soon as we can is what matters most!
+
+[14A2EE]
+...Father! Am I really the Son of Evil from the legend?...
+
+[14A320]
+...I took you wandering far and wide, hoping to find a way to lift the curse... Then I met a holy monk, who said...
+
+[14A37C]
+If you really need my help, just say the word!
+={>130}Yes{>169}No
+
+[14A4FE]
+Please, all I have left is this painting my father gave me. Have pity, buy it! I haven't eaten in days.
+={>130}Buy{>169}Don't
+
+[14A580]
+Thank you! Thank you! Name any price.
+={>13}30 gold
+={>13}50 gold
+={>13}100 gold
+
+[14A5C0]
+Thank you! Thank you so much!
+
+[14A5D4]
+What? You won't... Fine... I was always too stingy, and now look at me. I deserve to be ignored... Take care of yourselves!
+
+[14A63A]
+Looks like you can't afford it either! Sigh, we're both down on our luck...
+
+[14A66C]
+Received a Painting.
+
+[14AAFC]
+This place used to thrive, with ships coming and going. But since monsters appeared in the river, no one dares set sail!
+
+[14AB4C]
+Something I can do for you, lad?
+={>13}Fengling Ferry
+={>13}Monsters
+={>13}Caiyi{>169}Leave
+
+[14AB90]
+About Fengling Ferry...
+={>13}Water City
+={>13}Specialties
+={>169}Other
+
+[14ABD6]
+This is a fishing village, and also the main route north to Water City!
+
+[14AC10]
+The monsters lurk in the water. They stir up storms and spit poison gas!
+
+[14AC46]
+You must mean that strange woman. She came here after the monsters appeared and never talks to anyone. If you want her, she lives in the house by the ferry landing.
+
+[14ACBE]
+Water City is in the north. It's a very unusual place, made up of many small islands. A "city on the water"!
+
+[14AD14]
+We don't have any specialties here, though we do have plenty of "dull folks". I suppose they count!
+
+[14AD64]
+Kid! You can't cross the water! No one dares sail. And there's no one left to do it anyway!
+
+[14ADA4]
+Sigh! Alone, what does it matter where I go?
+
+[14ADC8]
+Why does all the bad luck fall on me? Everything I try fails, and now I can't even catch a fish!
+
+[14AE12]
+What do you want to know? I'll tell you...
+={>13}Fengling Ferry
+={>13}Monsters
+={>13}Caiyi{>169}Leave
+
+[14AE5C]
+Since the monsters came, everyone has fled. Only a few half-dead folks are left! And strangely, some odd woman from who knows where showed up right then!
+
+[14AED8]
+Be careful! Especially near the water! The monsters will burst out, drag you under and eat you!
+
+[14AF22]
+That woman? She's really strange! She moved here over a month ago and hasn't said a word!
+
+[14AF60]
+Leave, quickly! There's nothing to see here! And you can't go any further north.
+
+[14AF98]
+I'd watch out for that woman! She's weird. Anyone can see she's no good!
+
+[14AFD6]
+You need Key C.
+
+[14AFE4]
+Someone answers from inside.
+
+[14AFF2]
+We're busy in here. Please come back later.
+
+[14B010]
+Excuse me...
+={>13}Why was my father hurt?
+={>13}Did you save my father?
+={>13}How do you know him?
+
+[14B060]
+Ask your father when he wakes up.
+
+[14B084]
+...I just happened to pass by...
+
+[14B0A2]
+I think you should go see your father...
+
+[14B0C4]
+Do you know who hurt my father?
+
+[14B0E2]
+...Your father wouldn't say. He must have his reasons. I think you'll find out someday.
+
+[14B128]
+You'll find out someday.
+
+[14B142]
+Can you sail a boat?
+
+[14B154]
+I'll come with you.
+
+[14B16C]
+What?! Why?
+
+[14B180]
+Miss, it's dangerous ahead. You'd better not come.
+
+[14B1AE]
+Miss! Don't joke! We're not going on a pleasure trip!
+
+[14B1DA]
+Without me you'll never get past what lies ahead. Will you let me join?
+={>130}Yes{>169}No
+
+[14B232]
+Let's leave this sad place!
+
+[14B248]
+Then let's go!
+
+[14B25A]
+Very well. The boat's over there. Good luck to you.
+
+[14B280]
+Miss! Miss! Are you there?
+
+[14B29A]
+What is it?
+
+[14B2AC]
+Sorry, but I wanted to ask whether you'd still join my party.
+
+[14B2E2]
+No!
+
+[14B2F0]
+Didn't you say you didn't need me?
+
+[14B30A]
+Forget it... Let's give up!
+
+[14B324]
+All right, let's go!
+
+[14B33A]
+...Sigh... A woman's heart is a needle in the ocean...
+
+[14B360]
+And in Water City there's an old castle. They say it holds countless treasures!
+
+[14B3A2]
+Kid, you can't cross the water! No one dares sail. Besides, there's hardly anyone left in the village.
+
+[14B3E8]
+My condolences! Who'd have thought your life held such sorrow!
+
+[14B41C]
+The waves are rough if you're setting sail now! Be careful!
+
+[14B5F4]
+...Heh!... So you've come at last?... Ho ho ho... Come on!...
+
+[14B638]
+What?! That evil idol again. It makes me shake all over. What an evil thing!
+
+[14B676]
+Damn, such an evil voice. Who? Who's there? Come out and stop playing tricks!
+
+[14B6B4]
+No answer but the echo.

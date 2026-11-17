@@ -1,0 +1,44 @@
+# Text shown outside the script tables (same format as script/*.txt). Applied by tools/ending.py.
+# Story cutscenes ($1B7CD0 table, entries 13-15 and 17), printed in the normal dialogue box.
+[1B8732]
+Spirit: "...You've finally done it..."
+
+[1B8754]
+Shen Hao: "Who are you?..."
+
+[1B876E]
+Spirit: "I am the spirit of the Sky Sword and Moon Blade. I exist only when the two are united. The two weapons are one."
+
+[1B884A]
+Hill Wraith: "Darkness of the four quarters, hear me... Today I offer this newborn's soul to the King of Darkness, whose power knows no bounds!"
+
+[1B88A6]
+Demon King: "I accept your offering! When the child turns eighteen, I'll make him the Son of Darkness! With the blood of man, fiend and demon, he will conquer all!"
+
+[1B89A8]
+I touched the Seven Star pearl to his brow and guarded his heart with the Vajra Mirror. For now, the evil power cannot reach him.
+
+[1B8A02]
+But before his eighteenth birthday you must find the Mani Jewels of seven colors and open his seven chakras. With the Sky Sword and Moon Blade, the curse can be lifted!
+
+[1B8A68]
+Fate can be changed. It all depends on your heart!
+
+[1B8AEE]
+I pray my beloved pearl takes a happy form and flies to the side of the one I love......
+
+# Staff roll (one "label|name" per page, in roll order). "@player" is the reviewer name the
+# player can earn at Funtech; it keeps the original 22-tile slot.
+[credits]
+=Planning|AIDA
+=Art|Fang Wenren
+=Art|Xu Huiqing
+=Programming|Liu Junlong
+=Programming|Chen Minhong
+=Programming|Yang Boqin
+=Music|Bi Shuozhen
+=Sound FX|Zhou Liangrong
+=Testing|Zhang Shengkai
+=Testing|Feng Daiwen
+=Producer|Zhang Yiqin
+=Reviewer|@player

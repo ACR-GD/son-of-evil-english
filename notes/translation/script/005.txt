@@ -1,0 +1,462 @@
+[14B6CE]
+This room is so dark and eerie!...
+
+[14B6EE]
+Let's light a torch!
+
+[14B702]
+Hall of Evil
+
+[14B8F8]
+Ah! Where am I? Why was I brought to a place like this?
+
+[14B922]
+Thank you for saving me, brave sir!
+
+[14B934]
+Kidnapping girls! Nobody human would do such a thing. It's unforgivable!
+
+[14BA8E]
+=Loyalty 1
+=Kindness 2
+=Faith 3
+=Peace 4
+
+[14BEC6]
+The waves are too high to reach the open sea.
+
+[14BEDE]
+...We've finally won...
+
+[14BEFA]
+...Have we?... I don't know...
+If he was real... then what is it we've been fighting?
+
+[14BF48]
+...Could it be... our own hearts?...
+
+[14BF6E]
+...What is the answer?...
+
+[14BF8E]
+Who cares! Just believe in yourself and do your best!
+
+[14BFC0]
+...Sir, the road seems to end here. How do we cross the sea?
+
+[14BFF8]
+Children, I've been waiting for you a long time...
+
+[14C016]
+...And you are?...
+
+[14C032]
+That's not important... What matters is that I'm here to help you...
+
+[14C064]
+Come! Close your eyes and feel the boundless wonder of the Wind Ride art...
+={>130}Yes{>169}No
+
+[14C0C0]
+Huh! How did we get here...
+
+[14C0E0]
+Ah! The old man is gone...
+
+[14C0FA]
+Maybe an immortal helped us!
+
+[14C114]
+No! Help!
+
+[14C126]
+Quick, let's see who's crying for help.
+
+[14C140]
+The voice came from the village ahead.
+
+[14C160]
+Look! The sun and moon are both in the western sky!
+
+[14C188]
+The second omen: sun and moon shine together in the west.
+
+[14C1A8]
+Is all this real?... Why is everything changing?
+
+[14C1DA]
+Sorry, I just remembered something I haven't finished. Thanks for your kindness. I'll come for your help next time!
+
+[14C224]
+Very well. Fate decides all, and nothing can be forced. Next time, then!
+
+[14CB1E]
+The night the meteor fell, the ground split before the old house! A stone tablet appeared, inscribed with words about evil...
+={>130}Ask{>169}Leave
+
+[14CBA2]
+What do you want to ask, child?
+={>13}Shangguan Village
+={>13}The tablet
+={>13}Evil{>169}Leave
+
+[14CBF2]
+About Shangguan Village...?
+={>13}The old house
+={>13}Blood meteor
+={>169}Leave
+
+[14CC38]
+Shangguan Village has bred many scholars and laureates. It's famous for it! Go see our ancestral house!
+={>130}More{>169}Leave
+
+[14CCA4]
+That tablet looks like an antique!... But appearing on the night of the blood meteor, it's surely an ill omen!
+
+[14CCF2]
+The tablet seems to say things like "heaven changes" and "evil". I don't remember exactly.
+
+[14CD34]
+Our ancestral house is hundreds of years old! It stands for Shangguan Village's glorious past.
+
+[14CD78]
+Have you heard the saying, "When heaven is about to fall, its signs fade"?... Sigh!...
+
+[14CDBC]
+Looking for Shangguan Ming? He lives next to the old house, but he seems to be away on business. No telling when he'll be back.
+
+[14CE0E]
+The village elder and our old scholar will be coming to study the tablet shortly.
+
+[14CE52]
+About Shangguan Village...?
+={>13}The old house
+={>13}Shangguan Ming
+={>169}Leave
+
+[14CE98]
+I'm a sheep. I can't talk, and I don't answer questions.
+
+[14CEC0]
+Please don't talk to the sheep.
+
+[14CED4]
+How terrible! I must emigrate at once!... But where could I go?...
+
+[14CF0E]
+Why'd you poke me?
+={>130}Ask{>169}Leave
+
+[14CF3C]
+Shangguan Village is full of stuffy old fogeys stuck in the past...
+={>130}More{>169}Leave
+
+[14CF90]
+That tablet looks so old and dirty... It has strange ancient writing, and odd pictures carved on it too!
+
+[14CFD8]
+The picture looks evil! Human but not human, utterly ghastly, with some weird thing behind it... Creepy!
+
+[14D03C]
+All Shangguan Village has left to be proud of is what's in that house. And if the young ones don't work hard, we're done for sooner or later.
+
+[14D094]
+You know what? When the blood meteor appeared, the old scholar went pale! I think big trouble is coming!
+
+[14D0E2]
+Shangguan Ming? I think he's away on business. He's gone half the time. Hard to catch...
+
+[14D128]
+...Tell me, where should I emigrate? Hee hee hee! Heh heh heh, nowhere is safe... Hee hee hee... Heh heh heh...
+
+[14D188]
+Look! They say that fool next door is half mad with fright... Sigh! Scholars are good for nothing...
+
+[14D1CC]
+Oh! Are you here to see the tablet too? They say it's scared lots of people, but I suspect it's a stunt to boost tourism!
+={>130}Ask{>169}Leave
+
+[14D248]
+Ask away!
+={>13}Shangguan Village
+={>13}The tablet
+={>13}Evil{>169}Leave
+
+[14D284]
+Sorry, I'm a stranger here like you. I only arrived two days ago. I'm staying at the inn in the south of the village!
+={>130}More{>169}Leave
+
+[14D2F6]
+They say only half the tablet is showing, but no one dares dig out the rest to see what it says.
+
+[14D340]
+I'm not sure. Those who've seen it say it tells of the birth of an evil power... and that it gives off an evil aura!
+
+[14D39C]
+It's the big house at the end of the square. But villagers are guarding it now. You'll have to wait until the elder has examined it.
+
+[14D3EE]
+I was asleep that night! Sorry.
+
+[14D408]
+Sorry, who are you asking about?... I don't know them!
+
+[14D434]
+I still think it's all just a prank.
+
+[14D45A]
+Quit pushing! Never seen a rock before? Our village's trouble is just a show for you outsiders!... Shoo, shoo, get back!
+
+[14D4B8]
+Push, push! What're you pushing for? Milking a cow?!
+
+[14D4DC]
+Excuse me! Excuse me! Coming through...
+
+[14D4FA]
+=When heaven turns, five woes appear;
+=The Son of Evil rises northwest;
+=Red dragon fire falls from the sky,
+=Then the road to hell has no return.
+
+[14D538]
+Huh?... I think I've seen this in a dream...
+
+[14D564]
+What did you say? You dreamed of this thing?
+
+[14D58A]
+Shh... Let's feel what kind of stone this tablet is made of!
+
+[14D5B8]
+Ah! There's more writing at the bottom...
+
+[14D5D8]
+=To end this calamity there is but
+=the Mani Heart of Sun and Moon.
+
+[14D5FA]
+"Mani Heart of Sun and Moon"?!... What's that?
+
+[14D628]
+Something's wrong with all this! It's uncanny. Wrong! Wrong!...
+
+[14D668]
+Who cares! Let's write it down first.
+
+[14D684]
+Shen Hao copies the tablet onto paper.
+
+[14D69C]
+The elder is coming! The elder is coming!
+
+[14D6B2]
+I'm just an extra with a walk-on part. I'm no help to the plot at all.
+
+[14D6F2]
+Here to see the commotion too?
+
+[14D70A]
+With this tablet, Shangguan Village will soon be a tourist hot spot.
+
+[14D73A]
+Welcome, travelers. I'm the village elder. Strange tablet, isn't it? Look, but don't touch! Come have tea at my house sometime!
+
+[14D798]
+Young man, you look just like my husband did when he was young, ho ho ho! Sigh... That was long ago... In those days... my dear husband... Sigh!...
+
+[14D808]
+From what I can see, this tablet appeared at a very bad time. Could it be... perhaps... Anyway, I must go back and look into it.
+
+[14D860]
+Villagers, please don't touch the tablet. Once the scholar and I have studied it, we'll tell everyone the results. Come back for the village meeting!
+
+[14D8C6]
+Scholar Li, let's go!
+
+[14D8DC]
+Waah~ What demon is that?
+
+[14D8F6]
+You're not from here, are you? What do you want?
+={>130}Ask{>169}Leave
+
+[14D934]
+What do you want to know?
+={>13}The tablet
+={>13}The old house
+={>13}The elder{>169}Leave
+
+[14D972]
+I can't make out what it says. I think only the scholar at the end of the village can read it!
+
+[14D9AA]
+The old house usually opens only on holidays. If you want to see it, find the elder. He has the key.
+
+[14D9F6]
+You remember the elder from earlier, right? His house is just past the armor shop. The tablet has been giving them all a headache.
+
+[14DA56]
+Child, don't wander around outside in times like these. Do your parents know where you are? Hurry home!
+
+[14DA9C]
+The elder said not to touch it, and you did anyway! Such an evil thing... Luckily the demon was weak, or we'd be done for.
+={>130}Ask{>169}Leave
+
+[14DB1E]
+You beat the demon, so ask what you like!
+={>13}The tablet
+={>13}The old house
+={>13}The elder{>169}Leave
+
+[14DB6C]
+Something that hides demons must be bad news. Its evil aura is frightening. No wonder someone went mad. Young man, life is short. Don't always rush to the front.
+
+[14DBEA]
+The old house holds the ancestral tablets and relics of Shangguan Village. It's usually closed to the public.
+
+[14DC24]
+The elder was once an imperial guard! He slew a nine-headed dragon outside the Forbidden City. They call him "Dragonslayer", a master of the blade.
+
+[14DCA8]
+The world is perilous and full of trouble. Best not to touch evil things like that tablet again.
+
+[14DCEC]
+Maybe you need a key.
+
+[14DCFF]
+No one home. Please leave.
+
+[14DD0E]
+Hey! Wait for me...
+
+[14DD24]
+All right, let's go!
+
+[14DD38]
+He dropped something...
+
+[14DFCA]
+This is the ancestral hall of Shangguan Village. Feel free to look around.
+
+[14DFFC]
+Sorry, something's come up. Look around on your own. I can't show you around. But please don't touch anything in here.
+
+[14E04C]
+Ancestral tablets of Shangguan Village.
+
+[14E060]
+Tablet of Shangguan Jinhong, Second Laureate.
+
+[14E076]
+Tablet of Shangguan Shiliu, Third Laureate.
+
+[14E08C]
+Tablet of Shangguan Yu, Third Laureate.
+
+[14E0A2]
+Tablet of Shangguan Wen, Graduate.
+
+[14E0B8]
+Tablet of Shangguan Ren, Scholar.
+
+[14E0CE]
+Tablet of Shangguan Zhi, Scholar.
+
+[14E0E4]
+A line of tiny words is carved on the bookshelf.
+
+[14E0FA]
+Of the Four Books, read the Analects first, then Mencius, then the Great Learning, and the Doctrine of the Mean last. Only then can you reach greatness.
+
+[14E146]
+In books you'll find a fair maiden and a house of gold. Descendants, think hard! Think hard! You will be rewarded.
+
+[14E188]
+Food, clothes, home, school, children: all cost money. Your parents raised you at great cost. Study hard, earn rank, and don't waste time on video games.
+
+[14E20C]
+Ah! The fruit has gone bad. It's not edible.
+
+[14E22C]
+This fruit doesn't look very fresh. Are you sure you want to eat it?
+={>130}Yes{>169}No
+
+[14E274]
+Ugh! What a terrible stomachache.
+
+[14E290]
+...But I'm a little hungry...
+
+[14E2B2]
+The Great Learning
+
+[14E2B8]
+Family Instructions of the Yan Clan
+
+[14E2C2]
+Laozi
+
+[14E2C8]
+The Book of Changes
+
+[14E2CE]
+Mencius
+
+[14E2D4]
+The Songs of Chu
+
+[14E2DA]
+The Analects
+
+[14E2E0]
+Zhuangzi
+
+[14E2E6]
+The Luo River Writing
+
+[14E2EC]
+The Doctrine of the Mean
+
+[14E2F2]
+The Book of Songs
+
+[14E2F8]
+Mozi
+
+[14E2FE]
+Elder, elder... That... that...
+
+[14E328]
+The Plum in the Golden Vase
+
+[14E65A]
+Since the night of the blood meteor, all the stars have vanished.
+={>130}Ask{>169}Leave
+
+[14E6A2]
+Is there anything I can do for you?
+={>13}Blood meteor
+={>13}The tablet
+={>13}Shangguan Village{>169}Leave
+
+[14E6E8]
+About the tablet...
+={>13}The Son of Evil
+={>13}Mani Heart
+={>169}Leave
+
+[14E738]
+Scholar Li says the blood meteor is a terrible omen. Within a hundred days five ill omens will appear, and then hell on earth begins! Sigh, is this the end of the world?
+
+[14E7B2]
+The tablet broke out of the ground in front of our ancestral house. Sigh... Is it an omen that the Shangguan clan will perish?
+
+[14E802]
+Even Shangguan Village's fine culture is being eaten away by decadence... Things aren't what they used to be!
+
+[14E846]
+Scholar Li says he's heard of the "Son of Evil" somewhere, but he can't remember where.
+
+[14E892]
+I don't know about that. Ask Scholar Li.

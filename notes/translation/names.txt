@@ -1,0 +1,363 @@
+# zh = en, applied to every list entry with that Chinese text (per list). Lines: list|zh|en
+misc|銅錢 |coins
+characters|芙戎|Furong
+characters|彩衣女|Caiyi
+characters|洪元通|Hong Yuantong
+characters|丘道人|Taoist Qiu
+characters|呼爾穆珠|Hurmuzhu
+characters|無名|Wuming
+items|當歸|Angelica
+items|人蔘|Ginseng
+items|靈芝|Lingzhi
+items|運功散|Qi Powder
+items|歸元丹|Origin Pill
+items|大力丸|Might Pill
+items|妙香丸|Scent Pill
+items|大還丹|Elixir
+items|三昧丹|Zen Pill
+items|雲母芝|Mica Cap
+items|龍仙芝|Drake Cap
+items|復活草|Life Herb
+items|幸運草|Clover
+items|黃蓮|Goldthread
+items|玄冰丸|Ice Pill
+items|金剛粉|Vajra Dust
+items|光明砂|Light Sand
+items|透骨菌|Bone Mold
+items|孔雀膽|Peacock
+items|曼陀羅花|Datura
+items|雄黃|Realgar
+items|天雷符|Bolt Tag
+items|烈火符|Fire Tag
+items|冥鬼符|Ghost Tag
+items|赤伏符|Red Tag
+items|咒禁符|Seal Tag
+items|飛石符|Stone Tag
+items|天師符|Master Tag
+items|綠色宝珠|Green Orb
+items|藍色宝珠|Blue Orb
+items|黃色宝珠|Yellow Orb
+items|白色宝珠|White Orb
+items|紅色宝珠|Red Orb
+items|古玉|Old Jade
+items|地聽|Earth Ear
+items|虎符|Tiger Tally
+items|金釵|Hairpin
+items|鑰匙|Key
+items|壁飾碎片|Mural Bit
+items|鑰匙Ａ|Key A
+items|鑰匙Ｂ|Key B
+items|鑰匙Ｃ|Key C
+items|鑰匙Ｄ|Key D
+items|鑰匙Ｅ|Key E
+items|鑰匙Ｆ|Key F
+items|鑰匙Ｇ|Key G
+items|鑰匙Ｈ|Key H
+items|鑰匙Ｉ|Key I
+items|鑰匙Ｊ|Key J
+items|鑰匙Ｋ|Key K
+items|鑰匙Ｌ|Key L
+items|鑰匙Ｍ|Key M
+items|鑰匙Ｎ|Key N
+items|鑰匙Ｏ|Key O
+items|鑰匙Ｐ|Key P
+items|鑰匙Ｑ|Key Q
+items|水晶球|Crystal
+items|辟邪丹|Ward Pill
+items|耳塞|Earplugs
+items|小銅盒|Copper Box
+items|紙條|Note
+items|一幅画|Painting
+items|敦煌画冊|Art Album
+items|繩子|Rope
+items|渾沌羅盤|Chaos Dial
+weapons|古劍|Old Sword
+weapons|天劍|Sky Sword
+weapons|短劍|Shortsword
+weapons|鉄劍|Iron Sword
+weapons|銅劍|Brass Swd
+weapons|金魚劍|Carp Sword
+weapons|欲劍|Lust Sword
+weapons|雙手劍|Greatsword
+weapons|雌雄劍|Twinblades
+weapons|桃木劍|Peach Swd
+weapons|天蓬劍|Tianpeng
+weapons|追風劍|Gale Sword
+weapons|月刀|Moon Blade
+weapons|短刀|Knife
+weapons|鉄刀|Iron Blade
+weapons|銅刀|Brass Edge
+weapons|燄刀|Flame Edge
+weapons|冥刀|Hell Blade
+weapons|朴刀|Pudao
+weapons|虎刀|Tiger Blade
+weapons|子午刀|Noon Blade
+weapons|木棍|Wood Staff
+weapons|鉄棍|Iron Staff
+weapons|銅棍|Brass Rod
+weapons|虎門棍|Tiger Rod
+weapons|靈蛇棍|Snake Rod
+weapons|白龍棍|Dragon Rod
+weapons|短槍|Javelin
+weapons|鉄槍|Iron Spear
+weapons|大槍|Long Spear
+weapons|雙頭槍|Twin Spear
+weapons|銀枴槍|Silver Pike
+weapons|鳳爪槍|Claw Spear
+weapons|手斧|Hand Axe
+weapons|鉄斧|Iron Axe
+weapons|銅斧|Brass Axe
+weapons|雙手斧|Great Axe
+weapons|巨斧|Giant Axe
+weapons|皇天斧|Sky Axe
+weapons|竹弓|Reed Bow
+weapons|皮弓|Hide Bow
+weapons|弩箭|Crossbow
+weapons|大鉄弓|Iron Bow
+weapons|関雲弓|Cloud Bow
+weapons|伏遠弩|Longshot
+armour|草帽|Straw Hat
+armour|布帽|Cloth Cap
+armour|皮帽|Hide Cap
+armour|上清帽|Taoist Cap
+armour|鉄頭盔|Iron Helm
+armour|青銅盔|Brass Helm
+armour|千人盔|Legion Helm
+armour|白鳥盔|Crane Helm
+armour|朝陽盔|Sun Helm
+armour|紫星盔|Star Helm
+armour|功夫裝|Kung Fu Gi
+armour|麻衣|Hemp Robe
+armour|羽衣|Plume Robe
+armour|籐甲|Cane Mail
+armour|皮甲|Hide Mail
+armour|鉄甲|Iron Mail
+armour|銅甲|Brass Mail
+armour|鎖子甲|Chain Mail
+armour|金鋼甲|Vajra Mail
+armour|明光甲|Bright Mail
+armour|青龍甲|Drake Mail
+armour|金蠶甲|Silk Mail
+armour|木盾|Wood Shield
+armour|皮盾|Hide Shield
+armour|鉄盾|Iron Shield
+armour|銅盾|Brass Shld
+armour|火雷盾|Fire Shield
+armour|白虎盾|Tiger Shield
+armour|雲氣盾|Cloud Shld
+armour|月光盾|Moon Shield
+armour|布手套|Cloth Glove
+armour|皮護手|Hide Glove
+armour|爪護手|Claw Glove
+armour|鉄護手|Iron Glove
+armour|青羅護手|Silk Glove
+armour|元陽護手|Yang Glove
+armour|白雲護手|Cloud Mitt
+armour|草鞋|Sandals
+armour|功夫鞋|Slippers
+armour|皮靴|Hide Boots
+armour|官靴|Court Boot
+armour|鉄尖鞋|Spike Shoes
+armour|策馬靴|Rider Boots
+armour|飛登靴|Leap Boots
+armour|游蹤鞋|Roam Shoes
+armour|羽化靴|Wing Boots
+skills|五行拳譜|Five Fists
+skills|天眼術法|Third Eye
+skills|封剋術法|Seal
+skills|金鋼手譜|Vajra Palm
+skills|迷眼術法|Dazzle
+skills|大悲拳譜|Mercy Fist
+skills|萬宗拳譜|Myriad Fist
+skills|魔衣術法|Demon Robe
+skills|流星劍譜|Meteor Cut
+skills|六合劍譜|Six Unions
+skills|興番術法|Rally
+skills|龍形劍譜|Drake Cut
+skills|天宗劍譜|Sky Cut
+skills|蠶蝕術法|Erode
+skills|八卦刀譜|Bagua Cut
+skills|盜魂術法|Soul Theft
+skills|幽靈刀譜|Ghost Cut
+skills|夜戰刀譜|Night Cut
+skills|游龍刀譜|Wyrm Cut
+skills|催眠術法|Hypnosis
+skills|八仙棍譜|Sage Staff
+skills|風火棍譜|Blaze Rod
+skills|伏虎棍譜|Tigerbane
+skills|慢影術法|Slow
+skills|十字槍譜|Cross Pike
+skills|轉化術法|Transmute
+skills|断門槍譜|Gatesplit
+skills|龍行槍譜|Drake Pike
+skills|渾元功法|Primal Qi
+skills|風雷斧譜|Storm Axe
+skills|霸王斧譜|Overlord
+skills|奪命斧譜|Reaper Axe
+skills|太極心法|Taiji
+skills|穿楊箭譜|Sharpshot
+skills|連環箭譜|Chain Shot
+skills|射日箭譜|Sunshot
+skills|七星功法|7 Stars
+spells|飛石術法|Stone Shot
+spells|形意功法|Xingyi
+spells|三昧火法|Zen Fire
+spells|水龍術法|Hydra
+spells|蜈蚣術法|Centipede
+spells|冥鬼術法|Ghost Call
+spells|天雷術法|Thunder
+spells|滑步功法|Glide Step
+spells|落魂術法|Soul Fall
+spells|游龍步法|Drake Step
+spells|御劍術法|Sky Blade
+spells|天師術法|Exorcism
+spells|天絕陣法|Sky Array
+spells|地烈陣法|Rock Array
+spells|寒冰陣法|Ice Array
+spells|風吼術法|Wind Howl
+spells|元神術法|Spirit Ward
+spells|導氣術法|Qi Flow
+spells|大悲咒法|Mercy Song
+spells|藥王咒法|Heal Song
+spells|護身咒法|Ward Song
+spells|迴風術法|Whirlwind
+spells|霞光術法|Aurora
+spells|白鳥術法|Crane
+spells|幻化術法|Illusion
+spells|迷蹤術法|Vanish
+enemies|鳳眼蟲|Phoenix Bug
+enemies|惡霸|Bully
+enemies|強盜|Bandit
+enemies|亡命之徒|Desperado
+enemies|浪人|Vagrant
+enemies|乞丐|Beggar
+enemies|道士|Taoist
+enemies|李員外|Squire Li
+enemies|穿山鼠|Burrow Rat
+enemies|長角牛|Longhorn
+enemies|巨牙虎|Sabertooth
+enemies|扇耳兔|Fan-Ear Hare
+enemies|三足蛇|Tripod Snake
+enemies|大嘴鳳|Bigbeak
+enemies|雙面猴|Two-Faced Ape
+enemies|龍蟋蜴|Dragon Lizard
+enemies|巨眼獸|Big-Eye Beast
+enemies|長袖善舞|Sleeve Dancer
+enemies|鬼鼓男|Ghost Drummer
+enemies|舞鞭人|Whip Dancer
+enemies|玩火者|Fire Juggler
+enemies|耍珠人|Orb Juggler
+enemies|舞俑|Dancing Figure
+enemies|人馬魂|Centaur Spirit
+enemies|銅面鬼|Bronze Mask
+enemies|秦俑人|Terracotta
+enemies|貓面鬼|Cat-Face Ghost
+enemies|蛇首人身|Snakehead
+enemies|花妖|Flower Fiend
+enemies|羊刃|Yangren
+enemies|陀羅|Tuoluo
+enemies|天哭|Tianku
+enemies|天虛|Tianxu
+enemies|空亡|Kongwang
+enemies|喪門|Sangmen
+enemies|劫煞|Jiesha
+enemies|住持|Abbot
+enemies|大蟒蛇|Python
+enemies|黑姥姥|Granny Hei
+enemies|黑蜘蛛|Black Spider
+enemies|青姑|Sister Qing
+enemies|紅姑|Sister Hong
+enemies|黃姑|Sister Huang
+enemies|池怪|Pool Fiend
+enemies|山魅|Hill Wraith
+enemies|天煞|Tiansha
+enemies|洪元通|Hong Yuantong
+enemies|地魔|Earth Demon
+enemies|大魔王|Demon King
+enemies|樹妖|Tree Fiend
+enemies|小和尚|Young Monk
+enemies|家丁|Servant
+enemies|靈芝怪|Fungus Fiend
+enemies|石怪|Rock Fiend
+enemies|蛇王|Snake King
+enemies|風魔|Wind Demon
+enemies|毒海星|Toxic Starfish
+enemies|火童|Fire Imp
+enemies|雪怪|Yeti
+enemies|長牙蝠|Fang Bat
+enemies|仙人掌怪|Cactus Fiend
+enemies|勾魂使者|Soul Reaper
+enemies|左護法|Left Guardian
+enemies|右護法|Right Guardian
+enemies|？？？|???
+enemies|地煞|Disha
+enemies|丹魔|Elixir Demon
+enemies|魔女|Witch
+enemies|殿前侍舞|Hall Dancer
+places|牛家橋|Niujia Bridge
+places|白道口|Baidao Pass
+places|上官村|Shangguan Village
+places|清江城|Qingjiang City
+places|風陵渡|Fengling Ferry
+places|水城|Water City
+places|十里舖|Shilipu
+places|荷葉坪|Heyeping
+places|神池|Sacred Pool
+places|逍遙鎮|Xiaoyao Town
+places|托克托|Tuoketuo
+places|鉄辺城|Tiebian Castle
+places|老鹽池|Old Salt Lake
+places|月牙湖|Crescent Lake
+places|青銅峽|Bronze Gorge
+places|白崖|White Cliff
+places|鎖龍|Suolong
+places|不凍泉|Ice-Free Spring
+places|地底沙城|Sunken Sand City
+places|沈皓家|Shen Hao's House
+places|鄰家|Neighbor
+places|雜貨店|General Store
+places|方天弓家|Fang's House
+places|茶店|Teahouse
+places|古廟|Old Temple
+places|民舍|House
+places|古厝|Old House
+places|村長家|Elder's House
+places|學者家|Scholar's House
+places|武器防具店|Arms & Armor
+places|上官明家|Shangguan Ming's
+places|藥舖|Pharmacy
+places|葯舖|Pharmacy
+places|客棧|Inn
+places|酒館|Tavern
+places|防具店|Armor Shop
+places|武器藥舖|Arms & Medicine
+places|張看家|Zhang Kan's House
+places|明尊寺|Mingzun Temple
+places|李員外府|Squire Li's Manor
+places|敦煌公司|Dunhuang Company
+places|空屋|Empty House
+places|彩衣女家|Caiyi's House
+places|雜物間|Storeroom
+places|水城一|Water City 1
+places|水城三層|Water City 3F
+places|地底祕道|Secret Tunnel
+places|武器店|Weapon Shop
+places|丘道人家|Qiu's House
+places|織布者|Weaver
+places|火葯家|Powder Maker
+places|煉鉄者|Ironsmith
+places|呼爾穆珠家|Hurmuzhu's House
+places|製葯者|Apothecary
+places|民宅|House
+places|劉三家|Liu San's House
+places|白員外家|Squire Bai's House
+places|工寮|Work Shed
+places|老頭家|Old Man's House
+places|魔城|Demon Castle
+places|内殿|Inner Hall
+places|邪惡殿|Hall of Evil
+places|湖底聖城|Sunken Holy City
+places|鎖龍谷|Suolong Valley
+places|月牙湖底|Crescent Lakebed
+places|黑姥姥家|Granny Hei's House
+places|藍道人家|Taoist Lan's House

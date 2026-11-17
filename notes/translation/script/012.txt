@@ -1,0 +1,444 @@
+[15F3CC]
+There. From today the Transmute art is yours. In a crisis it turns your gold into life energy. It's a bit costly, but when your life is on the line, it's
+
+[15F450]
+quite handy.
+
+[15F472]
+What?... Fine, I'll just have to find another buyer.
+
+[15F4B6]
+What?... Looks like you're even poorer than me! Forget it, I'll find another buyer.
+
+[15F4FA]
+Heard this joke? "When the devil wants to visit a man but has no time, he sends wine in his place!"
+
+[15F55E]
+Welcome! A rest is 60 gold.
+={>130}Yes{>169}No
+
+[15F59A]
+Sorry! We're a small shop. No credit!
+
+[15F5BC]
+Learned Transmute.
+
+[15F864]
+Who are these people? Why are they so set on killing us?
+
+[15F896]
+I bet we're close to the enemy's lair! Why else would so many come after us?!
+
+[15F8D6]
+This place sure isn't friendly!
+
+[15F8EC]
+Shen Hao!
+
+[15F8F8]
+Huh? You know my name?
+
+[15F912]
+Yes. I've been looking for you a long time.
+
+[15F92C]
+Speak.
+={>13}Why look for me?
+={>13}Who are you?
+={>13}Attack{>169}Leave
+
+[15F96C]
+Ask.
+={>12}The Moon Blade
+={>12}The holy city
+={>13}Other{>169}Leave
+
+[15F9A4]
+Ask.
+={>13}The Hill Wraith
+={>13}His lair
+={>13}Other{>169}Leave
+
+[15F9DC]
+Someone asked me to come and help you.
+
+[15FA00]
+Who? Who sent you to help me?
+
+[15FA1A]
+You'll find out one day.
+
+[15FA32]
+I have no name. Just call me "Wuming", the nameless one. I'm here to tell you: "The Moon Blade lies in the holy city."
+
+[15FA78]
+Your enemy the Hill Wraith knows you've come! He's sent many demons after you!
+
+[15FAB6]
+You need the Moon Blade to defeat the Demon King. We must find it as soon as we can.
+
+[15FAEE]
+I don't know where the holy city is either. A white-haired old man told me those words. He said you'd know.
+
+[15FB3A]
+Ever since the Hill Wraith made his sacrifice, his power keeps growing! Sometimes he even defies the Demon King's orders behind his back!
+
+[15FB86]
+The Hill Wraith's lair is in a castle thirty miles south of here. Be very careful: it's full of traps!
+
+[15FBDE]
+Never underestimate the Hill Wraith! It will be a hard fight! Will you let me join your party?
+={>130}Yes{>169}No
+
+[15FC3E]
+Let's go.
+
+[15FC4E]
+Perhaps... it really is fate.
+
+[15FC72]
+Be careful, very careful, even with those closest to you.
+
+[15FCA8]
+Private property. Keep out.
+
+[15FFB2]
+You know what? Only two kinds of people fail: those who listen to nothing, and those who listen to everything!
+
+[160004]
+What do you want to hear? What you like, or the truth? "The truth" usually means "what you don't want to hear".
+
+[160058]
+All fortune and ruin rest on a single thought. Take that to heart and it will serve you all your life.
+
+[16009C]
+Remember the abbot who told you "changed by water"? Never forget it!
+
+[1600CC]
+How do you know that?
+
+[1600DE]
+Think it over!...
+
+[1600F4]
+Who is he?...
+
+[1601BE]
+Don't touch anything here.
+
+[1601DE]
+Private property. Keep out.
+
+[1601F4]
+Don't take what isn't yours.
+
+[160204]
+No stealing. Offenders will be handed to the magistrate.
+
+[160220]
+You saved my life, sir! If there's anything here you'd like, please take it!
+
+[160260]
+The cracks in the wall keep getting worse. I'd better get someone to fix it.
+
+[160298]
+Nothing here.
+
+[1602A6]
+Found an oilcloth bundle.
+
+[1602B8]
+={>6}Huh? Something's inside the wall?
+
+[1602DC]
+={>6}I don't know kung fu. It's yours, sir.
+
+[160300]
+Received the Blaze Rod manual.
+
+[160310]
+Sir, you'll face the Hill Wraith on this journey. Be well prepared!
+
+[16033E]
+In the oilcloth bundle: the Blaze Rod manual.
+
+[16042E]
+You shun the road to heaven and force your way through hell's gate! Blame your own bad luck!
+
+[160468]
+Look! It's the Hill Wraith's mark!
+
+[160482]
+Hmph! I wish I could fight him to the death right now!
+
+[16056A]
+My savior! I never thought I'd meet you here!
+
+[16058E]
+Sorry, you must have the wrong person!
+
+[1605AA]
+My name is Liu San. That day near Shilipu demons were chasing me. If you hadn't helped me, I'd be dead and gone!
+
+[1605FC]
+So you're the guy who ran off!
+
+[160620]
+Sorry! I was just too panicked. But afterward I felt so guilty for not thanking you in person for saving my life!
+
+[160670]
+Oh, you've come a long way. Come to my house and sit a while.
+={>130}Go{>169}Don't
+
+[1606BC]
+Please follow me.
+
+[1606CA]
+Oh?... All right. Another day, when you have time.
+
+[1606F8]
+Would you like to come sit at my place?
+={>130}Go{>169}Don't
+
+[16072E]
+A while ago I was attacked near Shilipu, and nobody came when I cried for help! Sigh! The world's going downhill, people have no heart!
+
+[160786]
+Are people really getting colder and colder?
+
+[1607A0]
+"Silkworm nibbles, whale gulps": that's my treasure art. It drains the enemy's energy unseen. Interested? I'm only asking 500 gold,
+
+[160824]
+that's all.
+={>130}Yes{>169}No
+
+[16084C]
+There. The rest is up to you.
+
+[16086C]
+Come back when you have the money.
+
+[160882]
+All right, forget it.
+
+[160896]
+Learned Erode.
+
+[1608A4]
+I'll go home first and tidy up...
+
+[160AD8]
+Ah!...
+
+[160AE6]
+Shen Hao! What's wrong?
+
+[160AFC]
+...Did you have a nightmare?...
+
+[160B16]
+...I dreamed... however far I reached out, no one would take my hand... I kept calling, but no one answered... They all sneered at me and called me the Son of Evil...
+
+[160B8E]
+...It was just a dream!...
+
+[160BAA]
+...If one day I really become an inhuman Son of Evil... will you still be my friends?
+
+[160BFA]
+Why! Why is this happening to me! Why me? Was I a mistake from the day I was born?!...
+
+[160C52]
+I hate weak, self-pitying people! They never get anything done!
+
+[160C86]
+...Just go for it! Stop thinking! Thinking only brings misery! Stand up and fight it!
+
+[160CCC]
+...I want to build a peaceful world... where no one bleeds or hurts each other anymore... Maybe I'm too naive...
+
+[160D28]
+Shen Hao! Prepare to die!
+
+[160D3A]
+This is too much! They chased us all the way here!
+
+[160D5C]
+A rest is 100 gold.
+={>130}Yes{>169}No
+
+[160D90]
+We're a small shop. No credit, sorry...
+
+[161026]
+Hill Wraith! Come out!
+
+[16103C]
+Heh heh! Ignorant whelp! Your life is as cheap as an ant's! Remember, if I hadn't spared you back then, you'd never have lived to this day!
+
+[16109C]
+Today I'll kill you and avenge my parents!
+
+[1610C2]
+Insolent brat! If you want to die so badly, come in!
+
+[1610E2]
+...Hmm, not bad!
+
+[1610F4]
+Child, you're much stronger than I thought. Very good. But stop this useless struggle! In my eyes, however much you train, you're no match for my little finger! Heh heh heh...
+
+[161172]
+...Who is that?... Why is he so terrifying?
+
+[16138C]
+Kid! Let the game of death begin! Heh heh heh!
+
+[1613B0]
+You need a key to open the door.
+
+[1613C4]
+You see a keyhole.
+
+[1613D8]
+The door is locked! It won't open...
+
+[1613F2]
+...There seems to be something under the chair...
+
+[16140E]
+You see a keyhole...
+
+[161426]
+You need Key M.
+
+[16205E]
+Not bad, kid! I see it was a mistake not to kill you with one blow back then!
+
+[162095]
+It's too late for regrets now!
+
+[1620B2]
+Hmph! Little thief! You think I'm really afraid of you?!
+
+[1620D5]
+Today I'll kill you and offer your blood to my parents! Look what you did to my family! Why?! What did the Shens ever do to you?!
+
+[162136]
+Why? Hmph! Because your mother wouldn't love me!... I loved her so much!...
+
+[162175]
+My parents loved each other deeply!
+
+[16218C]
+Shut up!... How could she not love me?... She couldn't... Do you know how deeply I loved her?!... Yet... she wouldn't look at me even as she died... I hate it! I hate it so!...
+
+[16220B]
+And I didn't kill your father. You did! He died getting the Mani Jewel for you! You killed him! You!
+
+[162266]
+...Liar! Liar!
+
+[16227D]
+You know it well! If not for you, your father wouldn't have died... If only you'd never been born!... They died because of you!... Someday you'll become an evil
+
+[162302]
+demon and kill many, many more!...
+
+[162323]
+...Lies!
+
+[162334]
+...Heh heh! Believe what you like!... I'm dying! What a pity I won't see your coronation, heh... heh...
+
+[162379]
+...He croaked!
+
+[16238A]
+Shen Hao! Don't believe a word he said! It's not your fault!
+
+[1623BB]
+Scum like that deserve to die a thousand times! Death is too good for them!
+
+[1623FE]
+Sigh... Love that burns too fiercely can sometimes become a deadly weapon...
+
+[162433]
+Shen Hao! Shen Hao!...
+
+[162448]
+...Am I... really cursed?
+
+[162BE6]
+...Let me sing you a song...
+=Spring's willows green, autumn's mums gold;
+=glory is a midnight dream, wealth is frost;
+=age and death, none can bear them for you.
+
+[162C5C]
+=The tightest bow breaks first, the sharpest
+=blade is soonest dulled; trouble comes from
+=idle tongues, and sin from a cruel heart.
+
+[162C9C]
+=Scheme all your life; in death your hands
+=are empty. Joy, grief, meeting, parting:
+=a hundred years are but one play.
+
+[162CDC]
+Kid! You've got patience for an old beggar's songs! I haven't sung so happily in years! Here's "Soul Theft", from some odd foreigner. It moves the enemy's strength
+
+[162D60]
+into yourself! It's no use to this old beggar anymore. It's yours!
+
+[162D8E]
+There used to be a salt lake here, and we all lived by drying salt. But the weather's gone strange, the lake has dried up, and everyone's leaving to find work elsewhere.
+
+[162E06]
+Is there anything I can help you with?
+={>13}Old Salt Lake
+={>13}The area
+={>13}The holy city{>169}Leave
+
+[162E52]
+Only a few workers and a grandfather and grandchild are left. Sooner or later everyone will leave. What can you do if you can't make a living?
+
+[162EA6]
+Not far south of the village is Crescent Lake. It's beautiful there. You should go see it!
+
+[162EE6]
+What?!... "Holy city"?! I've been here over ten years and never seen or heard of any such thing! There's nothing here but yellow dirt! I think you've got the wrong place!
+
+[162F5E]
+This place will be abandoned sooner or later...
+
+[162F78]
+After over ten years, you can't say I don't care for it... But what can I do... I need to eat!
+
+[162FB6]
+This old beggar has nothing to give you! Don't tell me you want my ragged bedroll too!
+
+[162FEA]
+Learned Soul Theft.
+
+[162FF8]
+Careful! Don't get too close to that well! I nearly fell in once! It's dry, but be careful anyway!
+
+[163046]
+That well is very deep. Fall in and you're finished. Don't get too close!
+
+[163074]
+Careful, the stones around the well are loose. One slip and it could collapse, so never lean on the edge!
+
+[1630C6]
+Hey! Hey! Get away from there! It's dangerous! A well that deep, fall in and you're done for!
+
+[163106]
+...Help... sob...
+
+[16311E]
+Someone's calling for help?!
+
+[163132]
+Maybe we heard wrong?
