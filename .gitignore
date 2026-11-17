@@ -12,3 +12,5 @@ notes/script_zh.txt
 notes/strings_zh.json
 notes/ui_strings_zh.json
 Screenshot*
+!screenshots/
+!screenshots/*.png

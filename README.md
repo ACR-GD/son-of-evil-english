@@ -11,6 +11,15 @@ No ROM is included. You need your own dump of the game; the tools rebuild everyt
 from it. The tracing harness in `tools/harness/` builds against the Super A'Can emulator
 checked out next to this repository (`../emulator`).
 
+## Screenshots
+
+<p>
+<img src="screenshots/1.png" width="400" alt="Intro caption: As the five woes fill the sky">
+<img src="screenshots/2.png" width="400" alt="Title logo">
+<img src="screenshots/3.png" width="400" alt="Dialogue: an urgent letter for Zhang Kan">
+<img src="screenshots/4.png" width="400" alt="Dialogue: carry the Lucky Jewel">
+</p>
+
 ## Workflow
 
 ```bash
