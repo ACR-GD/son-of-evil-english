@@ -79,3 +79,9 @@ fails on line-count problems; `--strict` also fails on over-wide lines.
   screenshots, RAM/VRAM dumps, save states), used to reverse-engineer the text engine
 - `tools/glyph_ocr/` how `notes/glyph_table.json` was made (OCR + Zhuyin-order check +
   manual review)
+
+
+## License
+
+The tools, translation and patch are MIT-licensed (see `LICENSE`). The game itself is not
+included; you need your own dump.
